@@ -1,0 +1,6 @@
+- [x] Install `firebase-admin` dependency and update `package.json`
+- [x] Create `vercel.json` configuration file
+- [x] Update `.env` file with Firebase credentials structure
+- [x] Refactor `server.js` to connect to Firebase Firestore and rewrite `users` and `sessions` interfaces
+- [x] Run `npm install` and check for any syntax/compilation issues
+- [x] Verify server startup and route protection locally

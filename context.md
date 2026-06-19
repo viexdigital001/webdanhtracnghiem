@@ -1,0 +1,1368 @@
+CÂU HỎI TRẮC NGHIỆM KIỂM TRA CHỨC DANH TRƯỞNG KÍP TRẠM ĐIỆN
+(Đã hiệu chỉnh theo Thông tư 05 & 06)
+Câu 1:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thời gian đào tạo Điều độ viên miền:
+A. ít nhất 06 tháng.
+B. ít nhất 12 tháng.
+C. ít nhất 18 tháng.
+D. ít nhất 24 tháng.
+Câu 2:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phiếu thao tác không được hủy trong trường hợp nào?
+A. Thao tác có xảy ra sự cố hoặc tai nạn
+B. Thao tác đóng điện công trình mới
+C. Thao tác xử lý sự cố
+D. Không quy định
+Câu 3:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Sau khi thao tác máy cắt, nếu sau đó có thao tác tại chỗ dao cách ly hai phía của máy cắt, nhân viên vận hành phải:
+A. Kiểm tra trạng thái máy cắt theo chỉ thị của tín hiệu và thông số đo lường tại phòng điều khiển và khoá mạch điều khiển của máy cắt
+B. Kiểm tra chỉ thị tại chỗ trạng thái
+C. Kiểm tra chỉ thị tại chỗ trạng thái và khoá mạch điều khiển của máy cắt.
+D. A hoặc C đều đúng
+Câu 4:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), nhân viên vận hành cấp dưới trực tiếp của Điều độ viên miền là ai:
+A. Điều độ viên phân phối tỉnh
+B. Điều độ viên phân phối quận, huyện
+C. Nhân viên trực thao tác lưu động
+D. Cả 3 đáp án trên đều sai
+Câu 5:  Theo Thông tư 06/2025/TT-BCT, Đơn vị quản lý vận hành phải gửi Báo cáo sự cố cho Cấp điều độ có quyền điều khiển:
+A. Ngay sau khi xử lý xong sự cố.
+B. Trong vòng 24 giờ kể từ khi sự cố xảy ra.
+C. Trong vòng 48 giờ kể từ khi sự cố xảy ra.
+D. Không cần gửi báo cáo nếu đã báo cáo qua điện thoại thông qua trực ban vận hành.
+Câu 6:  Theo Thông tư 06/2025/TT-BCT, Cấp Điều độ Quốc gia có trách nhiệm:
+A. Lập Phương án khởi động đen và khôi phục hệ thống điện quốc gia có cấp điện áp từ 220kV
+B. Chỉ huy khởi động đen và khôi phục hệ thống điện có cấp điện áp 500kV
+C. Phê duyệt Phương án khởi động đen và khôi phục hệ thống điện miền có cấp điện áp 110kV
+D. Đáp án A, B, C
+Câu 7:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 75% trong bao lâu?
+A. 120 phút
+B. 80 phút
+C. 45 phút
+D. 20 phút
+Câu 8:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đường dây trên không vận hành ở chế độ đóng điện không tải từ một nguồn hoặc ở chế độ dự phòng cần thực hiện theo phương án nào
+A. Không cần phải mở dao cách ly để khi cần có thể đóng lại đường dây được ngay.
+B. Phải mở dao cách ly phía đường dây của các máy cắt đang ở trạng thái mở.
+C. Phải mở dao cách ly phía thanh cái của các máy cắt đang ở trạng thái mở.
+D. Phải mở dao cách ly cả 2 phía của các máy cắt đang ở trạng thái mở.
+Câu 9:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Người duyệt phiếu thao tác theo kế hoạch trong phạm vi 01 (một) trạm điện là?
+A. Trưởng, Phó trạm điện hoặc người được ủy quyền.
+B. Trưởng, Phó trạm điện hoặc Trưởng kíp, Trực chính.
+C. Trưởng kíp, Trực chính.
+D. Cả 3 phương án trên.
+Câu 10:  Theo Thông tư 06/2025/TT-BCT, Cô lập bảo vệ so lệch thanh cái khi có điều kiện nào?
+A. Bảo vệ so lệch thanh cái còn lại làm việc bình thường
+B. Đặt bảo vệ dự phòng sự cố thanh cái
+C. Cắt điện thanh cái này
+D. Phương án A hoặc B hoặc C
+Câu 11:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cho phép thao tác trong điều kiện thời tiết xấu theo phương án nào?
+A. Thực hiện thao tác ngoài trời khi có mưa tạo thành dòng chảy trên thiết bị điện
+B. Thực hiện thao tác ngoài trời có gió từ cấp 6 trở lên
+C. Thực hiện các thao tác trong nhà và không cần thiết phải kiểm tra ngay trạng thái tại chỗ của thiết bị đóng cắt
+D. Thực hiện thao tác ngoài trời khi sân trạm bị ngập lụt
+Câu 12:  Theo Thông tư 06/2025/TT-BCT, Tổ máy phát của nhà máy điện có tổng công suất đặt lớn hơn 30MW đấu nối lưới điện 220kV, 110kV thuộc quyền điều khiển của cấp điều độ nào trong trường hợp rã lưới:
+A. Cấp điều độ quốc gia.
+B. Cấp điều độ miền.
+C. Cấp điều độ quốc gia điều khiển công suất tác dụng, Cấp điều độ miền điều khiển công suất phản kháng.
+D. Không quy định
+Câu 13:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quan hệ giữa lãnh đaọ trực tiếp với nhân viên vận hành của mình:
+A. NVVH cấp dưới phải thực hiện theo lệnh của lãnh đạo trực tiếp của mình trong mọi tình huống
+B. Khi lệnh của lãnh đạo trực tiếp trái với lệnh điều độ của NVVH cấp trên, NVVH phải thực hiện theo lệnh của lãnh đạo trực tiếp trong trường hợp nguy hiểm đến tính mạng con người và an toàn thiết bị
+C. Lệnh của lãnh đạo trực tiếp không được trái với lệnh của nhận viên vận hành cấp trên và/hoặc quy chuẩn, quy trình, quy định hiện hành.
+D. B và C đúng
+Câu 14:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về điều khiển tần số sơ cấp
+A. Được thực hiện tự động bởi số lượng lớn các tổ máy phát điện có trang bị hệ thống điều tốc
+B. Được thực hiện thông qua tác động hệ thống AGC
+C. Được thực hiện bằng lệnh điều độ
+D. Cả 3 đáp án đều đúng
+Câu 15:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), sai số dự báo phụ tải ngày, chu kỳ giao dịch trong giới hạn:
+A. ± 4%
+B. ± 6 %
+C. ± 8%
+D. ± 10%
+Câu 16:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về lập phiếu thao tác là trách nhiệm của bộ phận nào tại cấp điều độ miền:
+A. Bộ phận phương thức dài hạn
+B. Bộ phận phương thức ngắn hạn
+C.Bộ phận trực ban chỉ huy điều độ miền
+D. Không quy định
+Câu 17:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng thời gian phiếu thao tác đột xuất phải được chuyển tới nhân viên vận hành trực tiếp thao tác trước thời gian dự kiến bắt đầu thao tác?
+A. 60 phút
+B. 45 phút
+C. 30 phút
+D. Không quy định
+Câu 18:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Ai có quyền cho phép thay đổi chế độ làm việc của mạch khóa liên động?
+A. Lãnh đạo trực tiếp đơn vị.
+B. Nhân viên vận hành cấp trên.
+C. Nhân viên vận hành.
+D. Lãnh đạo trực tiếp đơn vị hoặc nhân viên vận hành cấp trên.
+Câu 19:  Theo Thông tư 06/2025/TT-BCT, Nhân viên vận hành phải xử lý theo phương án nào nếu thanh cái bị mất điện?
+A. Kiểm tra thanh cái không có điện áp, cắt các máy cắt nối thanh cái nếu đang đóng
+B. Cắt toàn bộ máy cắt nối thanh cái bị mất điện
+C. Cắt toàn bộ dao cách ly nối thanh cái bị mất điện
+D. Báo cáo lãnh đạo trực tiếp
+Câu 20:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trường hợp nào sau đây không cần lập phiếu thao tác:
+A. Chỉ thực hiện 01 thao tác tại chỗ
+B. Thực hiện 04 bước thao tác từ cấp điều độ có quyền điều khiển
+C. Thực hiện 03 bước thao tác bằng điều khiển từ xa
+D. Đáp án B và C
+Câu 21:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Ghi tên Người giám sát trong phiếu thao tác do cấp điều độ miền lập phiếu thao tác đúng theo phương án nào
+A. Ghi họ và tên Điều độ viên phụ trách
+B. Ghi họ và tên Phó phòng Điều độ
+C. Ghi họ và tên Trưởng phòng Điều độ
+D. Ghi họ và tên Điều độ viên ra lệnh trực tiếp
+Câu 22:  Theo Thông tư 06/2025/TT-BCT, Đường dây 220kV phải tách ra khỏi vận hành khi thiếu rơ le bảo vệ trong trường hợp nào?
+A. Bảo vệ quá dòng thứ tự không có hướng
+B. Bảo vệ khoảng cách
+C. Bảo vệ còn lại không bảo đảm chống mọi dạng sự cố
+D. Bảo vệ cắt nhanh
+Câu 23:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về hệ số chạm đất của lưới điện truyền tải ở các cấp điện áp:
+A. Không vượt quá 1.4
+B. Không vượt quá 1.5
+C. Không vượt quá 1.6
+D. Không vượt quá 1.7
+Câu 24:  Theo Thông tư 06/2025/TT-BCT, Khi sự cố đường dây có cấp điện áp trên 35 kV đến 220 kV, cho phép đóng lại đường dây bao nhiêu lần?
+A. Không được phép đóng lại
+B. Không quá 01 lần, kể cả lần tự động đóng lại không thành công
+C. Không quá 02 lần, kể cả lần tự động đóng lại không thành công
+D. Không quá 03 lần, kể cả lần tự động đóng lại không thành công
+Câu 25:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phiếu thao tác đột xuất thực hiện trong phạm vi 01 (một) trạm điện do đơn vị quản lý vận hành viết, duyệt và được quy định cụ thể như sau ?
+A. Người viết phiếu là nhân viên vận hành trạm điện; Người duyệt phiếu là Trưởng kíp, Trực chính.
+B. Người viết phiếu là nhân viên vận hành trạm điện; Người duyệt phiếu là Trưởng, Phó trạm điện.
+C. Người viết phiếu là nhân viên vận hành trạm điện; Người duyệt phiếu là Trưởng, Phó trạm điện; Trưởng kíp, Trực chính.
+D. Cả 3 phương án trên
+Câu 26:  Theo Thông tư 05/2025/TT-BCT, Phương án nào hệ thống điện truyền tải vận hành ở chế độ cực kỳ khẩn cấp
+A. Dự phòng nguồn điện gần bằng không hợp ngăn ngừa sự cố phát triển rộng
+B. Mức mang tải của máy biến áp 220 kV là 110%
+C. Điện áp cao nhất trên lưới 500 kV là 545 kV
+D.Tần số hệ thống 50,6 Hz
+Câu 27:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Ý nào không đúng theo quy định yêu cầu máy cắt cần được đưa ra kiểm tra bảo dưỡng
+A. Cắt tổng dòng ngắn mạch đến mức quy định
+B. Số lần cắt ngắn mạch đến mức quy định
+C. Thời gian vận hành đến mức quy định
+D. Quá 1 năm không thao tác đóng mở MC
+Câu 28:  Theo Thông tư 06/2025/TT-BCT, Mẫu Báo cáo sự cố của Đơn vị quản lý vận hành gửi cấp điều độ có quyền điều khiển theo phương án nào
+A. Theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư trên
+B. Theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư trên
+C. Theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư trên
+D. Theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư trên
+Câu 29:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thẩm quyền cho phép máy cắt được cắt sự cố thêm khi vượt quá số lần quy định?
+A. Giám đốc hoặc phó giám đốc kỹ thuật đơn vị quản lý vận hành thiết bị.
+B.Cấp điều độ có quyền điều khiển thiết bị.
+C. Trưởng kíp trực vận hành thiết bị.
+D. Cấp điều độ có quyền kiểm tra thiết bị.
+Câu 30:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về thời gian phê duyệt và công bố trên Trang thông tin điện tử sơ đồ kết dây cơ bản của hệ thống điện
+A. Trước 20 tháng 08 hàng năm
+B. Trước 20 tháng 09 hàng năm
+C. Trước 20 tháng 10 hàng năm
+D. Trước 20 tháng 11 hàng năm
+Câu 31:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trong trường hợp có chạm đất mạch điều khiển máy cắt :
+A. Vẫn được phép thao tác máy cắt.
+B. Chỉ cho phép thao tác máy cắt khi xử lý sự cố.
+C. Chỉ cho phép thao tác máy cắt khi có sự cho phép của lãnh đạo trực tiếp.
+D. Cả A, B, C đều sai.
+Câu 32:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), Nội dung đăng ký phương thức vận hành:
+A. Dự báo phụ tải hệ thống điện thuộc quyền điều khiển
+B. Dự kiến kế hoạch bảo dưỡng, sửa chữa lưới điện thuộc quyền kiểm tra của điều độ cấp trên
+C.Dự kiến kế hoạch vào vận hành của các công trình điện mới thuộc quyền kiểm tra của điều độ cấp trên
+D.Cả 3 đáp án trên đều đúng
+Câu 33:  Theo Thông tư 06/2025/TT-BCT, Chế độ vận hành thiếu trang bị rơ le bảo vệ hoặc tự động phải được quy định cụ thể bởi?
+A. Cấp điều độ có quyền điều khiển.
+B. Cục Điều tiết điện lực.
+C. Đơn vị quản lý vận hành.
+D. Tập đoàn Điện lực Việt Nam
+Câu 34:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị quản lý vận hành có trách nhiệm thực hiện thao tác thử đóng cắt máy cắt, dao cách ly, chuyển nấc máy biến áp bằng điều khiển từ xa nếu thời gian không thao tác kéo dài quá?
+A. 03 tháng và không gây gián đoạn cung cấp điện cho khách hàng
+B. 06 tháng và không gây gián đoạn cung cấp điện cho khách hàng
+C. 12 tháng và không gây gián đoạn cung cấp điện cho khách hàng
+D. Không quy định
+Câu 35:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cho phép ủy quyền điều khiển theo phương án nào:
+A. Thay đổi chế độ vận hành của thiết bị điện không ảnh hưởng đến chế độ vận hành của hệ thống điện thuộc quyền điều khiển
+B. Cấp điều độ có quyền điều khiển ủy quyền cho điều độ cấp dưới hoặc Đơn vị quản lý vận hành
+C. Văn bản có sự xác nhận của hai bên về việc ủy quyền
+D. Phương án A, B, C
+Câu 36:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), ai là người cho phép thay đổi trị số chỉnh định rơ le bảo vệ và tự động hóa thiết bị điện :
+A. Trưởng kíp trạm điện
+B. Điều độ viên cấp điều độ có quyền điều khiển
+C. Kỹ sư phương thức được giao nhiệm vụ lập phiếu chỉnh định rơ le bảo vệ
+D. Lãnh đạo đơn vị quản lý vận hành
+Câu 37:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Điều kiện thời tiết nào không được thực hiện thao tác ngoài trời tại vị trí đặt thiết bị điện?
+A. Trời có mưa
+B. Sân trạm bị ngập
+C. Có gió mạnh
+D. Trời nắng gắt
+Câu 38:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trước khi đóng dao tiếp địa đường dây phải thực hiện theo phương án nào?
+A. Kiểm tra đường dây không còn điện áp, trạng thái tại chỗ máy cắt, dao cách ly hai đầu đường dây đã mở tốt 3 pha
+B. Kiểm tra điện áp đường dây qua TU đường dây gần bằng 0 kV
+C. Kiểm tra trạng thái tại chỗ máy cắt, dao cách ly đường dây đã mở tốt 3 pha
+D. Phương án B, C
+Câu 39:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thời gian quy định có mặt trước giờ giao nhận ca đối với nhân viên vận hành:
+A. ít nhất 15 phút
+B. ít nhất 10 phút
+C. ít nhất 5 phút
+D. có mặt đúng giờ
+Câu 40:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định đối với trường hợp khi phải cắt dao tiếp địa cố định mà vẫn có đội công tác trên đường dây?
+A. Phải đặt tiếp địa di động thay thế trước khi cắt các dao tiếp địa
+B. Phải đóng tiếp địa khác hoặc đặt tiếp địa di động thay thế trước khi cắt các dao tiếp địa
+C. Phải đóng tiếp địa khác hoặc đặt tiếp địa di động thay thế sau khi đã cắt các dao tiếp địa
+D. Phải đặt tiếp địa di động thay thế sau khi đã cắt các dao tiếp địa
+Câu 41:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về giới hạn điện áp:
+A. Giá trị điện áp lớn nhất cho phép thiết bị vận hành lâu dài theo quy định của nhà chế tạo
+B. Giá trị điện áp nhỏ nhất cho phép thiết bị vận hành lâu dài theo quy định của nhà chế tạo
+C. Cả 2 câu A và B đều đúng
+D. Cả 2 câu A và B đều sai
+Câu 42:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị nào có trách nhiệm lập phương án khởi động đen và khôi phục hệ thống điện quốc gia có cấp điện áp từ 220kV trở lên:
+A. Cấp điều độ quốc gia
+B. Cấp điều độ miền
+C. EVN
+D. Cục Điều tiết điện lực
+Câu 43:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 30% trong bao lâu?
+A. 120 phút
+B. 80 phút
+C. 45 phút
+D. 20 phút
+Câu 44:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị đề nghị thao tác trong phiếu thao tác tách đường dây, thiết bị điện ra sửa chữa do cấp điều độ quốc gia lập phiếu thao tác ghi đúng theo phương án nào
+A. Ghi tên cấp điều độ có quyền điều khiển đề nghị thao tác
+B. Ghi tên các đơn vị quản lý vận hành đăng ký công tác
+C. Ghi tên đơn vị công tác và cả đơn vị kết hợp công tác trên đường dây, thiết bị điện
+D. Ghi tên trạm điện, nhà máy điện đề nghị thao tác
+Câu 45:  Theo Thông tư 06/2025/TT-BCT, Trường hợp nào sau đây không được phép đóng lại:
+A. Sự cố đường cáp cấp 110kV
+B. Sự cố đường dây hỗn hợp cấp 220kV và tín hiệu rơle báo sự cố nằm ngoài phạm vi đường cáp
+C. Sự cố đường dây hỗn hợp cấp 110kV và đường cáp chỉ là đoạn ngắn của đường dây trên không
+D. Cả 3 đáp án trên
+Câu 46:  Theo Thông tư 06/2025/TT-BCT, Phương án nào không cho phép khôi phục ngay đường dây 220kV sau sự cố?
+A. Đang có công tác sửa chữa nóng trên đường dây
+B. Đường dây sự cố 1 pha và tự động đóng lại không thành công
+C. Đường dây sự cố 2 pha và tự động đóng lại không thành công
+D. Đường dây sự cố 3 pha và tự động đóng lại không thành công
+Câu 47:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định ghi số phiếu thao tác theo kế hoạch trong tháng tại cấp điều độ miền đúng theo phương án nào
+A. Số thứ tự phiếu thao tác kế hoạch trong năm / năm phát hành phiếu / KH / tên viết tắt của cấp điều độ miền
+B. Số thứ tự phiếu thao tác kế hoạch trong tháng / tháng phát hành phiếu / KH / tên viết tắt của cấp điều độ miền
+C. KH/ số thứ tự phiếu thao tác kế hoạch trong năm / năm phát hành phiếu / tên viết tắt của trung tâm điều độ miền
+D. Tên viết tắt của cấp điều độ miền / KH / số thứ tự phiếu thao tác kế hoạch trong năm / năm phát hành phiếu
+Câu 48:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng người ra lệnh không phải thông báo rõ họ tên mình và xác định rõ họ tên, chức danh người nhận lệnh
+A. Thao tác thay đổi công suất tổ máy để điều chỉnh tần số
+B. Thao tác thay đổi nấc máy biến áp để điều chỉnh điện áp
+C. Thao tác xa
+D. Không quy định
+Câu 49:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định đối với thao tác xa có kế hoạch liên quan đến giao nhận thiết bị?
+A. Đơn vị quản lý vận hành phải cử nhân viên vận hành tới trực tại trạm điện hoặc nhà máy điện trong thời gian thực hiện thao tác xa
+B. Đơn vị quản lý vận hành phải cử nhân viên vận hành tới trực tại trạm điện hoặc nhà máy điện trong thời gian thực hiện thao tác xa để thực hiện các biện pháp an toàn và giao nhận thiết bị
+C. Thao tác tại các Cấp điều độ, Trung tâm điều khiển và giao nhận thiết bị với trực ban của Đơn vị quản lý vận hành
+D. Thao tác tại các Cấp điều độ và giao nhận thiết bị với trực ban của Đơn vị quản lý vận hành
+Câu 50:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), nguyên tắc lập sơ đồ kết dây cơ bản trong hệ thống điện:
+A. Bảo đảm tính chọn lọc của rơ le bảo vệ
+B. Linh hoạt, thuận tiện trong thao tác xử lý sự cố
+C. bảo đảm dòng ngắn mạch không vượt quá giá trị cho phép đối với thiết bị đặt các nhà máy điện hoặc trạm điện
+D. Cả 3 đáp án trên đều đúng
+Câu 51:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), các mức dự báo phụ tải điện:
+A. Năm, tháng, tuần, ngày
+B. Tháng, tuần, ngày
+C.Tuần, ngày, chu kỳ giao dịch
+D. Năm, tháng, tuần, ngày, chu kỳ giao dịch
+Câu 52:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Người ra lệnh bao gồm những đối tượng nào
+A. Điều độ viên tại các cấp điều độ; Trưởng ca nhà máy điện; Trưởng kíp trạm điện; Trưởng ca nhà máy điện hoặc Trưởng kíp trạm điện của trung tâm điều khiển; Nhân viên trực thao tác lưu động
+B. Điều độ viên tại các cấp điều độ
+C. Điều độ viên tại các cấp điều độ; Trưởng ca nhà máy điện; Trưởng kíp trạm điện
+D. Nhân viên vận hành được giao nhiệm vụ tại các cấp điều độ, trạm điện, nhà máy điện hoặc trung tâm điều khiển.
+Câu 53:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), sai số dự báo phụ tải năm, tháng, tuần:
+A. ± 6%
+B. ± 8 %
+C. ± 10%
+D. ± 15%
+Câu 54:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trước khi đưa thiết bị hoặc đường dây vào vận hành sau sửa chữa thì nhân viên vận hành cần lưu ý điều kiện gì?
+A. Đơn vị quản lý vận hành phải khẳng định người và phương tiện đã rút hết.
+B. Đơn vị quản lý vận hành phải khẳng định các tiếp địa di động đã tháo hết.
+C. Đơn vị quản lý vận hành phải khẳng định chắc chắn các đơn vị công tác (người và phương tiện) đã rút hết, đã tháo hết tiếp địa di động, đã khoá tất cả các phiếu công tác; đường dây, thiết bị đủ tiêu chuẩn vận hành và sẵn sàng nhận điện.
+D. Đơn vị thi công phải khẳng định người và phương tiện đã rút hết
+Câu 55:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), đơn vị nào có trách nhiệm ban hành phiếu chỉnh định rơ le thuộc phạm vi lưới điện truyền tải của đơn vị truyền tải điện:
+A. Đơn vị truyền tải điện
+B. Đơn vị điều độ hệ thống điện
+C. Cấp điều độ có quyền điều khiển
+D. Không có đáp án đúng
+Câu 56:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác đóng điện thiết bị bù mới khác với thiết bị bù sau sửa chữa ở điểm nào?
+A. Dùng máy cắt và rơ le bảo vệ (nếu có) đã được chỉnh định để đóng điện thiết bị bù
+B. Điện áp phải được điều chỉnh phù hợp, đảm bảo không bị dao động điện áp quá giới hạn cho phép khi đóng điện
+C. Thiết bị bù được thí nghiệm đủ tiêu chuẩn vận hành
+D. Trình tự thao tác tương tự như nhau
+Câu 57:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), định nghĩa về hệ thống điện miền:
+A. là hệ thống điện có cấp điện áp đến 220kV và ranh giới phân chia theo miền Bắc, Trung, Nam
+B. là hệ thống điện có cấp điện áp đến 500kV và ranh giới phân chia theo miền Bắc, Trung, Nam
+C. là hệ thống điện có cấp điện áp đến 110kV và ranh giới phân chia theo miền Bắc, Trung, Nam
+D. Cả 3 câu trên đều đúng
+Câu 58:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trong các trường hợp sau, trường hợp nào tạm ngừng thao tác là không đúng?
+A. Thời gian thao tác kéo dài liên tục quá 04 giờ đối với người thao tác trực tiếp tại trạm điện hoặc nhà máy điện.
+B. Khi thao tác vào giờ cao điểm của hệ thống.
+C. Thao tác phải thực hiện ngoài trời trong điều kiện thời tiết xấu;
+D. Tạm ngừng thao tác cho tới khi xử lý xong sự cố, hiện tượng bất thường.
+Câu 59:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thời gian lưu trữ lệnh điều độ điện tử:
+A. ít nhất 2 năm
+B. ít nhất 3 năm
+C. ít nhất 4 năm
+D. ít nhất 5 năm
+Câu 60:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về dao động điện áp:
+A.là sự biến đổi biên độ điện áp so với điện áp danh định trong thời gian dài hơn 04 phút
+B. là sự biến đổi biên độ điện áp so với điện áp danh định trong thời gian dài hơn 03 phút
+C.là sự biến đổi biên độ điện áp so với điện áp danh định trong thời gian dài hơn 02 phút
+D. là sự biến đổi biên độ điện áp so với điện áp danh định trong thời gian dài hơn 01 phút
+Câu 61:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thời gian không thao tác kéo dài quá bao nhiêu tháng thì Đơn vị quản lý vận hành có trách nhiệm thực hiện thao tác thử đóng cắt máy cắt, dao cách ly, chuyển nấc máy biến áp bằng điều khiển từ xa
+A.12 tháng
+B. 24 tháng
+C. 3 tháng
+D. 6 tháng
+Câu 62:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), cấu hình của hệ thống đo đếm không bao gồm:
+A.Công tơ đo đếm
+B.CT
+C.VT
+D. Máy cắt đường dây
+Câu 63:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trong trường hợp chạm đất mạch điều khiển của máy cắt:
+A. Vẫn cho phép thao tác máy cắt.
+B. Cắt aptomat cấp nguồn điều khiển máy cắt.
+C. Không cho phép thao tác máy cắt.
+D. Cho phép thao tác máy cắt trong chế độ sự cố.
+Câu 64:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định đúng trình tự xử lý đầu tiên của Trưởng kíp trạm điện khi quá tải máy biến áp
+A.Xử lý quá tải máy biến áp theo quy trình
+B.Hoàn thành Báo cáo nhanh theo quy định
+C. Báo cáo ngay cho Cấp điều độ có quyền điều khiển
+D.Chuyển tự dùng xoay chiều sang nhận từ nguồn dự phòng khác nếu mất tự dùng xoay chiều do sự cố máy biến áp
+Câu 65:  Theo Thông tư 06/2025/TT-BCT, Nhân viên vận hành phải lấy mẫu khí trong rơ le để phân tích và kiểm tra tính chất cháy của khí trong trường hợp nào:
+A. Khi silicagen đổi màu.
+B. Khi rơle hơi tác động báo tín hiệu
+C.Khi máy biến áp bị nhảy sự cố do bảo vệ quá dòng tác động
+D.Khi máy biến áp bị nhảy sự cố do bảo vệ so lệch tác động
+Câu 66:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào đúng cho phép nhân viên vận hành không cần lập phiếu thao tác?
+A. Thao tác đột xuất trong phạm vi 01 (một) trạm điện, một nhà máy điện, trung tâm điều khiển
+B. Thao tác đột xuất trong phạm vi 01 (một) trạm điện, một nhà máy điện, trung tâm điều khiển hoặc tại các cấp điều độ bằng điều khiển từ xa
+C. Thao tác có số bước thao tác không quá 03 bước và được thực hiện tại trung tâm điều khiển hoặc thao tác bằng điều khiển từ xa
+D. Thao tác đơn giản có số bước thao tác không quá 05 bước và được thực hiện bằng điều khiển từ xa
+Câu 67:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), trường hợp nào cấp điều độ có quyền điều khiển được phép ra lệnh điều độ trước:
+A. Xử lý sự cố hoặc đe dọa sự cố
+B. Trường hợp không liên lạc được với cấp điều độ có quyền kiểm tra
+C. có thể ra lệnh điều độ trước báo cáo cấp điều độ có quyền kiểm tra sau trong mọi trường hợp
+D. Phải báo cáo cấp điều độ có quyền kiểm tra trước khi ra lệnh điều độ trong tất cả trường hợp
+Câu 68:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Nhân viên vận hành không được tự ý tách hoặc cô lập các mạch khoá liên động. Trường hợp cần thay đổi mạch khoá liên động phải được sự đồng ý?
+A. Của lãnh đạo trực tiếp đơn vị
+B. Của nhân viên vận hành cấp trên
+C. Của nhân viên trực ban vận hành
+D. A hoặc B
+Câu 69:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng cho phép cấp điều độ quốc gia tạm ngừng thao tác
+A. Thời gian thao tác kéo dài liên tục quá 04 giờ
+B. Thao tác thực hiện trong điều kiện thời tiết xấu
+C. Đang thao tác thì xảy ra sự cố hoặc có cảnh báo hiện tượng bất thường
+D. Không quy định
+Câu 70:  Theo Thông tư 06/2025/TT-BCT, Chi phí duy trì hệ thống khởi động đen sẵn sàng là chi phí hợp lý, hợp lệ của nhà máy điện xác định theo các nguyên tắc nào:
+A. Đối với nhà máy điện có tổng công suất đặt lớn hơn 30 MW, có ý nghĩa đặc biệt quan trọng về kinh tế - xã hội, quốc phòng, an ninh: Là một phần trong tổng chi phí hàng năm do Tập đoàn Điện lực Việt Nam xây dựng, trình Bộ Công Thương xem xét phê duyệt trong giai đoạn vận hành thị trường phát điện cạnh tranh và được tính trong giá điện của nhà máy khi thị trường bán buôn điện cạnh tranh vận hành chính thức;
+B. Đối với nhà máy điện đã cung cấp dịch vụ dự phòng khởi động nhanh hoặc dự phòng vận hành phải phát vì bảo đảm cung cấp điện: Được tính toán trong giá dịch vụ phụ trợ hàng năm của nhà máy điện
+C. Đối với nhà máy điện đã có giá hợp đồng mua bán điện: Đơn vị phát điện tính toán chi phí hàng năm phục vụ duy trì, bảo dưỡng sẵn sàng hệ thống thiết bị khởi động đen, thỏa thuận ký hợp đồng cung cấp dịch vụ khởi động đen với Tập đoàn Điện lực Việt Nam.
+D. Đáp án A, B, C
+Câu 71:  Theo Thông tư 06/2025/TT-BCT, Trách nhiệm khắc phục khiếm khuyết của trang thiết bị rơ le bảo vệ và tự động trong trường hợp tác động sai hoặc từ chối tác động?
+A. Đơn vị quản lý vận hành
+B. Cấp điều độ có quyền điều khiển
+C. Nhân viên vận hành
+D. Phương án A, B
+Câu 72:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng trách nhiệm viết và duyệt phiếu thao tác đóng điện nghiệm thu máy biến áp mới được thực hiện tại trạm điện hoặc nhà máy điện
+A. Hội đồng nghiệm thu
+B. Đơn vị quản lý vận hành
+C. Cấp điều độ có quyền điều khiển
+D. Không quy định
+Câu 73:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định đúng quan hệ công tác trong xử lý sự cố
+A. Nhân viên vận hành cấp trên có quyền thay thế nhân viên vận hành cấp dưới
+B. Nhân viên vận hành cấp dưới có quyền không chấp hành mệnh lệnh của Nhân viên vận hành cấp trên
+C. Nhân viên vận hành cấp dưới phải thi hành lệnh của Lãnh đạo trực tiếp
+D. Nhân viên vận hành phải kịp thời báo cáo sự cố nghiêm trọng cho Lãnh đạo trực tiếp
+Câu 74:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), hệ thống điện vận hành ở chế độ cảnh báo khi xuất hiện hiện tượng nào dưới đây :
+A. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp từ 90% trở lên nhưng không vượt quá giá trị định mức
+B. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp trên 90% trở lên nhưng không vượt quá giá trị định mức
+C. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp từ 80 % trở lên nhưng không vượt quá giá trị định mức
+D. Cả A,B,C đều sai
+Câu 75:  Theo Thông tư 06/2025/TT-BCT, Nhà máy điện khởi động đen dự phòng phải đáp ứng tiêu chí nào sau đây:
+A. Có thời gian khởi động đen không quá 5 phút
+B. Có thời gian khởi động đen không quá 10 phút
+C. Có thời gian khởi động đen không quá 15 phút
+D. Có thời gian khởi động đen không quá 20 phút
+Câu 76:  Theo Thông tư 06/2025/TT-BCT, Cấp Điều độ có quyền điều khiển phải gửi Báo cáo sự cố cho cấp Điều độ có quyền kiểm tra:
+A. Ngay sau khi sự cố xảy ra
+B. Trong vòng 24 tiếng kể từ khi sự cố xảy ra
+C. Trong vòng 48 tiếng kể từ khi sự cố xảy ra
+D. Không phương án nào đúng
+Câu 77:  Theo Thông tư 06/2025/TT-BCT, Nhân viên vận hành phải được đào tạo, kiểm tra diễn tập xử lý sự cố?
+A. Ít nhất mỗi năm một lần
+B. Ít nhất hai năm một lần
+C. Ít nhất mỗi năm hai lần
+D. Không quy định
+Câu 78:  Theo Thông tư 05/2025/TT-BCT, Hệ thống điện vận hành ở chế độ cực kỳ khẩn cấp khi:
+A. Điện áp tại một nút bất kỳ trên lưới điện truyền tải nằm ngoài dải điện áp cho phép đối với trường hợp xảy ra sự cố một phần tử theo Quy định hệ thống điện truyền tải do Bộ Công Thương ban hành
+B. Mức mang tải của bất kỳ thiết bị nào trong lưới điện 110kV hoặc thiết bị đấu nối với lưới điện 110kV trên 110% giá trị định mức mà thiết bị này khi bị sự cố do quá tải có thể dẫn đến tan rã từng phần hệ thống điện
+C. Tần số hệ thống nằm ngoài dải tần số cho phép đối với trường hợp xảy ra sự cố một phần tử trong hệ thống theo Quy định hệ thống điện truyền tải do Bộ Công Thương ban hành
+D. Đáp án B và C
+Câu 79:  Theo Thông tư 06/2025/TT-BCT, Khi sự cố đường dây 110kV hoặc 220kV qua khu dân cư, tự động đóng lại không thành công, cho phép đóng lại đường dây bao nhiêu lần?
+A. Đóng lại một lần
+B. Không đóng lại ngay, chỉ đóng lại khi có yêu cầu từ Đơn vị quản lý vận hành
+C. Xin ý kiến lãnh đạo để đóng lại một lần
+D. Không đóng lại, cô lập đường dây bàn giao Đơn vị quản lý vận hành sửa chữa
+Câu 80:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phiếu thao tác đột xuất phối hợp nhiều trạm điện, nhà máy điện hoặc thao tác xa từ cấp điều độ do cấp điều độ có quyền điều khiển viết, duyệt và được quy định cụ thể như sau?
+A. Người viết phiếu là Điều độ viên; Người duyệt phiếu là Trưởng, Phó phòng điều độ; Điều độ viên phụ trách ca trực
+B. Người viết phiếu là Điều độ viên; Người duyệt phiếu là Trưởng, Phó đơn vị điều độ; Điều độ viên phụ trách ca trực
+C. Người viết phiếu là Điều độ viên; Người duyệt phiếu là Trưởng, Phó đơn vị điều độ; Trưởng, Phó phòng điều độ; Điều độ viên phụ trách ca trực
+D. Người viết phiếu là Điều độ viên; Người duyệt phiếu là Điều độ viên phụ trách ca trực
+Câu 81:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thời gian lưu trữ lệnh điều độ bằng lời nói
+A. ít nhất 1 năm
+B. ít nhất 6 tháng
+C. ít nhất 3 tháng
+D. không cần lưu trữ
+Câu 82:  Theo Thông tư 06/2025/TT-BCT, Trường hợp máy biến áp bị cắt sự cố do bảo vệ quá từ thông tác động, điều kiện để đưa máy biến áp trở lại vận hành theo phương án nào
+A. Đơn vị quản lý vận hành khẳng định máy biến áp đủ tiêu chuẩn vận hành.
+B. Nhân viên vận hành kiểm tra, báo cáo tình trạng bên ngoài của máy biến áp không phát hiện có dấu hiệu bất thường, khẳng định mạch bảo vệ không tác động nhầm.
+C. Đơn vị quản lý vận hành đã tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện.
+D. Nhân viên vận hành kiểm tra, báo cáo tình trạng bên ngoài của máy biến áp không phát hiện có dấu hiệu bất thường.
+Câu 83:  Theo Thông tư 05/2025/TT-BCT, Phương án nào hệ thống điện vận hành ở chế độ khẩn cấp?
+A. Tần số hệ thống 49,5 Hz
+B. Máy biến áp chính 220 kV đang mang tải là 100%
+C. Điện áp thấp nhất trên lưới 220 kV là 195 kV
+D. Phương án A, C
+Câu 84:  Theo Thông tư 06/2025/TT-BCT, Nhà máy điện khởi động đen dự phòng phải đáp ứng tiêu chí nào sau đây:
+A. Đấu nối trực tiếp cấp điện áp 500kV
+B. Đấu nối trực tiếp cấp điện áp 220kV
+C. Đấu nối trực tiếp cấp điện áp 110kV
+D. Cả 3 đáp án trên
+Câu 85:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về dịch vụ phụ trợ trong hệ thống điện gồm :
+A. Khởi động nhanh
+B. Khởi động đen
+C. Dự phòng vận hành phải phát
+D. Cả A,B,C đều đúng
+Câu 86:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Khi thời tiết ngoài trời có mưa tạo dòng trên thiết bị điện, giông sét, ngập lụt, gió từ cấp 6 trở lên thì nhân viên vận hành:
+A. Không được phép thao tác ngoài trời tại vị trí đặt thiết bị.
+B. Được phép thao tác ngoài trời tại vị trí đặt thiết bị.
+C. Chỉ thực hiện thao tác khi có lệnh của Điều độ cấp trên.
+D. Được phép thao tác khi hệ thống điện vận hành ở chế độ khẩn cấp.
+Câu 87:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), đâu không phải là nhân viên vận hành cấp dưới trực tiếp của Điều độ viên quốc gia :
+A. Điều độ viên hệ thống điện miền
+B. Điều độ hệ thống điện phân phối
+C. Trưởng kíp TBA 500kV
+D. Trưởng ca nhà máy điện có công suất trên 30MW
+Câu 88:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về mức dao động điện áp trong trường hợp hệ thống truyền tải điện bị sự cố nhiều phần tử, sự cố nghiêm trọng, trong chế độ vận hành cực kỳ khẩn cấp hoặc chế độ khôi phục hệ thống điện:
+A. cho phép mức dao động điện áp trên lưới điện truyền tải, lưới điện 110kV tạm thời lớn hơn ± 10 % so với điện áp danh định nhưng không được vượt quá ± 20 % so với điện áp danh định
+B. cho phép mức dao động điện áp trên lưới điện truyền tải, lưới điện 110kV tạm thời lớn hơn ± 5 % so với điện áp danh định nhưng không được vượt quá ± 10 % so với điện áp danh định
+C.cho phép mức dao động điện áp trên lưới điện truyền tải, lưới điện 110kV tạm thời lớn hơn ± 10 % so với điện áp danh định
+D. cho phép mức dao động điện áp trên lưới điện truyền tải, lưới điện 110kV tạm thời lớn hơn ± 10 % so với điện áp danh định nhưng không được vượt quá ± 15 % so với điện áp danh định
+Câu 89:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trình tự cắt máy cắt các phía hạ áp, trung áp, cao áp máy biến áp theo nguyên tắc nào:
+A. Cắt máy cắt theo thứ tự hạ áp, trung áp, cao áp
+B. Cắt máy cắt theo thứ tự cao áp, trung áp, hạ áp
+C. Cắt máy cắt theo thứ tự trung áp, hạ áp, cao áp
+D. Cắt máy cắt theo thứ tự không gây quá áp cho máy biến áp và điện áp thấp cho lưới điện
+Câu 90:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về chế độ nối đất cấp 500kV, 220kV ,110kV:
+A. Nối đất trực tiếp
+B. Trung tính cách lý hoặc qua trở kháng
+C. Nối đất lặp lại (03 pha 04 dây)
+D. Không có đáp án đúng
+Câu 91:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), sai số dự báo phụ tải ngày nghỉ Lễ, Tết và các sự kiện:
+A. ± 10%
+B. ± 12%
+C. ± 13%
+D. ± 15%
+Câu 92:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định về trách nhiệm của người giám sát và người thao tác thiết bị nhất thứ
+A. Người giám sát chịu trách nhiệm 50%, Người thao tác chịu trách nhiệm 50%
+B. Người thao tác chịu trách nhiệm chính
+C. Người giám sát chịu trách nhiệm chính
+D. Người giám sát chịu trách nhiệm 70%, Người thao tác chịu trách nhiệm 30%
+Câu 93:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), Điều độ HTĐ quốc gia được phân thành mấy cấp chính
+A. 3
+B. 4
+C. 5
+D. 6
+Câu 94:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào đúng cho phép nhân viên vận hành không cần lập phiếu thao tác
+A. Thao tác để xử lý hiện tượng bất thường tại trạm điện, nhà máy điện
+B. Thao tác đột xuất trong phạm vi 01 (một) trạm điện, một nhà máy điện, trung tâm điều khiển hoặc tại Cấp điều độ có quyền điều khiển bằng tín hiệu điều khiển từ xa
+C. Thao tác có số bước thao tác không quá 05 bước và được thực hiện tại Cấp điều độ có quyền điều khiển, trung tâm điều khiển hoặc thao tác bằng tín hiệu điều khiển từ xa
+D. Thao tác có số bước thao tác không quá 05 bước và được thực hiện tại Cấp điều độ có quyền điều khiển
+Câu 95:  Theo Thông tư 06/2025/TT-BCT, Khi máy biến áp bị cắt sự cố do chỉ có một trong các bảo vệ so lệch, hơi (hoặc dòng dầu, áp lực dầu), Điều độ viên chỉ huy thao tác cô lập máy biến áp và bàn giao máy biến áp cho Đơn vị quản lý vận hành tiến hành thí nghiệm, kiểm tra mạch bảo vệ chính đã tác động. Điều độ viên chỉ huy đưa máy biến áp vào vận hành trở lại khi có một trong các điều kiện sau:
+A. Qua kiểm tra phát hiện mạch bảo vệ chính của máy biến áp tác động là do hư hỏng trong mạch bảo vệ và hư hỏng đó đã được khắc phục
+B.Qua kiểm tra phát hiện mạch bảo vệ chính của máy biến áp tác động là do hư hỏng thiết bị trong vùng bảo vệ chính (nhưng không phải là máy biến áp) và hư hỏng đó đã được khắc phục
+C. Qua kiểm tra mạch bảo vệ chính, các thiết bị trong vùng bảo vệ chính và không phát hiện hư hỏng, Đơn vị quản lý vận hành đã tiến hành thí nghiệm, kiểm tra thử nghiệm
+các thông số, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện, có văn bản xác nhận máy biến áp đủ điều kiện vận hành gửi Cấp điều độ có quyền điều khiển.
+D. Cả A, B và C
+Câu 96:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định về trách nhiệm của người giám sát và người thao tác tại vị trí đặt thiết bị nhất thứ?
+A. Người giám sát chịu trách nhiệm 50%, Người thao tác chịu trách nhiệm 50%
+B. Người thao tác chịu trách nhiệm chính
+C. Người giám sát chịu trách nhiệm chính
+D. Người giám sát chịu trách nhiệm 70%, Người thao tác chịu trách nhiệm 30%
+Câu 97:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về dòng điện ngắn mạch lớn nhất cho phép (kA) cấp 220kV:
+A. 50
+B. 55
+C. 60
+D. 45
+Câu 98:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trường hợp thao tác được thực hiện từ trước và kéo dài đến giờ giao nhận ca, nhân viên vận hành ca trước phải lựa chọn hạng mục thao tác để ngừng cho hợp lý và bàn giao cho nhân viên vận hành ca sau tiếp tục thực hiện thao tác. Trong trường hợp thao tác phức tạp?
+A. Nhân viên vận hành ca trước phải ở lại để thực hiện hết các hạng mục thao tác, chỉ được phép giao ca nếu nhân viên vận hành ca sau đã nắm rõ các bước thao tác tiếp theo và đồng ý nhận ca
+B. Nhân viên vận hành ca sau có trách nhiệm tiếp tục thực hiện thao tác để đảm bảo nhân viên vận hành ca trước không bị quá thời gian làm thêm theo quy định của pháp luật về lao động
+C. Nhân viên vận hành ca trước phải ở lại để thực hiện hết các hạng mục thao tác, chỉ được phép giao ca nếu nhân viên vận hành ca sau đã nắm rõ các bước thao tác tiếp theo và đồng ý nhận ca. Nhân viên vận hành ca sau có trách nhiệm tiếp tục thực hiện thao tác để đảm bảo nhân viên vận hành ca trước không bị quá thời gian làm thêm theo quy định của pháp luật về lao động.
+D. Không phương án nào đúng
+Câu 99:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Người ra lệnh không phải nắm nội dung nào trước khi thao tác
+A. Đọc kỹ phiếu thao tác, kiểm tra phiếu thao tác phù hợp với sơ đồ kết dây thực tế
+B. Dự đoán xu hướng thay đổi phụ tải, công suất, điện áp khi thực hiện thao tác
+C. Tên đơn vị đăng ký thực hiện thao tác
+D. Mục đích thao tác
+Câu 100:  Theo Thông tư 06/2025/TT-BCT, Chế độ vận hành thiếu trang bị rơ le bảo vệ hoặc tự động phải được quy định cụ thể bởi
+A. Cấp điều độ có quyền điều khiển.
+B. Cục Điều tiết điện lực
+C. Đơn vị quản lý vận hành.
+D. Tập đoàn Điện lực Việt Nam
+Câu 101:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), không thực hiện điều chỉnh nấc máy biến áp (bằng tay hoặc tự động) để tăng điện áp phía hạ áp hoặc trung áp khi điện áp phía cao áp:
+A. Thấp dưới -5% so với điện áp danh định
+B. Thấp dưới -10% so với điện áp danh định
+C. Thấp dưới -15% so với điện áp danh định
+D. Thấp dưới -20% so với điện áp danh định
+Câu 102:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về công suất định mức của nhà máy điện mặt trời:
+A. là công suất điện xoay chiều tối đa có thể phát được của nhà máy được tính toán và công bố, phù hợp với công suất điện một chiều của nhà máy điện mặt trời theo quy hoạch
+B. là công suất điện một chiều tối đa có thể phát được của nhà máy được tính toán và công bố, phù hợp với công suất điện xoay chiều của nhà máy điện mặt trời theo quy hoạch
+C. là công suất điện xoay chiều tối đa có thể phát được của nhà máy được tính toán và công bố.
+D. Cả 3 đáp án đều sai
+Câu 103:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), đâu không phải nguyên tắc lập sơ đồ kết dây cơ bản trong hệ thống điện:
+A. bảo đảm dòng ngắn mạch không vượt quá giá trị cho phép đối với thiết bị đặt tại nhà máy điện hoặc trạm điện
+B. bảo đảm dòng ngắn mạch nhỏ nhất đối với thiết bị đặt tại nhà máy điện hoặc trạm điện
+C. bảo đảm tính chọn lọc của rơ le bảo vệ
+D. linh hoạt, thuận tiện trong thao tác và xử lý sự cố
+Câu 104:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), điều nào sau đây là không đúng nguyên tắc phân cấp quyền điều khiển, quyền kiểm tra:
+A. Tại một thời điểm, một thiết bị có thể có hai cấp điều độ có quyền điều khiển
+B. Theo cấp điện áp của thiết bị điện
+C. Theo công suất đặt và cấp điện áp đấu nối của nhà máy điện
+D. Theo ranh giới quản lý thiết bị điện của đơn vị quản lý vận hành
+Câu 105:  Theo Thông tư 06/2025/TT-BCT, Nhà máy điện khởi động đen chính phải đáp ứng tiêu chí nào sau đây:
+A. Đấu nối trực tiếp cấp điện áp 500kV
+B. Đấu nối trực tiếp cấp điện áp 220kV
+C. Đấu nối trực tiếp cấp điện áp 110kV
+D. Đáp án A & B
+Câu 106:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Chức danh nào không được xem là nhân viên vận hành:
+A. Cán bộ Phương thức tại Điều độ miền
+B. Điều độ viên các cấp Điều độ
+C. Trưởng ca NMĐ
+D. Trưởng kíp trạm điện, TTĐK
+Câu 107:  Theo Thông tư 06/2025/TT-BCT, Trường hợp máy biến áp bị cắt sự cố do bảo vệ khác ngoài so lệch, hơi, dòng dầu, áp lực dầu, Điều độ viên chỉ huy đưa máy biến áp trở lại vận hành khi?
+A. Đơn vị quản lý vận hành đã tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện
+B. Nhân viên vận hành khẳng định mạch bảo vệ không tác động nhầm
+C. Nhân viên vận hành kiểm tra, báo cáo tình trạng bên ngoài của máy biến áp không phát hiện có dấu hiệu bất thường.
+D. Nhân viên vận hành kiểm tra, báo cáo tình trạng bên ngoài của máy biến áp không phát hiện có dấu hiệu bất thường, khẳng định mạch bảo vệ không tác động nhầm
+Câu 108:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), đơn vị nào có trách nhiệm xác định các vị trí quan trọng trong hệ thống điện quốc gia cần xây dựng các nhà máy điện có khả năng khởi động đen:
+A. Bộ Công thương
+B. Tập đoàn Điện lực Việt Nam
+C. Công ty vận hành Hệ thống điện và thị trường điện Quốc gia
+D. Cấp điều độ có quyền điều khiển
+Câu 109:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Người thao tác phải thực hiện theo phương án nào trong trường hợp phiếu thao tác không đúng với sơ đồ kết dây thực tế?
+A. Không thực hiện phiếu thao tác
+B. Hỏi ý kiến Người ra lệnh
+C. Hỏi ý kiến Người duyệt phiếu
+D. Viết lại phiếu thao tác khác
+Câu 110:  Theo Thông tư 06/2025/TT-BCT, Thẩm quyền công bố danh sách các nhà máy điện cung cấp dịch vụ khởi động đen do:
+A. Cấp Điều độ Quốc gia
+B. Tổng công ty phát điện 1, 2, 3
+C. Bộ Công Thương
+D. Cục Điều tiết Điện lực
+Câu 111:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), không được giao ca trong trường hợp nào:
+A. Đang có thao tác phức tạp, sự cố, NVVH nhận ca chưa nắm rõ thông tin sự cố
+B. Nhân viên vận hành nhận ca không đủ tỉnh táo do đã uống rượu, bia, sử dựng các chất kích thích khác bị nghiêm cấm.
+C.Chưa hoàn thành các công việc trong ca
+D. Cả 3 đáp án trên đều đúng
+Câu 112:  Theo Thông tư 06/2025/TT-BCT, Mẫu Báo cáo phân tích sự cố của Đơn vị quản lý vận hành gửi đơn vị quản lý cấp trên theo phương án nào
+A. Theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư trên
+B. Theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư trên
+C. Theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư trên
+D. Theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư trên
+Câu 113:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác xa được hiểu đúng theo phương án nào?
+A. Thao tác do cấp điều độ có quyền điều khiển thực hiện điều khiển từ xa
+B. Thao tác do trung tâm điều khiển thực hiện điều khiển từ xa
+C. Thao tác do nhân viên vận hành thực hiện bằng điều khiển từ xa
+D. Phương án A, B
+Câu 114:  Theo Thông tư 06/2025/TT-BCT, Khi truyền tải trên đường dây trên không cấp điện áp trên 35 kV đến 220 kV vượt mức giới hạn cho phép, Điều độ viên phải xử lý sự cố:
+A. Theo chế độ cực kỳ khẩn cấp.
+B. Theo chế độ khẩn cấp.
+C. Theo chế độ cảnh báo.
+D. Theo chế độ bình thường.
+Câu 115:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định không đúng nhiệm vụ của Điều độ viên miền trong xử lý sự cố
+A. Xử lý sự cố theo đúng quy trình
+B. Áp dụng mọi biện pháp cần thiết theo quy định để ngăn ngừa sự cố lan rộng
+C. Báo cáo kịp thời, chính xác hiện tượng và diễn biến sự cố cho Lãnh đạo cấp trên trực tiếp
+D. Cung cấp thông tin tóm tắt về tình hình xử lý sự cố thiết bị điện thuộc quyền điều khiển làm thay đổi chế độ vận hành bình thường của hệ thống điện phân phối cho Điều độ viên HTĐ phân phối
+Câu 116:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cấp điều độ có quyền điều khiển không cần lập phiếu thao tác trong trường hợp nào:
+A. Thao tác có 04 bước
+B. Xử lý sự cố
+C. Cả A và B
+D. Không đáp án nào đúng
+Câu 117:  Theo Thông tư 06/2025/TT-BCT, Trong trường hợp HTĐ miền (hoặc một phần HTĐ miền) tách khỏi HTĐ Quốc gia, việc chỉ huy điều chỉnh tần số, điện áp HTĐ miền (hoặc một phần HTĐ miền) thuộc nhiệm vụ của đơn vị nào?:
+A. Nhà máy điện làm nhiệm vụ trong miền.
+B. Cấp điều độ quốc gia.
+C.Cấp điều độ miền.
+D. Cấp điều độ phân phối
+Câu 118:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, trong điều kiện vận hành bình thường, máy biến áp được phép vận hành lâu dài với điện áp cao hơn đến 10% điện áp định mức tương ứng với đầu phân áp trong điều kiện nào:
+A. Nhiệt độ dầu máy biến áp không vượt quá 60 độ C
+B. Tải qua máy biến áp không quá 25% công suất định mức của máy biến áp
+C. Tải qua máy biến áp không quá 30% công suất định mức của máy biến áp
+D. Nhiệt độ cuộn dây máy biến áp không vượt quá 80 độ C
+Câu 119:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cho phép thay đổi nội dung, trình tự thao tác trong phiếu thao tác trong trường hợp nào?
+A. Không cho phép
+B. Người ra lệnh đồng ý
+C. Người duyệt phiếu đồng ý
+D. Phương án B, C
+Câu 120:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về tổng biến dạng sóng hài tối đa cho phép (THD) đối với cấp điện áp 500kV, 220kV:
+A. 3%
+B. 4%
+C. 5%
+D. 6%
+Câu 121:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quyền kiểm tra là gì:
+A. cho phép điều độ cấp dưới thực hiện quyền điều khiển
+B. cho phép đơn vị QLVH thực hiện quyền điều khiển
+C. Kiểm tra tình trạng vận hành của thiết bị điện
+D. A và C
+Câu 122:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định dải tần số được phép dao động ở chế độ vận hành bình thường của hệ thống điện trường hợp sự cố đơn lẻ
+A.49 Hz ÷ 51 Hz
+B.49,5 Hz ÷ 51,5 Hz
+C.47,5 Hz ÷ 52 Hz
+D. Không quy định
+Câu 123:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), trong chế độ vận hành bình thường quy định về tần số hệ thống điện được phép dao động trong phạm vi:
+A. ± 0.5hz
+B. ± 0.3hz
+C. ± 0.2hz
+D. ± 0.25hz
+Câu 124:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Ghi tên Người thao tác trong phiếu thao tác do cấp điều độ miền lập phiếu thao tác đúng theo phương án nào
+A. Ghi họ và tên Trực chính trạm điện, Trưởng ca nhà máy điện nhận lệnh thao tác
+B. Ghi họ và tên các Nhân viên vận hành tại trạm điện, nhà máy điện có nhiệm vụ thao tác
+C. Ghi họ và tên Điều độ viên phụ
+D. Ghi họ và tên Điều độ viên ra lệnh trực tiếp
+Câu 125:  Theo Thông tư 06/2025/TT-BCT, Đường dây vẫn cho phép vận hành khi thiếu rơ le bảo vệ trong trường hợp nào?
+A. Bảo vệ còn lại bảo đảm chống mọi dạng sự cố
+B. Bảo vệ còn lại bảo đảm thời gian loại trừ sự cố
+C. Cấp điều độ có quyền điều khiển cho phép
+D. Phương án A, B
+Câu 126:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Điều kiện hoà điện trên hệ thống điện có cấp điện áp đến 220kV?
+A. Góc lệch pha điện áp không quá 15 độ, chênh lệch tần số không quá 0,05 Hz, chênh lệch điện áp không quá 5%.
+B. Góc lệch pha điện áp không quá 15 độ, chênh lệch tần số không quá 0,10 Hz, chênh lệch điện áp không quá 10%.
+C. Góc lệch pha điện áp không quá 30 độ, chênh lệch tần số không quá 0,25 Hz, chênh lệch điện áp không quá 10%.
+D. Đồng tần, đồng áp, đồng pha.
+Câu 127:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Hàng năm, đơn vị quản lý vận hành có trách nhiệm tổ chức đào tạo, kiểm tra, diễn tập kỹ năng thao tác cho nhân viên vận hành bao nhiêu lần ?
+A. 01 lần
+B. Ít nhất 01 lần
+C. 02 lần
+D. Không quy định
+Câu 128:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào cho phép đóng máy cắt không kiểm tra điều kiện hòa đồng bộ hoặc khép vòng
+A. Khi một phía máy cắt có điện
+B. Khi hai phía máy cắt có điện
+C. Khi đóng theo lệnh điều độ
+D. Khi không có mạch hòa
+Câu 129:  Theo Thông tư 06/2025/TT-BCT, Sự cố nghiêm trọng là:
+A. Sự cố tổ máy phát điện của nhà máy điện.
+B. Sự cố đường dây 500kV.
+C. Sự cố MBA 500kV
+D. Sự cố gây mất điện trên diện rộng hoặc gây cháy, nổ làm tổn hại đến người và tài sản.
+Câu 130:  Theo Thông tư 06/2025/TT-BCT, Nhân viên vận hành tại nhà máy điện phải đưa mạch rơ le tự đóng lại đường dây trên không trên 35kV đến 220kV trở lại làm việc trong trường hợp nào
+A.Trong thời gian 08 giờ tiếp theo không xuất hiện sự cố kể từ khi đường dây đã xuất hiện sự cố thoáng qua 02 lần liên tục
+B.Trong thời gian 08 giờ tiếp theo không xuất hiện sự cố kể từ khi đường dây đã xuất hiện sự cố thoáng qua 03 lần liên tục
+C.Trong thời gian 06 giờ tiếp theo không xuất hiện sự cố kể từ khi đường dây đã xuất hiện sự cố thoáng qua 02 lần liên tục
+D.Chuyển tự dùng xoay chiều sang nhận từ nguồn dự phòng khác nếu mất tự dùng xoay chiều do sự cố máy biến áp
+Câu 131:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng cho phép cấp điều độ miền tạm ngừng thao tác?
+A. Thời gian thao tác kéo dài liên tục quá 04 giờ
+B. Thao tác thực hiện trong điều kiện thời tiết xấu
+C. Đang thao tác thì xảy ra sự cố hoặc có cảnh báo hiện tượng bất thường
+D. Không quy định
+Câu 132:  Theo Thông tư 06/2025/TT-BCT, Khôi phục hệ thống điện được hiểu như thế nào?:
+A. Là trình tự các thao tác theo lệnh Điều độ viên để đưa các nhà máy điện thuộc quyền điều khiển vào vận hành sau sự cố rã lưới.
+B. Là các thao tác thực hiện theo trình tự nhất định nhằm đưa các thiết bị của hệ thống điện vào vận hành sau sự cố ra lưới.
+C. Là tập hợp các thao tác của Điều độ viên được thực hiện để đưa lưới điện thuộc quyền điều khiển vào vận hành sau sự cố rã lưới.
+D. Là thứ tự khôi phục phụ tải điện trong hệ thống điện Quốc gia sự cố rã lưới
+Câu 133:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về phân loại ổn định hệ thống điện:
+A.ổn định quá độ, ổn định tín hiệu nhỏ, ổn định điện áp động, ổn định điện áp tĩnh, ổn định tần số
+B. ổn định quá độ, ổn định tín hiệu nhỏ, ổn định điện áp động, ổn định điện áp tĩnh
+C. ổn định tín hiệu nhỏ, ổn định điện áp động, ổn định điện áp tĩnh, ổn định tần số
+D. ổn định điện áp động, ổn định điện áp tĩnh, ổn định tần số
+Câu 134:  Theo Thông tư 06/2025/TT-BCT, Nhân viên vận hành tại nhà máy điện phải gửi Báo cáo nhanh sự cố cho Cấp điều độ có quyền điều khiển
+A. Không cần gửi báo cáo nếu đã báo cáo qua điện thoại.
+B. Xử lý sự cố theo đúng quy trình
+C. Trong vòng 24 giờ kể từ khi sự cố xảy ra.
+D. Ngay sau khi cô lập phần tử bị sự cố.
+Câu 135:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Lệnh thao tác được coi là thực hiện xong khi?
+A. Người nhận lệnh đã thao tác xong.
+B. Người nhận lệnh đã thao tác xong và ghi lại thời điểm kết thúc thao tác
+C. Người nhận lệnh báo cáo cho người ra lệnh biết kết quả đã hoàn thành
+D. Không quy định
+Câu 136:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trình tự thao tác mở dao cách ly hai phía máy cắt khi một phía máy cắt có điện áp, một phía không có điện áp?
+A. Mở dao cách ly phía có điện áp sau
+B. Mở dao cách ly phía có điện áp trước
+C. Mở dao cách ly phía nào trước cũng được
+D. Mở dao cách ly phía không có điện áp sau
+Câu 137:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thủ tục giao nhận ca chỉ thực hiện xong khi nào:
+A. NVVH nhận ca ký tên vào sổ giao nhận ca
+B. NVVH giao ca ký tên vào sổ giao nhận ca
+C. NVVH nhận ca và NVVH giao ca ký tên vào sổ giao nhận ca
+D. Cả 3 đáp án đều sai
+Câu 138:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về độ chính xác cho phép của đồng hồ tần số tại các cấp điều độ và nhà máy điện
+A. 0.04 Hz
+B. 0.03 Hz
+C. 0.02 Hz
+D. 0.01 HZ
+Câu 139:  Theo Thông tư 06/2025/TT-BCT, Nhà máy đủ điều kiện làm nhà máy khởi động đen chính:
+A. Đấu nối vào cấp điện áp 220kV và có thời gian khởi động đen là 10 phút
+B. Đấu nối vào cấp điện áp 220kV và có thời gian khởi động đen là 20 phút
+C. Đấu nối vào cấp điện áp 110kV và có thời gian khởi động đen là 10 phút
+D. Phương án A&B
+Câu 140:  Theo Thông tư 06/2025/TT-BCT, Mẫu Báo cáo nhanh sự cố theo phương án nào
+A. Theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư trên
+B. Theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư trên
+C. Theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư trên
+D. Theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư trên
+Câu 141:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), nhân viên vận hành cấp dưới trực tiếp của Điều độ viên quốc gia là ai:
+A. Điều độ viên miền
+B. Điều độ viên phân phối tỉnh
+C. Trưởng kíp trạm điện, trưởng kíp trung tâm điều khiển trạm điện
+D. Cả 3 đáp án trên đều đúng
+Câu 142:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Các đơn vị được phép ban hành phiếu thao tác mẫu được lập và phê duyệt trước đối với một số thao tác theo sơ đồ kết dây cơ bản, bao gồm các thao tác sau?
+A. Thao tác tách hoặc đưa vào vận hành thanh cái; Thao tác dùng máy cắt vòng thay cho máy cắt đang vận hành và ngược lại;
+B. Thao tác tách ra hoặc đưa vào vận hành máy biến áp; Thao tác tách hoặc đưa vào vận hành các thiết bị bù;.
+C. Thao tác tách hoặc đưa vào vận hành đường dây.
+D. Cả A, B, C
+Câu 143:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, trong điều kiện vận hành bình thường và không bị quá tải, máy biến áp được phép vận hành lâu dài với điện áp cao hơn không quá bao nhiêu % điện áp định mức tương ứng với đầu phân áp?
+A. 2,5%
+B. 5%
+C. 7,5%
+D. 10%
+Câu 144:  Theo Thông tư 06/2025/TT-BCT, Đơn vị phát điện có trách nhiệm thỏa thuận ký hợp đồng cung cấp dịch vụ khởi động đen với Đơn vị nào để cung cấp dịch vụ khởi động đen.
+A. Cấp điều độ quốc gia..
+B. Bộ Công Thương
+C. Tập đoàn Điện lực Việt Nam
+D. Cục Điều tiết Điện lực
+Câu 145:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quyền nắm thông tin được hiểu là quyền gì ?
+A. Yêu cầu cấp điều độ có quyền điều khiển thông báo trước về chế độ vận hành của thiết bị điện thuộc quyền điều khiển, quyền kiểm tra nhưng có ảnh hưởng đến đơn vị mình
+B. Được nhận thông báo trước về chế độ vận hành của thiết bị điện đơn vị khác
+C. Báo cáo lãnh đạo thông tin về chế độ vận hành của thiết bị điện và xin ý kiến chỉ đạo để giải quyết những vấn đề không thuộc thẩm quyền
+D. Cấp điều độ có quyền điều khiển có trách nhiệm thông báo trước cho các đơn vị bị ảnh hưởng trước khi thực hiện quyền điều khiển của mình
+Câu 146:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thứ tự gửi phiếu đăng ký công tác:
+A. Trang thông tin điện tử - Email - Công văn
+B. Công văn - Email - Trang thông tin điện tử
+C. Email - Công văn - Trang thông tin điện tử
+D. Email - Trang thông tin điện tử - Email
+Câu 147:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng trình tự tiến hành thao tác?
+A. Người giám sát và người thao tác kiểm tra đúng thiết bị cần thao tác; Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh; Người thao tác thực hiện thao tác
+B. Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh; Người thao tác thực hiện thao tác; Người giám sát và người thao tác kiểm tra thao tác tốt;
+C. Người giám sát kiểm tra đúng thiết bị cần thao tác; Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh; Người thao tác thực hiện thao tác
+D. Người thao tác kiểm tra đúng thiết bị cần thao tác; Người giám sát đọc lệnh; Người thao tác nhắc lại lệnh; Người thao tác thực hiện thao tác
+Câu 148:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Lập và thực hiện phương thức đóng điện đưa công trình mới vào vận hành thuộc trách nhiệm của đơn vị nào
+A. Chủ đầu tư công trình mới
+B. Cấp điều độ có quyền điều khiển
+C. Thỏa thuận giữa chủ đầu tư công trình mới và cấp điều độ có quyền điều khiển
+D. Đơn vị quản lý vận hành
+Câu 149:  Theo Thông tư 05/2025/TT-BCT, Phương án nào hệ thống điện truyền tải vận hành không ở chế độ cảnh báo
+A. Các mức dự phòng nguồn điện thấp hơn mức quy định
+B. Mức mang tải của nguồn điện chính là 95%
+C. Bão có gió cấp 12 đang chuẩn bị vào miền Trung
+D. Tần số hệ thống 50,1 Hz
+Câu 150:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về điện áp siêu cao áp:
+A. là cấp điện áp danh định trên 500 kV
+B. là cấp điện áp danh định trên 220 kV
+C.là cấp điện áp danh định trên 110 kV
+D. là cấp điện áp danh định trên 35 kV
+Câu 151:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về các biện pháp điều khiển tần số:
+A. Điều chỉnh công suất phát hữu công
+B. Ngừng dự phòng nguồn điện
+C. Sa thải phụ tải
+D. Cả 3 đáp án đều đúng
+Câu 152:  Theo Thông tư 06/2025/TT-BCT, Nhà máy điện khởi động đen chính phải đáp ứng tiêu chí nào sau đây:
+A. Có thời gian khởi động đen không quá 5 phút
+B. Có thời gian khởi động đen không quá 10 phút
+C. Có thời gian khởi động đen không quá 15 phút
+D. Có thời gian khởi động đen không quá 20 phút
+Câu 153:  Theo Thông tư 06/2025/TT-BCT, Nhà máy đủ điều kiện làm nhà máy khởi động đen dự phòng:
+A. Đấu nối vào cấp điện áp 220kV và có thời gian khởi động đen là 30 phút
+B. Đấu nối vào cấp điện áp 220kV và có thời gian khởi động đen là 20 phút
+C. Đấu nối vào cấp điện áp 110kV và có thời gian khởi động đen là 10 phút
+D. Phương án B&C
+Câu 154:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cột Mục, Trình tự thao tác trong phiếu thao tác do cấp điều độ miền lập ghi đúng theo phương án nào
+A. Ghi số thứ tự các đơn vị thực hiện hoặc phối hợp thao tác bằng số I, II, III …
+B. Ghi số thứ tự các đơn vị thực hiện hoặc phối hợp thao tác bằng số tự nhiên 1, 2, 3 …
+C. Ghi số thứ tự các đơn vị thực hiện hoặc phối hợp thao tác bằng số chữ cái A, B, C …
+D. Ghi số thứ tự theo vị trí nhân viên vận hành thực hiện hoặc phối hợp thao tác bằng số I, II, III …
+Câu 155:  Theo Thông tư 06/2025/TT-BCT, Khi máy biến áp nhảy sự cố, Đơn vị quản lý vận hành phải có văn bản xác nhận máy biến áp đủ điều kiện vận hành trước khi đóng lại máy biến áp theo phương án nào?
+A. Bảo vệ so lệch tác động, kiểm tra phát hiện lỗi mạch nhị thứ và đã khắc phục
+B. Bảo vệ áp lực dầu tác động, kiểm tra phát hiện lỗi mạch nhị thứ và đã khắc phục
+C. Bảo vệ hơi tác động, kiểm tra không phát hiện lỗi mạch nhị thứ
+D. Phương án A, B, C
+Câu 156:  Theo Thông tư 06/2025/TT-BCT, Khi một vài rơ le bảo vệ các thiết bị điện hoặc đường dây được tách ra không cho làm việc do bị hư hỏng và những rơ le bảo vệ còn lại bảo đảm bảo vệ đầy đủ chống mọi dạng sự cố, nhưng không bảo đảm thời gian loại trừ ngắn mạch cho các thiết bị điện và đường dây dẫn điện thì phải xử lý theo phương án nào?
+A. Phải cắt điện các thiết bị điện hoặc đường dây đó ra khỏi vận hành.
+B. Phải đặt bảo vệ tạm thời và được Cấp điều độ có quyền điều khiển cho phép.
+C. Phải đặt thời gian tác động bảo vệ còn lại theo phiếu chỉnh định rơle do cấp điều độ có quyền điều khiển ban hành.
+D. Phương án A hoặc B hoặc C
+Câu 157:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT):Quyền điều khiển của Cấp điều độ Quốc gia:
+A. Tần số hệ thống điện quốc gia
+B. Tần số hệ thống điện miền trong trường hợp hệ thống điện miền vận hành độc lập với HTĐ quốc gia
+C. Điện áp trên lưới điện 500kV
+D. Cả A và C
+Câu 158:  Theo Thông tư 06/2025/TT-BCT, Máy biến áp 220kV đang ở nấc 1 (định mức 242kV) phải tách khỏi vận hành khi điện áp ở phương án nào?
+A. 270 kV
+B. 260 kV
+C. 250 kV
+D. Phương án A, B
+Câu 159:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị nào có trách nhiệm tổ chức kiểm tra và cấp Chứng nhận vận hành cho chức danh Trưởng ca nhà máy điện:
+A. Cấp điều độ quốc gia
+B. Cấp điều độ miền
+C. Cấp điều độ có quyền điều khiển nhà máy đó
+D. Cục Điều tiết điện lực
+Câu 160:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Điều kiện hoà điện trên hệ thống điện có cấp điện áp đến 220kV
+A. Góc lệch pha điện áp không quá 15 độ, chênh lệch tần số không quá 0,05 Hz, chênh lệch điện áp không quá 5%.
+B. Góc lệch pha điện áp không quá 15 độ, chênh lệch tần số không quá 0,10 Hz, chênh lệch điện áp không quá 10%.
+C. Góc lệch pha điện áp không quá 30 độ, chênh lệch tần số không quá 0,25 Hz, chênh lệch điện áp không quá 10%.
+D. Đồng tần, đồng áp, đồng pha
+Câu 161:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về cân bằng pha ở chế độ vận hành bình thường của điện áp cao áp và siêu cao áp:
+A. Thành phần thứ tự nghịch của điện áp pha không được vượt quá 05% điện áp danh định
+B. Thành phần thứ tự nghịch của điện áp pha không được vượt quá 04% điện áp danh định
+C. Thành phần thứ tự nghịch của điện áp pha không được vượt quá 03% điện áp danh định
+D. Thành phần thứ tự nghịch của điện áp pha không được vượt quá 02% điện áp danh định
+Câu 162:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định trách nhiệm của Nhân viên vận hành trực ban trung gian khi truyền lệnh
+A. Phải ghi âm, ghi chép lệnh đầy đủ vào sổ và có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh
+B. Phải có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh. Trường hợp nhân viên vận hành trực ban trung gian không liên lạc được với người nhận lệnh, phải báo lại ngay cho người ra lệnh biết
+C. Phải ghi âm, ghi chép lệnh đầy đủ vào sổ và có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh. Trường hợp nhân viên vận hành trực ban trung gian không liên lạc được với người nhận lệnh, phải báo lại ngay cho người ra lệnh biết
+D. Không quy định
+Câu 163:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định đúng cấp điện áp cho phép đóng lại ngay đường dây hỗn hợp trên không và cáp sau khi nhảy sự cố?
+A. Cấp điện áp đến 220kV
+B. Cấp điện áp đến 110kV
+C. Cấp điện áp đến 35kV
+D. Không cho phép đóng lại
+Câu 164:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Việc ban hành quy trình thao tác thiết bị điện thuộc phạm vi quản lý phù hợp với yêu cầu của nhà chế tạo, sơ đồ kết dây và quy định tại Thông tư này thuộc trách nhiệm của?
+A. Đơn vị quản lý vận hành
+B. Cấp Điều độ có quyền điều khiển
+C. Không quy định
+D. Cả A & B
+Câu 165:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định ghi số phiếu thao tác đột xuất trong tháng tại điều độ miền đúng theo phương án nào
+A. Số thứ tự phiếu thao tác đột xuất trong năm / năm phát hành phiếu / ĐX / tên viết tắt của cấp điều độ miền
+B. Số thứ tự phiếu thao tác đột xuất trong tháng / tháng phát hành phiếu / ĐX / tên viết tắt của trạm
+C. ĐX / số thứ tự phiếu thao tác đột xuất trong năm / năm phát hành phiếu / tên viết tắt của công ty
+D. Tên viết tắt của cấp điều độ miền / ĐX / số thứ tự phiếu thao tác kế hoạch trong năm / năm phát hành phiếu
+Câu 166:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phiếu thao tác không được hủy trong trường hợp nào
+A. Thao tác có xảy ra sự cố hoặc tai nạn
+B. Thao tác đóng điện công trình mới
+C. Thao tác xử lý sự cố
+D. Không quy định
+Câu 167:  Theo Thông tư 06/2025/TT-BCT, Việc cô lập hoặc đưa các rơ le bảo vệ và tự động vào vận hành trở lại chỉ được thực hiện khi có mệnh lệnh cho phép của?
+A. Điều độ viên cấp điều độ có quyền điều khiển.
+B. Điều độ viên cấp điều độ có quyền kiểm tra.
+C. Lãnh đạo đơn vị quản lý vận hành.
+D. Lãnh đạo cấp điều độ có quyền điều khiển.
+Câu 168:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Điều kiện cần có để thực hiện trong phiếu thao tác thiết bị điện do nhà máy lập phiếu thao tác ghi đúng theo phương án nào:
+A. Ghi lại điều kiện do Điều độ viên có quyền điều khiển yêu cầu.
+B. Ghi những biện pháp an toàn cần phải thực hiện
+C. Ghi rõ những điều kiện bắt buộc phải có mới được thực hiện thao tác
+D. Để trống, không cần ghi
+Câu 169:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, trong điều kiện vận hành bình thường, máy biến áp được phép vận hành lâu dài với điện áp cao hơn đến 10% điện áp định mức tương ứng với đầu phân áp trong điều kiện nào?
+A. Nhiệt độ dầu máy biến áp không vượt quá 60 độ C
+B. Tải qua máy biến áp không quá 25% công suất định mức của máy biến áp
+C. Tải qua máy biến áp không quá 30% công suất định mức của máy biến áp
+D. Nhiệt độ cuộn dây máy biến áp không vượt quá 80 độ C
+Câu 170:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Máy cắt cho phép đóng, cắt phụ tải và ngắn mạch trong phạm vi khả năng cho phép của máy cắt. Thao tác đóng, cắt máy cắt phải thực hiện theo?
+A. Quy định của nhà chế tạo
+B. Quy trình thao tác thiết bị điện do Đơn vị quản lý vận hành ban hành
+C. Quy định của cấp điều độ có quyền điều khiển
+D. A hoặc B
+Câu 171:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), định nghĩa đúng về hệ thống AGC :
+A. là hệ thống thiết bị tự động điều chỉnh tăng giảm công suất tác dụng của tổ máy phát điện, nhà máy điện, cụm nhà máy điện hoặc hệ thống pin tích trữ nhằm đảm bảo vận hành an toàn, ổn định hệ thống điện
+B. là hệ thống thiết bị tự động điều chỉnh tăng giảm công suất phản kháng của tổ máy phát điện, nhà máy điện, cụm nhà máy điện hoặc hệ thống pin tích trữ nhằm đảm bảo vận hành an toàn, ổn định hệ thống điện
+C.là hệ thống thiết bị tự động điều chỉnh tăng giảm công suất tác dụng của tổ máy phát điện nhằm đảm bảo vận hành an toàn, ổn định hệ thống điện
+D. Cả 3 câu trên đều sai
+Câu 172:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng người nhận lệnh không cần phải xác định rõ họ tên, chức danh người ra lệnh
+A. Không cho phép
+B. Thao tác thực hiện theo phiếu thao tác do nhà máy lập
+C.Thao tác thay đổi công suất tổ máy
+D. Thao tác thay đổi điện áp máy phát
+Câu 173:  Theo Thông tư 06/2025/TT-BCT, Khi máy biến áp nhảy sự cố, Đơn vị quản lý vận hành không cần phải có văn bản xác nhận máy biến áp đủ điều kiện vận hành theo phương án nào?
+A. Bảo vệ dự phòng tác động
+B. Bảo áp so lệch tác động, kiểm tra phát hiện lỗi mạch nhị thứ và đã khắc phục
+C. Bảo vệ hơi tác động, cần phải đưa ngay máy biến áp vào vận hành, nhân viên vận hành thông báo máy biến áp đã được Giám đốc đơn vị đồng ý đưa trở lại vận hành
+D. Phương án A, B
+Câu 174:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị nào có trách nhiệm tổ chức kiểm tra và cấp Chứng nhận vận hành cho các chức danh Điều độ viên miền:
+A. Cục Điều tiết điện lực
+B. Tập đoàn Điện lực Việt Nam
+C. Cấp Điều độ Quốc gia
+D. Cấp Điều độ miền
+Câu 175:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Người được cử đi đào tạo để được cấp Chứng nhận vận hành trước khi được sát hạch công nhận chức danh Trưởng kíp trạm điện hoặc trung tâm điều khiển trạm điện có tuổi đời không quá bao nhiêu tuổi?
+A. 25 tuổi.
+B. 30 tuổi.
+C. 35 tuổi.
+D. Không quy định
+Câu 176:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đóng điện đường dây, trình tự đóng máy cắt đầu đường dây nếu hai đầu đều có điện theo phương án nào
+A. Đóng máy cắt phía gần nguồn điện trước
+B. Đóng máy cắt phía xa nguồn điện trước
+C. Tùy theo tình hình thực tế
+D. Không quy định
+Câu 177:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), đơn vị quản lý vận hành bao gồm:
+A. Đơn vị phát điện
+B. Đơn vị truyền tải điện
+C. Đơn vị phân phối điện
+D. Cả 3 đáp án A,B,C
+Câu 178:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, máy biến áp được phép quá tải lâu dài bao nhiêu % nếu không bị quá áp?
+A. 2,5%
+B. 5%
+C. 7,5%
+D. 10%
+Câu 179:  Theo Thông tư 06/2025/TT-BCT, Điều kiện để đóng lại đường cáp sau khi nhảy sự cố?
+A. Đơn vị quản lý vận hành xác nhận đường cáp đủ tiêu chuẩn vận hành
+B. Đơn vị quản lý vận hành xác định lỗi mạch nhị thứ và đã khắc phục được
+C. Sau khi phân tích sự cố kết luận điểm sự cố nằm ngoài phạm vi đường cáp
+D. Phương án A, B, C
+Câu 180:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), Nội dung nào không phải lệnh điều độ
+A. Thông báo phương thức vận hành
+B. Yêu cầu gửi báo cáo vận hành
+C. Thay đổi trị số rơ le bảo vệ và tự động hóa
+D. Chuẩn y kiến nghị của nhân viên vận hành cấp dưới về vận hành thiết bị trong hệ thống điện quốc gia
+Câu 181:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định về viết bổ sung các bước thao tác có liên quan đến thao tác mạch nhị thứ đúng theo phương án nào
+A. Nhân viên vận hành tại nhà máy yêu cầu đơn vị cấp phiếu phải lập phiếu thao tác mới và ghi thêm các thao tác bổ sung các thao tác mạch nhị thứ
+B. Đơn vị quản lý vận hành quy định
+C. Nhân viên vận hành tại nhà máy phải lập phiếu thao tác mới, ghi thêm các thao tác bổ sung các thao tác mạch nhị thứ dưới các hạng mục thao tác nhất thứ theo trình tự hạng mục thao tác nhất thứ của phiếu thao tác do đơn vị có thẩm quyền cấp
+D. Nhân viên vận hành tại nhà máy ghi thêm các thao tác bổ sung các thao tác mạch nhị thứ dưới các hạng mục thao tác nhất thứ tại phiếu thao tác do Cấp điều độ có quyền điều khiển cấp
+Câu 182:  Theo Thông tư 06/2025/TT-BCT, Máy biến áp phải tách ra khỏi vận hành khi thiếu rơ le bảo vệ trong trường hợp nào?
+A. Bảo vệ so lệch
+B. Bảo vệ hơi
+C. Bảo vệ còn lại không bảo đảm chống mọi dạng sự cố
+D. Phương án A, B
+Câu 183:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Khi truyền đạt lệnh thao tác bằng lời nói, người ra lệnh phải thông báo rõ họ tên và phải xác định rõ họ tên, chức danh người nhận lệnh. Lệnh thao tác phải được?
+A. Ghi âm.
+B. Chép đầy đủ vào sổ nhật ký vận hành tại các đơn vị
+C. A hoặc B
+D. Cả A & B
+Câu 184:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), hệ thống điện vận hành ở chế độ khẩn cấp khi xuất hiện hiện tượng nào dưới đây :
+A. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp từ 90% trở lên nhưng không vượt quá giá trị định mức
+B. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp trên 90% trở lên nhưng không vượt quá giá trị định mức
+C. Mức mang tải của bất kỳ thiết bị điện nào trong lưới điện cao áp, siêu cao áp hoặc thiết bị điện đấu nối vào lưới điện cao áp, siêu cao áp vượt quá giá trị định mức nhưng dưới 110 % giá trị định mức mà thiết bị này khi bị sự cố do quá tải có thể dẫn đến chế độ vận hành cực kỳ khẩn cấp
+D. Cả A,B,C đều sai
+Câu 185:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào không cho phép hòa đồng bộ ở cấp điện áp 220kV theo điều kiện góc lệch pha?
+A. Góc lệch pha của điện áp giữa hai phía điểm hoà là 20 độ
+B. Góc lệch pha của điện áp giữa hai phía điểm hoà là 25 độ
+C. Góc lệch pha của điện áp giữa hai phía điểm hoà là 30 độ
+D. Góc lệch pha của điện áp giữa hai phía điểm hoà là 35 độ
+Câu 186:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác đóng điện máy biến áp mới khác với đóng điện máy biến áp sau sửa chữa ở điểm nào?
+A. Nấc máy biến áp đặt phù hợp với điện áp lưới điện, đảm bảo không bị quá điện áp khi đóng điện
+B. Lựa chọn cấp điện áp thích hợp đóng điện máy biến áp
+C. Đóng điện theo phiếu thao tác đã được phê duyệt
+D. Kiểm tra đúng thứ tự pha và đồng vị pha
+Câu 187:  Theo Thông tư 06/2025/TT-BCT, Nếu không có quy định riêng, máy biến áp dầu được phép quá tải ngắn hạn 45% trong bao lâu?
+A. 120 phút
+B. 80 phút
+C. 45 phút
+D. 20 phút
+Câu 188:  Theo Thông tư 06/2025/TT-BCT, Phương án nào không đúng theo nguyên tắc lập sơ đồ kết dây cơ bản trong hệ thống điện:
+A. Bảo đảm tính chọn lọc của rơ le bảo vệ
+B. Đảm bảo khai thác tối đa nguồn điện rẻ tiền
+C. Bảo đảm dòng ngắn mạch không vượt quá giá trị cho phép đối với thiết bị đặt tại các nhà máy điện hoặc trạm điện
+D. Linh hoạt, thuận tiện trong thao tác và xử lý sự cố
+Câu 189:  Theo Thông tư 06/2025/TT-BCT, Việc khôi phục cấp điện cho khách hàng sử dụng điện phải căn cứ theo thứ tự ưu tiên đã được Cơ quan nào xác định:
+A. Các Tổng Công ty Điện lực
+B. Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+C. Tập đoàn Điện lực Việt Nam
+D. Cấp Điều độ phân phối
+Câu 190:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Tại vị trí đặt thiết bị điện nhất thứ, 02 (hai) người phối hợp thực hiện thao tác phải biết rõ sơ đồ và vị trí của thiết bị điện tại hiện trường, đã được đào tạo và kiểm tra đạt được chức danh vận hành và được bố trí làm công việc thao tác. Quy định bậc an toàn đối với người thao tác trực tiếp và người giám sát là?
+A. Người thao tác trực tiếp phải có bậc an toàn từ bậc 02 trở lên, người giám sát phải có bậc an toàn từ bậc 03 trở lên
+B. Người thao tác trực tiếp phải có bậc an toàn từ bậc 02 trở lên, người giám sát phải có bậc an toàn từ bậc 04 trở lên
+C. Người thao tác trực tiếp phải có bậc an toàn từ bậc 03 trở lên, người giám sát phải có bậc 05 an toàn
+D. Người thao tác trực tiếp phải có bậc an toàn từ bậc 03 trở lên, người giám sát phải có bậc an toàn từ bậc 04 trở lên
+Câu 191:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định không đúng thời gian phiếu thao tác theo kế hoạch phải được chuyển tới nhân viên vận hành trực tiếp thao tác trước thời gian dự kiến bắt đầu thao tác?
+A. 120 phút
+B. 90 phút
+C. 45 phút
+D. 30 phút
+Câu 192:  Theo Thông tư 06/2025/TT-BCT, Trường hợp nào sau đây phải tách máy biến áp ra khỏi vận hành:
+A.Chảy dầu
+B.Mẫu dầu không đạt tiêu chuẩn
+C.Nhiệt độ cuộn dây quá mức cảnh báo
+D.Có tiếng kêu khác thường
+Câu 193:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thời gian gửi báo cáo cáo vận hành ngày tại nhà máy điện, trạm điện hoặc trung tâm điều khiển:
+A. Trước 5h30
+B. Trước 6h00
+C. Trước 6h30
+D. Trước 7h00
+Câu 194:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào cho phép khép vòng cấp điện áp 220kV theo điều kiện về điện áp?
+A. Chênh lệch điện áp giữa hai phía điểm hoà là 11 kV
+B. Chênh lệch điện áp giữa hai phía điểm hoà là 22 kV
+C. Chênh lệch điện áp giữa hai phía điểm hoà là 25 kV
+D. Phương án A, B
+Câu 195:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cho phép kiểm tra trạng thái máy cắt theo chỉ thị của tín hiệu và thông số đo lường tại phòng điều khiển mà không cần kiểm tra chỉ thị trạng thái tại chỗ trong trường hợp?
+A. Sau khi thao tác máy cắt, không thao tác dao cách ly hai phía của máy cắt này
+B. Sau khi thao tác máy cắt, việc thao tác dao cách ly hai phía máy cắt được thực hiện bằng điều khiển từ xa (tại phòng điều khiển trung tâm)
+C. Thực hiện thao tác xa hoặc thao tác trong điều kiện thời tiết xấu
+D. A hoặc B hoặc C
+Câu 196:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), Đơn vị QLVH thiết bị phải thực hiện thử nghiệm, kiểm tra và xác nhận thiết bị đủ tiêu chuẩn vận hành nếu thiết bị được tách dự phòng (không mang điện) trong thời gian bao lâu:
+A. Quá 90 ngày
+B. Quá 80 ngày
+C. Quá 30 ngày
+D. Quá 45 ngày
+Câu 197:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), nhân viên vận hành không bao gồm:
+A. Điều độ viên tại các cấp điều độ
+B. Nhân viên trực thao tác lưu động
+C. Trưởng ca nhà máy điện
+D. Quản đốc phân xưởng vận hành nhà máy điện
+Câu 198:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về thời gian chịu đựng tối thiểu của thiết bị (s) ở các cấp điện áp
+A.0.5 s
+B.01 s
+C.02 s
+D.03 s
+Câu 199:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác nào dưới đây không cần ghi chép vào sổ nhật ký vận hành?
+A. Thay đổi nấc phân áp
+B. Thay đổi công suất tổ máy
+C. Thay đổi điện áp máy phát
+D. Mọi thao tác phải được ghi nhận
+Câu 200:  Theo Thông tư 06/2025/TT-BCT, Việc cô lập hoặc đưa các rơ le bảo vệ và tự động vào vận hành trở lại chỉ được thực hiện khi có mệnh lệnh cho phép của:
+A. Điều độ viên cấp điều độ có quyền điều khiển.
+B. Điều độ viên cấp điều độ có quyền kiểm tra.
+C. Lãnh đạo đơn vị quản lý vận hành.
+D. Lãnh đạo cấp điều độ có quyền điều khiển.
+Câu 201:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), yêu cầu khi thực hiện lệnh điều độ bằng lời nói:
+A. nêu rõ tên và chức danh trong mọi liên hệ bằng lời nói
+B.nêu chức danh trong mọi liên hệ bằng lời nói
+C.không cần nêu tên và chức danh
+D.Không có đáp án nào đúng
+Câu 202:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng trình tự thao tác chuyển điểm đấu từ thanh cái này sang thanh cái khác
+A. Không quy định
+B. Lựa chọn bước thao tác theo thứ tự ngăn lộ theo sơ đồ đánh số thiết bị
+C. Lựa chọn bước thao tác hợp lý để tránh quá tải máy cắt liên lạc
+D. Lựa chọn bước thao tác theo phiếu thao tác mẫu
+Câu 203:  Theo Thông tư 06/2025/TT-BCT, Nhà máy đủ điều kiện làm nhà máy khởi động đen chính:
+A. Đấu nối vào cấp điện áp 500kV và có thời gian khởi động đen là 20 phút
+B. Đấu nối vào cấp điện áp 220kV và có thời gian khởi động đen là 15 phút
+C. Đấu nối vào cấp điện áp 110kV và có thời gian khởi động đen là 10 phút
+D. Không phương án nào đúng
+Câu 204:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), điện áp thanh cái 220kV thuộc TBA 500kV do cấp điều độ nào điều khiển
+A. Cấp điều độ Quốc gia
+B. Cấp điều độ miền
+C. Cấp điều độ quốc gia và cấp điều độ miền
+D. Trưởng kíp TBA 500kV
+Câu 205:  Theo Thông tư 06/2025/TT-BCT, Đơn vị nào có trách nhiệm xác định các vị trí quan trọng trong hệ thống điện quốc gia phải xây dựng các nhà máy điện có khả năng khởi động đen?
+A. Tập đoàn Điện lực Việt Nam
+B. Tổng Công ty Truyền tải điện Quốc gia
+C. Cục Điều tiết Điện lực
+D. Điều độ Quốc gia
+Câu 206:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào không đúng theo quy định trình tự thao tác dao cách ly hai phía máy cắt?
+A. Mở dao cách ly phía không có điện áp trước
+B. Đóng dao cách ly phía có điện áp trước
+C. Mở dao cách ly phía nếu có sự cố xảy ra ít ảnh hưởng đến chế độ vận hành của hệ thống điện trước
+D. Đóng dao cách ly phía nếu có sự cố xảy ra ít ảnh hưởng đến chế độ vận hành của hệ thống điện trước
+Câu 207:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Nếu cần thay đổi nội dung thao tác trong phiếu thao tác để phù hợp với sơ đồ kết dây thực tế, trường hợp nào là đúng?
+A. Phải được sự đồng ý của người viết phiếu.
+B. Phải được sự đồng ý của người ra lệnh.
+C. Phải được sự đồng ý của người duyệt phiếu và phải ghi vào mục “Các sự kiện bất thường trong thao tác” của phiếu thao tác và sổ nhật ký vận hành.
+D. Phải được sự đồng ý của Điều độ cấp trên và phải ghi vào mục “Các sự kiện bất thường trong thao tác” của phiếu thao tác và sổ nhật ký vận hành.
+Câu 208:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Việc đóng cắt thử máy cắt được thực hiện khi đảm bảo yêu cầu sau?
+A. Nếu đóng dao cách ly một phía của máy cắt, phải cắt tất cả các tiếp địa của ngăn máy cắt này và lưu ý các mạnh liên động, tự động được trang bị kèm
+B. Các dao cách ly hai phía của máy cắt được cắt hoàn toàn và chỉ đóng dao tiếp địa hoặc tiếp địa di động ở một phía máy cắt này
+C. Các dao cách ly hai phía của máy cắt được cắt hoàn toàn và phải đóng dao tiếp địa hoặc tiếp địa di động ở cả hai phía của máy cắt này
+D. A hoặc B
+Câu 209:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định không đúng trách nhiệm ban hành quy trình vận hành và xử lý sự cố
+A. Cấp điều độ có quyền điều khiển ban hành quy trình vận hành và xử lý sự cố trạm điện, nhà máy điện
+B. Đơn vị quản lý vận hành ban hành quy trình vận hành và xử lý sự cố trạm điện, nhà máy điện
+C.Cấp điều độ có quyền điều khiển ban hành quy trình vận hành và xử lý sự cố hệ thống điện thuộc quyền điều khiển
+D. Đơn vị quản lý vận hành ban hành quy trình vận hành và xử lý sự cố hệ thống điện tự dùng
+Câu 210:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về độ tin cậy tác động của hệ thống rơ le bảo vệ:
+A. Không nhỏ hơn 99%
+B. Không nhỏ hơn 98%
+C. Không nhỏ hơn 95%
+D. Không nhỏ hơn 90%
+Câu 211:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), Quy định về tách đường dây, thiết bị điện được thực hiện theo lệnh hoặc khi có sự cho phép của cấp điều độ có quyền điều khiển trong những trường hợp nào:
+A. Khi nghe thông tin từ người dân báo đe doạ đến tính mạng con người
+B. Đe dọa ổn định của hệ thống điện
+C. Điện áp hệ thống điện vượt ra ngoài phạm vi quy định
+D. B và C đúng
+Câu 212:  Theo Thông tư 06/2025/TT-BCT, Phương án nào cho phép khôi phục ngay đường dây 220 kV sau sự cố?
+A. Đường dây sự cố 3 pha, tự động đóng lại không thành công
+B. Đường dây sự cố 1 pha qua khu vực đông dân cư, tự động đóng lại không thành công
+C. Đường dây sự cố 1 pha, đang bão có gió cấp 06
+D. Phương án A, B
+Câu 213:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), hình thức lệnh điều độ
+A. Lời nói
+B.Chữ viết
+C.Tín hiệu điều khiển trực tiếp thiết bị điện thuộc quyền điều khiển
+D.Cả 3 đáp án trên đều đúng
+Câu 214:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), điều nào sau đây không đúng về quyền điều khiển của nhà máy điện:
+A.Tổ máy phát của nhà máy điện
+B. Hệ thống tự dùng của nhà máy điện
+C. Lưới điện thuộc sở hữu của nhà máy điện cung cấp điện cho khách hàng mua điện trực tiếp từ nhà máy điện
+D. Các thiết bị phụ trợ không nối hệ thống điện quốc gia
+Câu 215:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định trình tự đầu tiên khi tách máy biến áp
+A. Chuyển nguồn tự dùng
+B. Cắt máy cắt, dao cách ly các phía máy biến áp theo quy định
+C. Kiểm tra trào lưu công suất qua máy biến áp
+D. Cấp điều độ có quyền điều khiển ra lệnh thao tác
+Câu 216:  Theo Thông tư 06/2025/TT-BCT, Trường hợp nào sau đây phải tách MBA ra khỏi vận hành:
+A. Theo quy định của Cấp điều độ có quyền điều khiển
+B. Theo yêu cầu của đơn vị quản lý vận hành
+C. Theo quy định của nhà sản xuất
+D. Cả 3 đáp án trên
+Câu 217:  Theo Thông tư 05/2025/TT-BCT, Phương án nào hệ thống điện vận hành ở chế độ cực kỳ khẩn cấp?
+A. Tần số hệ thống 48,9 Hz
+B. Máy biến áp 110 kV đang mang tải là 109%
+C. Điện áp thấp nhất trên lưới 220 kV là 195 kV
+D. Phương án A, C
+Câu 218:  Theo Thông tư 06/2025/TT-BCT, Mức giới hạn truyền tải đường dây trên không được xác định không đúng theo giới hạn nào?
+A. Giới hạn phát nhiệt của dây dẫn hoặc thiết bị điện nối tiếp trên đường dây.
+B. Giới hạn góc truyền tải theo điều kiện ổn định.
+C. Giới hạn theo điện áp thấp -10% điện áp danh định.
+D. Giới hạn dòng điện theo loại dây dẫn do Đơn vị quản lý vận hành quy định.
+Câu 219:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào quy định đúng khi người thao tác phát hiện có điều không hợp lý trong phiếu thao tác do điều độ miền lập?
+A. Đề nghị người ra lệnh giải thích
+B. Đề nghị người viết phiếu giải thích
+C. Đề nghị người duyệt phiếu giải thích
+D. Phương án A hoặc C
+Câu 220:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào không cho phép hòa đồng bộ cấp điện áp 220kV theo điều kiện về điện áp?
+A. Chênh lệch điện áp giữa hai phía điểm hoà là 20 kV
+B. Chênh lệch điện áp giữa hai phía điểm hoà là 21 kV
+C. Chênh lệch điện áp giữa hai phía điểm hoà là 22 kV
+D. Chênh lệch điện áp giữa hai phía điểm hoà là 23 kV
+Câu 221:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về độ lệch điện áp vận hành cho phép trên lưới điện 500kV ở chế độ vận hành bình thường:
+A. ± 05 %
+B. ± 04 %
+C. ± 03 %
+D. ± 02 %
+Câu 222:  Theo Thông tư 06/2025/TT-BCT, Khi máy biến áp bị cắt sự cố do bảo vệ so lệch và hơi (hoặc dòng dầu, áp lực dầu), được đưa MBA vào vận hành sau khi thực hiện đầy đủ các bước sau nào
+A. Tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, phân tích mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện; có văn bản xác nhận MBA đủ điều kiện vận hành gửi Cấp điều độ có quyền điều khiển.
+B. Tiến hành thí nghiệm, thử nghiệm RLBV, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện; có văn bản xác nhận MBA đủ điều kiện vận hành gửi Cấp điều độ có quyền điều khiển.
+C. Tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện; có văn bản xác nhận MBA đủ điều kiện vận hành gửi ĐĐV có quyền điều khiển.
+D. Tiến hành thí nghiệm, kiểm tra thử nghiệm các thông số, phân tích mẫu khí, mẫu dầu, khắc phục những nhược điểm bất thường đã phát hiện; có văn bản xác nhận MBA đủ điều kiện vận hành gửi Cấp điều độ có quyền điều khiển.
+Câu 223:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), hệ thống điện vận hành ở chế độ cực kỳ khẩn cấp khi xuất hiện hiện tượng nào dưới đây :
+A. Mức mang tải của bất kỳ thiết bị nào trong lưới điện cao áp, siêu cao áp hoặc thiết bị đấu nối với lưới điện cao áp, siêu cao áp từ 110% giá trị định mức trở lên mà thiết bị này khi bị sự cố do quá tải có thể dẫn đến tan rã từng phần hệ thống điện;
+B. Mức mang tải của các đường dây và máy biến áp trong lưới điện cao áp, siêu cao áp trên 90% trở lên nhưng không vượt quá giá trị định mức
+C. Mức mang tải của bất kỳ thiết bị điện nào trong lưới điện cao áp, siêu cao áp hoặc thiết bị điện đấu nối vào lưới điện cao áp, siêu cao áp vượt quá giá trị định mức nhưng dưới 110 % giá trị định mức mà thiết bị này khi bị sự cố do quá tải có thể dẫn đến chế độ vận hành cực kỳ khẩn cấp
+D. Cả A,B,C đều sai
+Câu 224:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thời gian lưu trữ của các phiếu thao tác thực hiện xong được quy định là bao nhiêu lâu
+A. Ít nhất 03 tháng
+B. Ít nhất 06 tháng
+C. Ít nhất 01 năm
+D. Ít nhất 05 năm
+Câu 225:  Theo Thông tư 06/2025/TT-BCT, Phương án nào không phải là nhiệm vụ của cấp Điều độ miền:
+A. Tham gia lập phương án khởi động đen và khôi phục HTĐ QG có cấp điện áp 220kV
+B. Lập phương án khởi động đen và khôi phục HTĐ QG có cấp điện áp 110kV thuộc quyền điều khiển
+C. Tham gia lập phương án khởi động đen và khôi phục HTĐ QG có cấp điện áp 22kV
+D. Phương án A&C
+Câu 226:  Theo Thông tư 06/2025/TT-BCT, Trường hợp nào sau đây phải xử lý đường dây theo chế độ cực kỳ khẩn cấp:
+A. Đường dây mang tải trên 90%
+B. Đường dây mang tải trên 100%
+C. Đường dây mang tải trên 110%
+D. Đáp án B và C
+Câu 227:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), nhân viên vận hành được làm những điều nào sau đây trong thời gian trực ca:
+A. uống một chút bia
+B. làm việc riêng
+C. Cho kỹ sư CNTT & SCADA vào phòng điều khiển để xử lý lỗi hệ thống SCADA trường hợp được sự đồng ý của lãnh đạo trực tiếp.
+D. Cả 3 đáp án đều sai
+Câu 228:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về lưới điện truyền tải:
+A. Phần lưới điện bao gồm toàn bộ các đường dây và trạm điện có cấp điện áp trên 22kV
+B. Phần lưới điện bao gồm toàn bộ các đường dây và trạm điện có cấp điện áp trên 110kV
+C. Phần lưới điện bao gồm toàn bộ các đường dây và trạm điện có cấp điện áp trên 220kV
+D. Không có đáp án đúng
+Câu 229:  Theo Thông tư 06/2025/TT-BCT, Khi sự cố đường dây có cấp điện áp trên 35kV đến 220kV qua khu dân cư, nơi đông người, chỉ được phép đóng lại đường dây lần thứ 2 trong trường hợp nào?
+A. Đóng lại theo lệnh NVVH cấp trên
+B. Sau khi Đơn vị quản lý vận hành đã thực hiện kiểm tra, xác nhận đường dây đủ điều kiện vận hành và đảm bảo an toàn cho người, thiết bị điện.
+C. Xin ý kiến lãnh đạo để đóng lại
+D. Không đóng lại, cô lập đường dây bàn giao Đơn vị quản lý vận hành sửa chữa
+Câu 230:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thứ tự điều chỉnh điện áp
+A. Thay đổi nguồn công suất phản kháng của tụ điện, kháng điện, máy bù đồng bộ, máy bù tĩnh, máy phát điện theo thứ tự từ gần đến xa điểm cần điều chỉnh điện áp.
+B. Thay đổi nguồn công suất phản kháng của tụ điện, kháng điện, máy bù đồng bộ, máy bù tĩnh, máy phát điện theo thứ tự từ xa đến gần điểm cần điều chỉnh điện áp.
+C. Không quy định
+D. Cả 3 đáp án đều sai
+Câu 231:  Theo Thông tư 05/2025/TT-BCT, Phương án nào hệ thống điện vận hành không ở chế độ cảnh báo?
+A. Tần số hệ thống 49,5 Hz
+B. Máy biến áp chính 220 kV đang mang tải là 95%
+C. Điện áp thấp nhất trên lưới 220kV là 210kV
+D. Phương án A, C
+Câu 232:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về khởi động nhanh:
+A. Tổ máy phát điện, nhà máy điện cung cấp dự phòng khởi động nhanh phải có khả năng tăng đến công suất định mức trong vòng 25 phút và duy trì ở mức công suất này tối thiểu 08 giờ
+B. Tổ máy phát điện, nhà máy điện cung cấp dự phòng khởi động nhanh phải có khả năng tăng đến công suất định mức trong vòng 30 phút và duy trì ở mức công suất này tối thiểu 07 giờ
+C.Tổ máy phát điện, nhà máy điện cung cấp dự phòng khởi động nhanh phải có khả năng tăng đến công suất định mức trong vòng 35 phút và duy trì ở mức công suất này tối thiểu 06 giờ
+D. Tổ máy phát điện, nhà máy điện cung cấp dự phòng khởi động nhanh phải có khả năng tăng đến công suất định mức trong vòng 40 phút và duy trì ở mức công suất này tối thiểu 05 giờ
+Câu 233:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thời gian đào tạo Trưởng kíp tại trạm điện:
+A. ít nhất 03 tháng.
+B. ít nhất 06 tháng.
+C. ít nhất 09 tháng.
+D. ít nhất 12 tháng.
+Câu 234:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), thứ tự ưu tiên khi thực hiện lệnh điều độ bằng lời nói:
+A. Kênh trực thông hoặc kênh vô tuyến - điện thoại cố định - điện thoại đi động
+B. Điện thoại di động - kênh trực thông hoặc kênh vô tuyến - điện thoại cố định
+C.Điện thoại cố định - Điện thoại di động - kênh trực thông hoặc kênh vô tuyến
+D.Không có đáp án nào đúng
+Câu 235:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT):Quyền điều khiển của Cấp điều độ miền:
+A. Công suất phát của nhà máy điện có tổng công suất đặt từ 30 MW trở lên
+B. Công suất phát của nhà máy điện có tổng công suất đặt từ 30 MW trở xuống
+C. Công suất phát của nhà máy điện có tổng công suất đặt từ 30 MW trở xuống đấu nối vào lưới điện có cấp điện áp 110kV, 220kV thuộc hệ thống điện miền
+D. Công suất phát của nhà máy điện có tổng công suất đặt trên 30 MW đấu nối vào lưới điện có cấp điện áp 110kV, 220kV thuộc hệ thống điện miền
+Câu 236:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thời gian đào tạo Trưởng kíp tại trung tâm điều khiển trạm điện:
+A. ít nhất 03 tháng.
+B. ít nhất 06 tháng.
+C. ít nhất 09 tháng.
+D. ít nhất 12 tháng.
+Câu 237:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định đúng không cho phép khôi phục đường dây 220kV khi có bão đi qua
+A. Với gió giật từ cấp 10 trở lên
+B. Với gió từ cấp 6 trở lên
+C. Với gió từ cấp 10 trở lên
+D. Với gió giật từ cấp 6 trở lên
+Câu 238:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về biểu đồ điện áp do đơn vị nào ban hành:
+A. Cấp điều độ có quyền điều khiển ban hành
+B. Trung tâm điều độ hệ thống điện miền ban hành
+C. EVN ban hành
+D. Do đơn vị quản lý vận hành tự ban hành
+Câu 239:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): khi cắt điện đường dây phải thao tác máy cắt như thế nào:
+A. Thao tác máy cắt xa nguồn điện trước, gần nguồn điện sau
+B. Thao tác máy cắt gần nguồn điện trước, xa nguồn điện sau
+C. Thao tác máy cắt nào trước cũng được
+D. Thao tác để thuận tiện cho trình tự cắt điện đường dây
+Câu 240:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định đúng điều kiện cho phép khép mạch vòng trên hệ thống điện?
+A. Đồng tần, đồng áp, đồng pha
+B. Góc lệch pha điện áp không quá 15 độ, chênh lệch điện áp không quá 10%
+C. Góc lệch pha điện áp không quá 30 độ, chênh lệch điện áp không quá 5%
+D. Góc lệch pha điện áp không quá 30 độ, chênh lệch điện áp không quá 10%
+Câu 241:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về dòng điện ngắn mạch lớn nhất cho phép (kA) cấp 500kV:
+A. 50
+B. 55
+C. 60
+D. 45
+Câu 242:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Hạn chế thực hiện thao tác vào thời điểm nào?
+A. Giờ có nhu cầu sử dụng điện cao
+B. Chuẩn bị giao nhận ca
+C. Xử lý sự cố
+D. Phương án A, B
+Câu 243:  Theo Thông tư 06/2025/TT-BCT, Khi lệnh của Lãnh đạo trực tiếp trái với lệnh của Nhân viên vận hành cấp trên?
+A. Nhân viên vận hành cấp dưới thi hành lệnh của Lãnh đạo trực tiếp và báo cáo Nhân viên vận hành cấp trên
+B. Nhân viên vận hành cấp dưới có quyền không thi hành lệnh của Lãnh đạo trực tiếp và báo cáo Nhân viên vận hành cấp trên.
+C. Đưa ra những lý do không chấp hành với Lãnh đạo trực tiếp, nếu Lãnh đạo trực tiếp không chấp thuận thì vẫn thi hành mệnh lệnh sau đó báo cáo lên Nhân viên vận hành cấp trên.
+D. Nhân viên vận hành cấp dưới có quyền không thi hành lệnh của Lãnh đạo trực tiếp và báo cáo Nhân viên vận hành cấp trên, trừ trường hợp có nguy cơ đe dọa đến tính mạng con người và an toàn thiết bị
+Câu 244:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định nhiệm vụ của trưởng kíp trạm điện hoặc trung tâm điều khiển trạm điện:
+A. Chấp hành lệnh điều độ của nhân viên vận hành cấp trên
+B. Thường xuyên theo dõi thông số vận hành và kiểm tra thiết bị thuộc quyền quản lý của trạm điện, bảo đảm thiết bị vận hành an toàn, tin cậy
+C. Nắm vững sơ đồ, thông số kỹ thuật, phương thức vận hành, quy trình vận hành và quy trình xử lý sự cố thiết bị trong trạm điện
+D. Cả 3 đáp an A, B, C đều đúng
+Câu 245:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): trách nhiệm bảo đảm hoạt động ổn định, tin cậy của hệ thống rơ le bảo vệ và tự động hóa thuộc phạm vi quản lý thuộc về đơn vị nào
+A. Các cấp điều độ
+B. Đơn vị truyền tải điện
+C. EVN
+D.Cả 3 đáp án trên đều đúng
+Câu 246:  Theo Thông tư 06/2025/TT-BCT, Đối với trường hợp gió cấp 06 trở lên, Điều độ viên của Cấp điều độ có quyền điều khiển chủ động cho khóa tự đóng lại của các máy cắt đường dây ở cấp điện áp nào:
+A. Siêu cao áp
+B. Cao áp
+C. Trung áp
+D. Không quy định
+Câu 247:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trình tự thực hiện Kiểm tra và cấp chứng nhận vận hành cho các chức danh tham gia trực tiếp công tác điều độ, vận hành hệ thống điện quốc gia do đơn vị nào có trách nhiệm xây dựng:
+A. Bộ Công Thương.
+B. Cục Điều tiết điện lực.
+C. Tập Đoàn Điện lực.
+D. Đơn vị Điều độ hệ thống điện quốc gia.
+Câu 248:  Theo Thông tư 06/2025/TT-BCT, Đơn vị quản lý vận hành có trách nhiệm cung cấp danh sách các đường dây đi qua khu vực tập trung đông người, khu dân cư cho ai ?
+A. Cho đơn vị phát điện
+B. Cho cấp điều độ có quyền kiểm tra
+C. Cho cấp điều độ có quyền điều khiển
+D. Cho đơn vị mua bán điện
+Câu 249:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Khi thực hiện sửa chữa nóng đường dây trên không phải thực hiện biện pháp an toàn theo phương án nào?
+A. Đơn vị công tác tự làm biện pháp an toàn
+B. Đơn vị quản lý vận hành tự làm biện pháp an toàn
+C. Đơn vị điều độ ra lệnh cô lập mạch tự động đóng lại đường dây trong thời gian công tác sửa chữa nóng
+D. Nhân viên vận hành tại trạm điện, nhà máy điện tự chuyển khóa tự đóng lại sang vị trí OFF (không làm việc)
+Câu 250:  Theo Thông tư 05/2025/TT-BCT, Hệ thống điện vận hành ở chế độ cảnh báo khi:
+A. Mức mang tải của mức mang tải của các đường dây và máy biến áp trong lưới điện từ 110kV trở lên trên 110% giá trị định mức
+B. Mức mang tải của các đường dây và máy biến áp trong lưới điện từ 110kV trở lên vượt quá giá trị định mức nhưng dưới 110% giá trị định mức
+C. Mức độ mang tải của các đường dây và máy biến áp trong lưới điện từ 110kV trở lên trên 90% nhưng không vượt quá giá trị định mức.
+D. Mức độ mang tải của các đường dây và máy biến áp trong lưới điện từ 110kV trở lên trên 90%.
+Câu 251:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), các bộ phận trực tiếp tham gia công tác điều độ hệ thống điện miền gồm:
+A. Trực ban chỉ huy điều độ miền
+B. Phương thức ngắn hạn
+C. Phương thức dài hạn
+D. Cả 3 đáp án A, B, C đều đúng
+Câu 252:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định về lập phương thức vận hành hệ thống điện thuộc quyền điều khiển dịp lễ, tết và những ngày có yêu cầu đặc biệt là trách nhiệm của:
+A. Bộ phận phương thức dài hạn
+B. Bộ phận phương thức ngắn hạn
+C. Bộ phận trực ban chỉ huy điều độ miền
+D. Không quy định
+Câu 253:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Đơn vị quản lý vận hành giao máy biến áp cho cấp điều độ có quyền điều khiển để đưa vào vận hành bao gồm nội dung gì
+A. Không cần giao nhận máy biến áp
+B. Đã kết thúc công tác, người và phương tiện sửa chữa đã rút hết khỏi máy biến áp
+C. Đã tháo hết tiếp địa di động trên máy biến áp, máy biến áp đủ tiêu chuẩn vận hành và sẵn sàng đóng điện
+D. Phương án B, C
+Câu 254:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Hình thức chuyển phiếu thao tác giữa các đơn vị tham gia thao tác thực hiện không cho phép theo hình thức nào?
+A. Đọc qua điện thoại
+B. Chuyển qua thư điện tử
+C. Chuyển trực tiếp
+D. Chuyển qua tin nhắn
+Câu 255:  Theo Thông tư 06/2025/TT-BCT, Đơn vị quản lý vận hành phải gửi Báo cáo sự cố cho Cấp điều độ có quyền điều khiển?
+A. Ngay sau khi xử lý xong sự cố.
+B. Trong vòng 24 giờ kể từ khi sự cố xảy ra.
+C. Trong vòng 48 giờ kể từ khi sự cố xảy ra.
+D. Không cần gửi báo cáo nếu đã báo cáo qua điện thoại thông qua trực ban vận hành.
+Câu 256:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Khi cần thiết, cho phép được cắt sự cố thêm đối với các máy cắt đã có tổng dòng cắt ngắn mạch hoặc có số lần cắt ngắn mạch đến mức quy định, với điều kiện?
+A. Đã kiểm tra máy cắt đủ tiêu chuẩn vận hành
+B. Được sự đồng ý của Giám đốc hoặc Phó giám đốc kỹ thuật Đơn vị quản lý vận hành
+C. Được sự đồng ý của cấp điều độ có quyền điều khiển
+D. Cả A và B
+Câu 257:  Theo Thông tư 06/2025/TT-BCT, Lựa chọn phương án đúng trong điều kiện vận hành bình thường của máy biến áp:
+A. Được vận hành 05 tiếng khi điện áp cao hơn điện áp định mức 7% và tải MBA là 90%
+B. Được vận hành 02 tiếng khi điện áp cao hơn điện áp định mức 11% và tải MBA là 20%
+C. Được vận hành lâu dài khi điện áp cao hơn điện áp định mức 6% và tải MBA là 30%
+D. Không phương án nào đúng
+Câu 258:  Theo Thông tư 06/2025/TT-BCT, Trong trường hợp nào Điều độ viên được phép khôi phục lại đường cáp điện lực sau khi nhảy sự cố?
+A. Đơn vị quản lý vận hành kiểm tra, xác nhận đường cáp đủ tiêu chuẩn vận hành hoặc xác định đường cáp bị cắt điện sự cố là do lỗi mạch nhị thứ và đã được khắc phục.
+B. Được phép khôi phục ngay sau sự cố
+C. Sau khi phân tích sự cố bảo vệ rơ le tác động là do ngắn mạch thoáng qua ngoài phạm vi đường cáp.
+D. A hoặc C
+Câu 259:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Cắt điện đường dây, trình tự cắt máy cắt đầu đường dây theo phương án nào
+A. Cắt máy cắt phía gần nguồn điện trước
+B. Cắt máy cắt phía xa nguồn điện trước
+C. Tùy theo tình hình thực tế
+D. Không quy định
+Câu 260:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT), quy định nhân viên bộ phận trực ban chỉ huy điều độ miền:
+A. Không được ít hơn 4 người, trong đó phải có 2 Điều độ viên phụ trách
+B. Không được ít hơn 4 người, trong đó phải có 1 Điều độ viên phụ trách
+C. Không được ít hơn 3 người, trong đó phải có 1 Điều độ viên phụ trách
+D. Không được ít hơn 2 người, trong đó phải có 1 Điều độ viên phụ trách
+Câu 261:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định không đúng nguyên tắc xử lý sự cố:
+A. Áp dụng mọi biện pháp để nhanh chóng loại trừ sự cố
+B. Nhanh chóng khôi phục việc cung cấp điện cho khách hàng
+C. Vận hành hệ thống điện với tần số và điện áp khác với chế độ vận hành bình thường
+D.Nhanh chóng khôi phục hệ thống điện về trạng thái vận hành bình thường
+Câu 262:  Theo Thông tư 06/2025/TT-BCT, Điều độ viên miền phải lập Báo cáo sự cố phần tử thuộc quyền điều khiển theo phương án nào:
+A. Không phải lập báo cáo sự cố
+B. Không quy định
+C. Theo mẫu quy định tại Quy trình vận hành và xử lý sự cố hệ thống điện do Cấp điều độ quốc gia ban hành
+D. Theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư trên
+Câu 263:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), quy định về độ lệch điện áp vận hành cho phép trên lưới điện 220kV so với điện áp danh định ở chế độ vận hành bình thường:
+A. + 10 % và - 05%
+B. + 10 % và - 10%
+C. + 5 % và - 05%
+D. + 3 % và - 05%
+Câu 264:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trường hợp cần chỉnh sửa phiếu thao tác, ĐĐV phải hỏi ý kiến của ai:
+A. Người viết phiếu
+B. Trưởng, phó phòng Điều độ
+C. Người duyệt phiếu
+D. ĐĐV phụ trách ca trực
+Câu 265:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác đóng điện đường dây mới khác với đóng điện đường dây sau sửa chữa ở điểm nào?
+A. Dùng máy cắt và rơ le bảo vệ dự phòng đã được chỉnh định để đóng điện đường dây lần đầu
+B. Khoá mạch tự động đóng lại đường dây trước khi đóng điện lần đầu
+C. Kiểm tra điều kiện khép vòng hoặc hòa đồng bộ đầu còn lại trước khi đóng khép vòng hoặc hoà hai hệ thống
+D. Đóng điện đường dây theo phiếu thao tác đã được phê duyệt
+Câu 266:  Theo Thông tư 06/2025/TT-BCT, Khi sự cố đường cáp và đường dây hỗn hợp 220kV, cho phép đóng lại đường dây và cáp này bao nhiêu lần?
+A. Đóng lại một lần
+B. Không đóng lại ngay, chỉ đóng lại khi có yêu cầu từ Đơn vị quản lý vận hành
+C. Xin ý kiến lãnh đạo để đóng lại một lần
+D. Không đóng lại, cô lập đường dây bàn giao Đơn vị quản lý vận hành sửa chữa
+Câu 267:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Phương án nào cho phép hòa đồng bộ cấp điện áp 220kV theo điều kiện về tần số?
+A. Chênh lệch tần số giữa hai phía điểm hoà là 0,10 Hz
+B. Chênh lệch tần số giữa hai phía điểm hoà là 0,15 Hz
+C. Chênh lệch tần số giữa hai phía điểm hoà là 0,25 Hz
+D. Phương án A, B, C
+Câu 268:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Quy định trách nhiệm của Nhân viên vận hành trực ban trung gian khi truyền lệnh?
+A. Phải ghi âm, ghi chép lệnh đầy đủ vào sổ và có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh
+B. Phải có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh. Trường hợp nhân viên vận hành trực ban trung gian không liên lạc được với người nhận lệnh, phải báo lại ngay cho người ra lệnh biết
+C. Phải ghi âm, ghi chép lệnh đầy đủ vào sổ và có trách nhiệm chuyển ngay lệnh thao tác đến đúng người nhận lệnh. Trường hợp nhân viên vận hành trực ban trung gian không liên lạc được với người nhận lệnh, phải báo lại ngay cho người ra lệnh biết
+D. Không quy định
+Câu 269:  Theo Thông tư 06/2025/TT-BCT, Phương án nào quy định đúng trách nhiệm ngăn ngừa sự cố lan rộng?
+A. Đơn vị quản lý vận hành
+B. Cấp điều độ có quyền điều khiển
+C. Nhân viên vận hành
+D. Phương án A, B, C
+Câu 270:  Theo Thông tư quy định hệ thống truyền tải điện, phân phối điện và đo đếm điện năng (TT số 05/2025/TT -BCT), yêu cầu đối với CT sử dụng cho mục đích đo đếm điện năng:
+A. Giá trị dòng điện thứ cấp danh định là 01A hoặc 05A
+B. Giá trị dòng điện thứ cấp danh định là 02A hoặc 06A
+C. Giá trị dòng điện thứ cấp danh định là 03A hoặc 09A
+D. không quy định
+Câu 271:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trình tự thao tác đóng dao cách ly hai phía máy cắt khi một phía máy cắt có điện áp, một phía không có điện áp?
+A. Đóng dao cách ly phía không có điện áp trước
+B. Đóng dao cách ly phía có điện áp trước
+C. Đóng dao cách ly phía nào trước cũng được
+D. Đóng dao cách ly phía có điện áp sau
+Câu 272:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác xa là thao tác?
+A. Do nhân viên vận hành tại các cấp điều độ hoặc Trung tâm điều khiển gửi tín hiệu điều khiển từ xa để thay đổi trạng thái hoặc thông số vận hành các thiết bị điện trên đường dây, trạm điện, nhà máy điện qua hệ thống điều khiển và hệ thống thông tin, viễn thông
+B. Do nhân viên vận hành tại trạm, nhà máy điều khiển gửi tín hiệu điều khiển từ xa để thay đổi trạng thái hoặc thông số vận hành các thiết bị điện tại trạm điện, nhà máy điện
+C. Cả A & B
+D. Không phương án nào đúng
+Câu 273:  Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trong quá trình thao tác nếu có cảnh báo, trục trặc, bất thường, nhân viên vận hành phải thực hiện theo phương án nào
+A. Báo cáo lãnh đạo đơn vị, xin ý kiến chỉ đạo
+B. Báo cáo người ra lệnh biện pháp xử lý tình huống
+C. Ngừng thao tác, xử lý xong mới thao tác tiếp
+D. Phương án A, B

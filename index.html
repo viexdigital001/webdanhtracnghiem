@@ -1,0 +1,1474 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trắc Nghiệm - Trưởng Kíp Trạm Điện (TT05 & TT06/2025/TT-BCT)</title>
+<meta name="description" content="Hệ thống ôn thi trắc nghiệm chức danh Trưởng Kíp Trạm Điện theo Thông tư 05 và 06/2025/TT-BCT">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+/* ========== CSS VARIABLES ========== */
+:root {
+  --bg: #F2F4F8;
+  --surface: #FFFFFF;
+  --surface2: #F7F9FC;
+  --surface3: #EEF1F7;
+  --border: #E3E8F0;
+  --border2: rgba(79,70,229,0.15);
+  --text: #111827;
+  --text2: #374151;
+  --text3: #6B7280;
+  --text4: #9CA3AF;
+  --accent: #4F46E5;
+  --accent2: #7C3AED;
+  --accent-light: #EEF2FF;
+  --accent-mid: rgba(79,70,229,0.08);
+  --green: #059669;
+  --green2: #10B981;
+  --green-light: #ECFDF5;
+  --green-mid: rgba(5,150,105,0.12);
+  --red: #DC2626;
+  --red2: #EF4444;
+  --red-light: #FEF2F2;
+  --red-mid: rgba(220,38,38,0.12);
+  --yellow: #D97706;
+  --yellow-light: #FFFBEB;
+  --yellow-mid: rgba(217,119,6,0.1);
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow: 0 4px 16px rgba(0,0,0,0.08), 0 2px 6px rgba(0,0,0,0.04);
+  --shadow-lg: 0 12px 40px rgba(79,70,229,0.14), 0 4px 12px rgba(0,0,0,0.06);
+  --shadow-accent: 0 8px 24px rgba(79,70,229,0.28);
+  --r-xs: 8px;
+  --r-sm: 12px;
+  --r-md: 16px;
+  --r-lg: 20px;
+  --r-xl: 24px;
+  --r-2xl: 32px;
+  --ease: cubic-bezier(0.32,0.72,0,1);
+}
+[data-theme="dark"] {
+  --bg: #080C14;
+  --surface: #111827;
+  --surface2: #1A2235;
+  --surface3: #1E2A40;
+  --border: #1F2D45;
+  --border2: rgba(129,140,248,0.2);
+  --text: #F9FAFB;
+  --text2: #D1D5DB;
+  --text3: #9CA3AF;
+  --text4: #6B7280;
+  --accent: #818CF8;
+  --accent2: #A78BFA;
+  --accent-light: #1E1B4B;
+  --accent-mid: rgba(129,140,248,0.08);
+  --green: #34D399;
+  --green2: #6EE7B7;
+  --green-light: #022C22;
+  --green-mid: rgba(52,211,153,0.12);
+  --red: #F87171;
+  --red2: #FCA5A5;
+  --red-light: #2D0A0A;
+  --red-mid: rgba(248,113,113,0.12);
+  --yellow: #FCD34D;
+  --yellow-light: #1C1200;
+  --yellow-mid: rgba(252,211,77,0.08);
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
+  --shadow: 0 4px 16px rgba(0,0,0,0.4);
+  --shadow-lg: 0 12px 40px rgba(0,0,0,0.5);
+  --shadow-accent: 0 8px 24px rgba(129,140,248,0.2);
+}
+
+/* ========== RESET & BASE ========== */
+*{box-sizing:border-box;margin:0;padding:0;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:'Plus Jakarta Sans',system-ui,sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  min-height:100vh;
+  transition:background .35s var(--ease),color .35s var(--ease);
+  font-size:15px;
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ========== SCROLLBAR ========== */
+::-webkit-scrollbar{width:5px;height:5px;}
+::-webkit-scrollbar-track{background:transparent;}
+::-webkit-scrollbar-thumb{background:var(--border);border-radius:99px;}
+::-webkit-scrollbar-thumb:hover{background:var(--text3);}
+
+/* ========== LAYOUT ========== */
+.page-wrap{max-width:980px;margin:0 auto;padding:20px 16px;}
+.screen{display:none;}
+.screen.active{display:block;}
+
+/* ========== HEADER ========== */
+.header{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 20px;height:58px;
+  background:var(--surface);
+  border-bottom:1px solid var(--border);
+  box-shadow:var(--shadow-sm);
+  position:sticky;top:0;z-index:200;
+  transition:background .35s,border-color .35s;
+}
+.header-brand{display:flex;align-items:center;gap:10px;}
+.brand-icon{
+  width:36px;height:36px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  border-radius:10px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:18px;
+  box-shadow:0 2px 8px rgba(79,70,229,0.3);
+}
+.brand-name{font-size:14px;font-weight:800;color:var(--text);letter-spacing:-.2px;}
+.brand-sub{font-size:10px;color:var(--text3);font-weight:500;letter-spacing:.2px;}
+.header-right{display:flex;align-items:center;gap:8px;}
+.hdr-user{display:flex;align-items:center;gap:7px;}
+.hdr-avatar{
+  width:30px;height:30px;border-radius:50%;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  display:flex;align-items:center;justify-content:center;
+  color:#fff;font-size:12px;font-weight:800;
+}
+.hdr-name{font-size:12px;font-weight:600;color:var(--text2);}
+.icon-btn{
+  width:34px;height:34px;border-radius:9px;
+  border:1px solid var(--border);background:var(--surface2);
+  color:var(--text2);cursor:pointer;font-size:16px;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .2s var(--ease);
+}
+.icon-btn:hover{background:var(--accent-light);border-color:var(--accent);color:var(--accent);}
+.logout-btn{
+  font-size:11px;font-weight:600;font-family:inherit;
+  padding:6px 12px;border-radius:8px;
+  border:1px solid var(--border);background:none;color:var(--text3);
+  cursor:pointer;transition:all .2s;
+}
+.logout-btn:hover{border-color:var(--red);color:var(--red);}
+
+/* ========== LOGIN ========== */
+.login-wrap{
+  min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;
+  background:radial-gradient(ellipse 80% 60% at 50% 0%,rgba(79,70,229,0.18) 0%,transparent 70%),
+             linear-gradient(160deg,#1a1c2e 0%,#0d1117 100%);
+}
+.login-outer{
+  background:rgba(255,255,255,0.03);
+  border:1px solid rgba(255,255,255,0.08);
+  border-radius:var(--r-2xl);
+  padding:6px;
+  width:100%;max-width:440px;
+  box-shadow:0 32px 80px rgba(0,0,0,0.5);
+}
+.login-card{
+  background:#111827;
+  border-radius:calc(var(--r-2xl) - 6px);
+  padding:44px 36px;
+  box-shadow:inset 0 1px 1px rgba(255,255,255,0.06);
+}
+[data-theme="light"] .login-wrap{
+  background:radial-gradient(ellipse 80% 60% at 50% 0%,rgba(79,70,229,0.12) 0%,transparent 70%),
+             linear-gradient(160deg,#667eea 0%,#764ba2 100%);
+}
+[data-theme="light"] .login-outer{
+  background:rgba(255,255,255,0.15);
+  border-color:rgba(255,255,255,0.25);
+}
+[data-theme="light"] .login-card{background:#fff;}
+[data-theme="light"] .login-card .form-input{background:#f7f9fc;border-color:#e3e8f0;color:#111827;}
+[data-theme="light"] .login-card .form-input:focus{background:#fff;}
+[data-theme="light"] .login-card .form-label{color:#374151;}
+[data-theme="light"] .login-card .login-title{color:#111827;}
+[data-theme="light"] .login-card .login-sub{color:#6b7280;}
+
+.login-icon{
+  width:68px;height:68px;
+  background:linear-gradient(135deg,#4F46E5,#7C3AED);
+  border-radius:18px;margin:0 auto 22px;
+  display:flex;align-items:center;justify-content:center;font-size:32px;
+  box-shadow:0 8px 24px rgba(79,70,229,0.4);
+}
+.login-title{font-size:24px;font-weight:800;text-align:center;color:#f9fafb;margin-bottom:4px;letter-spacing:-.4px;}
+.login-sub{font-size:13px;color:#6b7280;text-align:center;margin-bottom:28px;}
+.tab-strip{
+  display:flex;background:rgba(255,255,255,0.05);
+  border-radius:10px;padding:3px;margin-bottom:22px;gap:3px;
+}
+[data-theme="light"] .tab-strip{background:#f0f4f8;}
+.tab-btn{
+  flex:1;padding:9px;border:none;border-radius:8px;
+  font-size:13px;font-weight:700;font-family:inherit;cursor:pointer;
+  transition:all .22s var(--ease);
+  background:transparent;color:#6b7280;
+}
+.tab-btn.active{background:var(--accent);color:#fff;box-shadow:0 2px 8px rgba(79,70,229,0.35);}
+.form-group{margin-bottom:16px;}
+.form-label{display:block;font-size:12px;font-weight:700;color:#9ca3af;margin-bottom:6px;letter-spacing:.3px;text-transform:uppercase;}
+.form-input{
+  width:100%;padding:12px 14px;
+  border:1.5px solid rgba(255,255,255,0.08);border-radius:var(--r-sm);
+  font-size:14px;font-family:inherit;
+  background:rgba(255,255,255,0.04);color:#f9fafb;
+  transition:all .22s var(--ease);outline:none;
+}
+.form-input:focus{border-color:var(--accent);background:rgba(79,70,229,0.06);box-shadow:0 0 0 3px rgba(79,70,229,0.15);}
+.form-input::placeholder{color:#4b5563;}
+.btn-primary{
+  width:100%;padding:13px;
+  background:linear-gradient(135deg,#4F46E5,#7C3AED);
+  color:#fff;border:none;border-radius:var(--r-sm);
+  font-size:15px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .25s var(--ease);letter-spacing:.2px;
+}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 10px 28px rgba(79,70,229,0.4);}
+.btn-primary:active{transform:translateY(0);}
+.login-msg{text-align:center;font-size:12px;font-weight:600;margin-top:12px;min-height:18px;color:#f87171;}
+.login-theme-btn{
+  position:fixed;top:16px;right:16px;z-index:300;
+  width:38px;height:38px;border-radius:10px;
+  background:rgba(255,255,255,0.1);
+  border:1px solid rgba(255,255,255,0.15);
+  color:#fff;cursor:pointer;font-size:18px;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .2s;backdrop-filter:blur(8px);
+}
+.login-theme-btn:hover{background:rgba(255,255,255,0.2);}
+
+/* ========== DASHBOARD ========== */
+.dash-hero{
+  background:linear-gradient(135deg,#4F46E5 0%,#7C3AED 100%);
+  border-radius:var(--r-xl);padding:28px 28px 28px;
+  color:#fff;margin-bottom:20px;
+  position:relative;overflow:hidden;
+}
+.dash-hero::before{
+  content:'';position:absolute;right:-20px;top:-30px;
+  width:160px;height:160px;border-radius:50%;
+  background:rgba(255,255,255,0.06);
+}
+.dash-hero::after{
+  content:'⚡';position:absolute;right:28px;bottom:16px;
+  font-size:64px;opacity:.12;line-height:1;
+}
+.dash-hero-title{font-size:20px;font-weight:800;margin-bottom:4px;letter-spacing:-.3px;}
+.dash-hero-sub{font-size:13px;opacity:.8;}
+.dash-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px;}
+.stat-card{
+  background:var(--surface);border-radius:var(--r-md);
+  padding:18px 16px;text-align:center;
+  box-shadow:var(--shadow-sm);border:1px solid var(--border);
+  transition:transform .2s var(--ease),box-shadow .2s;
+}
+.stat-card:hover{transform:translateY(-2px);box-shadow:var(--shadow);}
+.stat-num{font-size:26px;font-weight:800;color:var(--accent);letter-spacing:-.5px;}
+.stat-label{font-size:11px;color:var(--text3);margin-top:2px;font-weight:600;letter-spacing:.2px;}
+.dash-cta{
+  display:flex;align-items:center;justify-content:center;gap:10px;
+  padding:15px 28px;
+  background:linear-gradient(135deg,#4F46E5,#7C3AED);
+  color:#fff;border:none;border-radius:var(--r-md);
+  font-size:15px;font-weight:700;font-family:inherit;
+  cursor:pointer;width:100%;margin-bottom:20px;
+  transition:all .25s var(--ease);
+  box-shadow:0 4px 16px rgba(79,70,229,0.25);
+}
+.dash-cta:hover{transform:translateY(-2px);box-shadow:var(--shadow-accent);}
+.section-hd{
+  font-size:16px;font-weight:800;color:var(--text);
+  margin-bottom:14px;display:flex;align-items:center;gap:8px;letter-spacing:-.2px;
+}
+.pill{
+  display:inline-flex;align-items:center;padding:2px 10px;
+  border-radius:99px;font-size:11px;font-weight:700;
+  background:var(--accent-light);color:var(--accent);
+}
+.pages-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:12px;margin-bottom:24px;}
+.page-card{
+  background:var(--surface);border:1.5px solid var(--border);
+  border-radius:var(--r-md);padding:16px 14px;
+  cursor:pointer;transition:all .22s var(--ease);text-align:center;position:relative;
+  box-shadow:var(--shadow-sm);
+}
+.page-card:hover{border-color:var(--accent);transform:translateY(-3px);box-shadow:var(--shadow-lg);}
+.page-card.done{border-color:var(--green);background:var(--green-mid);}
+.page-card.current{border-color:var(--accent);background:var(--accent-mid);}
+.pg-num{font-size:22px;font-weight:800;color:var(--accent);margin-bottom:2px;}
+.page-card.done .pg-num{color:var(--green);}
+.pg-sub{font-size:11px;color:var(--text3);font-weight:600;}
+.pg-score{font-size:12px;font-weight:700;color:var(--green);margin-top:5px;}
+.pg-check{
+  position:absolute;top:-7px;right:-7px;
+  width:22px;height:22px;border-radius:50%;
+  background:var(--green);color:#fff;font-size:11px;
+  display:flex;align-items:center;justify-content:center;
+  box-shadow:0 2px 6px rgba(5,150,105,0.4);
+}
+
+/* ========== QUIZ LAYOUT ========== */
+.quiz-outer,.result-layout{display:flex;gap:16px;align-items:flex-start;}
+.quiz-main,.result-main{flex:1;min-width:0;}
+.quiz-sidebar,.result-sidebar{
+  width:240px;flex-shrink:0;
+  position:sticky;top:74px;
+  background:var(--surface);
+  border-radius:var(--r-lg);
+  border:1px solid var(--border);
+  box-shadow:var(--shadow);
+  overflow:hidden;
+  max-height:calc(100vh - 90px);
+  display:flex;flex-direction:column;
+}
+.result-sidebar .sidebar-grid{grid-template-columns:repeat(5,1fr);}
+.result-sidebar .sidebar-foot{font-size:11px;}
+.sidebar-head{
+  padding:14px 16px 10px;
+  border-bottom:1px solid var(--border);
+  background:var(--surface2);
+  flex-shrink:0;
+}
+.sidebar-title{font-size:12px;font-weight:800;color:var(--text);letter-spacing:.2px;text-transform:uppercase;}
+.sidebar-legend{display:flex;gap:10px;margin-top:8px;flex-wrap:wrap;}
+.legend-item{display:flex;align-items:center;gap:4px;font-size:10px;font-weight:600;color:var(--text3);}
+.legend-dot{width:8px;height:8px;border-radius:50%;}
+.legend-dot.correct{background:var(--green);}
+.legend-dot.wrong{background:var(--red);}
+.legend-dot.answered{background:var(--accent);}
+.legend-dot.empty{background:var(--border);border:1px solid var(--text4);}
+.sidebar-grid{
+  padding:12px;
+  display:grid;grid-template-columns:repeat(5,1fr);gap:5px;
+  overflow-y:auto;flex:1;
+}
+.nav-dot{
+  aspect-ratio:1;border-radius:7px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:11px;font-weight:700;cursor:pointer;
+  border:1.5px solid var(--border);
+  background:var(--surface2);color:var(--text3);
+  transition:all .18s var(--ease);
+  user-select:none;
+}
+.nav-dot:hover{border-color:var(--accent);color:var(--accent);transform:scale(1.08);}
+.nav-dot.answered{background:var(--accent-mid);border-color:var(--accent);color:var(--accent);}
+.nav-dot.correct{background:var(--green-mid);border-color:var(--green);color:var(--green);}
+.nav-dot.wrong{background:var(--red-mid);border-color:var(--red);color:var(--red);}
+.nav-dot.skipped{background:var(--yellow-mid);border-color:var(--yellow);color:var(--yellow);}
+.sidebar-foot{
+  padding:12px;border-top:1px solid var(--border);
+  background:var(--surface2);flex-shrink:0;
+  font-size:11px;font-weight:600;color:var(--text3);text-align:center;
+}
+
+/* ========== QUIZ TOP ========== */
+.quiz-top{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:16px;flex-wrap:wrap;gap:10px;
+}
+.quiz-page-label{font-size:19px;font-weight:800;color:var(--text);letter-spacing:-.3px;}
+.quiz-progress-txt{font-size:12px;font-weight:600;color:var(--text3);margin-top:1px;}
+.nav-back-btn{
+  padding:9px 18px;background:var(--surface);
+  border:1.5px solid var(--border);color:var(--text2);
+  border-radius:var(--r-sm);font-size:13px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .2s var(--ease);
+  display:flex;align-items:center;gap:6px;
+}
+.nav-back-btn:hover{border-color:var(--accent);color:var(--accent);}
+.progress-bar{
+  height:6px;background:var(--surface3);border-radius:99px;
+  margin-bottom:18px;overflow:hidden;
+}
+.progress-fill{
+  height:100%;border-radius:99px;
+  background:linear-gradient(90deg,var(--accent),var(--accent2));
+  transition:width .5s var(--ease);
+}
+
+/* ========== QUESTION CARD ========== */
+.q-card{
+  background:var(--surface);border-radius:var(--r-lg);
+  border:1px solid var(--border);padding:24px;
+  margin-bottom:14px;box-shadow:var(--shadow-sm);
+  transition:box-shadow .2s,border-color .2s;
+  scroll-margin-top:80px;
+}
+.q-card:hover{box-shadow:var(--shadow);}
+.q-card.has-wrong{border-color:var(--red);border-left:3px solid var(--red);}
+.q-card.has-correct{border-color:var(--green);border-left:3px solid var(--green);}
+.q-header{display:flex;align-items:flex-start;gap:12px;margin-bottom:18px;}
+.q-num-badge{
+  min-width:34px;height:34px;border-radius:9px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  color:#fff;display:flex;align-items:center;justify-content:center;
+  font-size:12px;font-weight:800;flex-shrink:0;
+  box-shadow:0 2px 8px rgba(79,70,229,0.25);
+}
+.q-text{font-size:15px;font-weight:600;color:var(--text);line-height:1.7;}
+.opts{display:flex;flex-direction:column;gap:9px;}
+.opt{
+  display:flex;align-items:flex-start;gap:11px;
+  padding:13px 15px;border:1.5px solid var(--border);border-radius:var(--r-sm);
+  cursor:pointer;transition:all .18s var(--ease);background:var(--surface2);
+}
+.opt:hover:not(.disabled){border-color:var(--accent);background:var(--accent-mid);transform:translateX(2px);}
+.opt.selected{border-color:var(--accent);background:var(--accent-mid);}
+.opt.correct{border-color:var(--green)!important;background:var(--green-mid)!important;}
+.opt.wrong{border-color:var(--red)!important;background:var(--red-mid)!important;}
+.opt.disabled{cursor:default;}
+.opt-letter{
+  min-width:28px;height:28px;border-radius:7px;
+  background:var(--surface3);display:flex;align-items:center;justify-content:center;
+  font-size:12px;font-weight:800;color:var(--text3);flex-shrink:0;
+  transition:all .18s var(--ease);
+}
+.opt.selected .opt-letter{background:var(--accent);color:#fff;}
+.opt.correct .opt-letter{background:var(--green)!important;color:#fff!important;}
+.opt.wrong .opt-letter{background:var(--red)!important;color:#fff!important;}
+.opt-text{font-size:14px;color:var(--text);line-height:1.55;padding-top:4px;}
+.explain-box{
+  margin-top:12px;padding:13px 15px;
+  background:var(--yellow-mid);border:1px solid var(--yellow);
+  border-radius:var(--r-sm);font-size:13px;color:var(--text);
+  line-height:1.6;display:none;
+}
+.explain-box.show{display:block;animation:fadeUp .25s var(--ease);}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+.explain-title{font-weight:800;color:var(--yellow);margin-bottom:3px;font-size:12px;text-transform:uppercase;letter-spacing:.3px;}
+
+/* ========== QUIZ BOTTOM ========== */
+.quiz-bottom{
+  display:flex;align-items:center;justify-content:flex-end;
+  gap:12px;margin-top:20px;flex-wrap:wrap;
+  padding:16px;background:var(--surface);
+  border-radius:var(--r-lg);border:1px solid var(--border);
+  box-shadow:var(--shadow-sm);
+}
+.answered-count{flex:1;font-size:13px;color:var(--text3);font-weight:600;}
+.submit-btn{
+  padding:13px 28px;
+  background:linear-gradient(135deg,#059669,#10B981);
+  color:#fff;border:none;border-radius:var(--r-sm);
+  font-size:14px;font-weight:800;font-family:inherit;
+  cursor:pointer;transition:all .25s var(--ease);
+  box-shadow:0 4px 14px rgba(5,150,105,0.25);
+}
+.submit-btn:hover:not(:disabled){transform:translateY(-2px);box-shadow:0 8px 24px rgba(5,150,105,0.35);}
+.submit-btn:disabled{opacity:.45;cursor:not-allowed;transform:none;box-shadow:none;}
+
+/* ========== RESULT SCREEN ========== */
+.result-hero{
+  background:var(--surface);border-radius:var(--r-xl);
+  padding:36px;margin-bottom:20px;
+  box-shadow:var(--shadow);border:1px solid var(--border);
+  text-align:center;
+}
+.result-score-wrap{margin-bottom:12px;}
+.result-score{font-size:72px;font-weight:900;line-height:1;letter-spacing:-3px;}
+.result-score.pass{color:var(--green);}
+.result-score.fail{color:var(--red);}
+.result-pct{font-size:20px;font-weight:700;color:var(--text2);margin-top:4px;}
+.result-msg{font-size:14px;color:var(--text3);margin-top:2px;}
+.result-action-row{
+  display:flex;gap:10px;justify-content:center;
+  margin-top:24px;flex-wrap:wrap;
+}
+.btn-ghost{
+  padding:11px 22px;background:none;
+  border:1.5px solid var(--border);color:var(--text2);
+  border-radius:var(--r-sm);font-size:13px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .2s var(--ease);display:flex;align-items:center;gap:6px;
+}
+.btn-ghost:hover{border-color:var(--accent);color:var(--accent);}
+.btn-redo{
+  padding:11px 22px;
+  background:var(--surface2);border:1.5px solid var(--border);color:var(--text);
+  border-radius:var(--r-sm);font-size:13px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .2s var(--ease);display:flex;align-items:center;gap:6px;
+}
+.btn-redo:hover{border-color:var(--accent);background:var(--accent-light);color:var(--accent);}
+.btn-redo-wrong{
+  padding:11px 22px;
+  background:var(--red-mid);border:1.5px solid var(--red);color:var(--red);
+  border-radius:var(--r-sm);font-size:13px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .2s var(--ease);display:flex;align-items:center;gap:6px;
+}
+.btn-redo-wrong:hover{background:var(--red-light);box-shadow:0 4px 12px rgba(220,38,38,0.2);}
+.btn-next{
+  padding:11px 22px;
+  background:linear-gradient(135deg,var(--accent),var(--accent2));
+  color:#fff;border:none;border-radius:var(--r-sm);
+  font-size:13px;font-weight:700;font-family:inherit;
+  cursor:pointer;transition:all .25s var(--ease);display:flex;align-items:center;gap:6px;
+}
+.btn-next:hover{transform:translateY(-2px);box-shadow:var(--shadow-accent);}
+
+/* ========== RESULT NAVIGATOR (mini map in result) ========== */
+.result-nav-card{
+  background:var(--surface);border-radius:var(--r-lg);
+  border:1px solid var(--border);padding:18px;
+  margin-bottom:20px;box-shadow:var(--shadow-sm);
+}
+.result-nav-title{font-size:13px;font-weight:800;color:var(--text);margin-bottom:12px;display:flex;align-items:center;justify-content:space-between;}
+.result-nav-grid{display:grid;grid-template-columns:repeat(10,1fr);gap:5px;}
+.rnav-dot{
+  aspect-ratio:1;border-radius:6px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:10px;font-weight:700;cursor:pointer;
+  transition:all .18s var(--ease);user-select:none;
+}
+.rnav-dot.correct{background:var(--green-mid);border:1px solid var(--green);color:var(--green);}
+.rnav-dot.wrong{background:var(--red-mid);border:1px solid var(--red);color:var(--red);}
+.rnav-dot.skipped{background:var(--yellow-mid);border:1px solid var(--yellow);color:var(--yellow);}
+.rnav-dot:hover{transform:scale(1.15);}
+
+/* ========== DETAIL LIST ========== */
+.rq-list{display:flex;flex-direction:column;gap:12px;}
+.rq-card{
+  background:var(--surface);border-radius:var(--r-md);
+  border:1px solid var(--border);padding:20px;
+  box-shadow:var(--shadow-sm);
+}
+.rq-card.ok{border-left:4px solid var(--green);}
+.rq-card.no{border-left:4px solid var(--red);}
+.rq-card.skip{border-left:4px solid var(--yellow);}
+.rq-top{display:flex;align-items:center;gap:8px;margin-bottom:10px;}
+.rq-badge{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;}
+.rq-badge.ok{background:var(--green-mid);color:var(--green);}
+.rq-badge.no{background:var(--red-mid);color:var(--red);}
+.rq-badge.skip{background:var(--yellow-mid);color:var(--yellow);}
+.rq-num{font-size:11px;font-weight:700;color:var(--text3);}
+.rq-q{font-size:14px;font-weight:600;color:var(--text);margin-bottom:9px;line-height:1.6;}
+.rq-ans-row{font-size:13px;padding:8px 12px;border-radius:8px;margin-bottom:5px;}
+.rq-ans-row.yours-ok{background:var(--green-mid);color:var(--green);}
+.rq-ans-row.yours-no{background:var(--red-mid);color:var(--red);}
+.rq-ans-row.correct-ans{background:var(--green-mid);color:var(--green);font-weight:700;}
+.rq-ans-row.skip-row{background:var(--yellow-mid);color:var(--yellow);}
+.rq-explain-row{font-size:12px;padding:9px 12px;border-radius:8px;background:var(--surface2);border-left:3px solid var(--yellow);color:var(--text2);line-height:1.6;margin-top:2px;}
+
+/* ========== REDO WRONG MODE ========== */
+.redo-wrong-banner{
+  background:linear-gradient(135deg,rgba(220,38,38,0.12),rgba(239,68,68,0.06));
+  border:1.5px solid var(--red);border-radius:var(--r-md);
+  padding:14px 18px;margin-bottom:16px;
+  display:flex;align-items:center;gap:10px;
+}
+.redo-wrong-banner .icon{font-size:20px;}
+.redo-wrong-banner .info{flex:1;}
+.redo-wrong-banner .title{font-size:13px;font-weight:800;color:var(--red);}
+.redo-wrong-banner .sub{font-size:12px;color:var(--text3);}
+
+/* ========== TOAST ========== */
+.toast{
+  position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(16px);
+  padding:12px 22px;background:var(--text);color:var(--bg);
+  border-radius:var(--r-sm);font-size:13px;font-weight:700;
+  z-index:9999;opacity:0;transition:all .3s var(--ease);pointer-events:none;
+  white-space:nowrap;box-shadow:0 8px 24px rgba(0,0,0,0.2);
+}
+.toast.show{opacity:1;transform:translateX(-50%) translateY(0);}
+
+/* ========== RESPONSIVE ========== */
+@media(max-width:720px){
+  .quiz-outer,.result-layout{flex-direction:column;}
+  .quiz-sidebar,.result-sidebar{
+    width:100%;
+    position:static;
+    max-height:none;
+  }
+  .result-sidebar{order:2;}
+  .quiz-main,.result-main{width:100%;}
+  .result-nav-grid{grid-template-columns:repeat(8,1fr);}
+}
+@media(max-width:540px){
+  .login-card{padding:32px 22px;}
+  .dash-stats{gap:8px;}
+  .stat-num{font-size:22px;}
+  .q-text{font-size:14px;}
+  .opt-text{font-size:13px;}
+  .brand-name{font-size:12px;}
+  .result-score{font-size:54px;}
+  .result-nav-grid{grid-template-columns:repeat(5,1fr);}
+  .result-action-row{flex-direction:column;align-items:stretch;}
+  .result-action-row button{justify-content:center;}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header" id="main-header" style="display:none">
+  <div class="header-brand">
+    <div class="brand-icon">⚡</div>
+    <div>
+      <div class="brand-name">Trắc Nghiệm Điện</div>
+      <div class="brand-sub">TT05 & TT06 / 2025 / TT-BCT</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <div class="hdr-user">
+      <div class="hdr-avatar" id="hdr-avatar">?</div>
+      <span class="hdr-name" id="hdr-name">-</span>
+    </div>
+    <button class="icon-btn" id="theme-btn" title="Đổi giao diện">🌙</button>
+    <button class="logout-btn" id="logout-btn">Đăng xuất</button>
+  </div>
+</header>
+
+<!-- ======== SCREEN: LOGIN ======== -->
+<div id="screen-login" class="screen active">
+  <button class="login-theme-btn" id="theme-btn2" title="Đổi giao diện">🌙</button>
+  <div class="login-wrap">
+    <div class="login-outer">
+      <div class="login-card">
+        <div class="login-icon">⚡</div>
+        <h1 class="login-title">Ôn Tập Trắc Nghiệm</h1>
+        <p class="login-sub">Trưởng Kíp Trạm Điện • TT05 & TT06/2025</p>
+        <div class="tab-strip">
+          <button class="tab-btn active" id="tab-login" onclick="showTab('login')">Đăng nhập</button>
+          <button class="tab-btn" id="tab-register" onclick="showTab('register')">Đăng ký</button>
+        </div>
+        <div id="form-login">
+          <div class="form-group">
+            <label class="form-label">Email</label>
+            <input class="form-input" type="email" id="l-email" placeholder="email@example.com" autocomplete="username">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Mật khẩu</label>
+            <input class="form-input" type="password" id="l-pass" placeholder="••••••••" autocomplete="current-password">
+          </div>
+          <button class="btn-primary" onclick="doLogin()">Đăng nhập →</button>
+        </div>
+        <div id="form-register" style="display:none">
+          <div class="form-group">
+            <label class="form-label">Họ và tên</label>
+            <input class="form-input" type="text" id="r-name" placeholder="Nguyễn Văn A">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Email</label>
+            <input class="form-input" type="email" id="r-email" placeholder="email@example.com" autocomplete="username">
+          </div>
+          <div class="form-group">
+            <label class="form-label">Mật khẩu</label>
+            <input class="form-input" type="password" id="r-pass" placeholder="ít nhất 4 ký tự" autocomplete="new-password">
+          </div>
+          <button class="btn-primary" onclick="doRegister()">Đăng ký →</button>
+        </div>
+        <p class="login-msg" id="login-msg"></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== SCREEN: DASHBOARD ======== -->
+<div id="screen-dash" class="screen">
+  <div class="page-wrap" style="padding-top:24px">
+    <div class="dash-hero">
+      <div class="dash-hero-title" id="dash-greeting">Xin chào! 👋</div>
+      <div class="dash-hero-sub">273 câu hỏi • Mỗi trang 50 câu • Shuffle riêng mỗi người</div>
+    </div>
+    <div class="dash-stats">
+      <div class="stat-card">
+        <div class="stat-num" id="stat-done">0</div>
+        <div class="stat-label">Trang hoàn thành</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-total">6</div>
+        <div class="stat-label">Tổng trang</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-num" id="stat-avg">—</div>
+        <div class="stat-label">Điểm trung bình</div>
+      </div>
+    </div>
+    <button class="dash-cta" onclick="startQuiz()">
+      <span>⚡</span><span id="dash-cta-txt">Bắt đầu làm bài</span>
+    </button>
+    <div class="section-hd">📋 Các trang <span class="pill" id="pages-pill">6 trang</span></div>
+    <div class="pages-grid" id="pages-grid"></div>
+  </div>
+</div>
+
+<!-- ======== SCREEN: QUIZ ======== -->
+<div id="screen-quiz" class="screen">
+  <div class="page-wrap" style="padding-top:16px">
+    <!-- Banner cho chế độ làm lại câu sai -->
+    <div class="redo-wrong-banner" id="redo-wrong-banner" style="display:none">
+      <div class="icon">🔴</div>
+      <div class="info">
+        <div class="title">Chế độ ôn câu sai</div>
+        <div class="sub" id="redo-wrong-sub">Đang ôn lại các câu trả lời sai — thứ tự đã được xáo ngẫu nhiên</div>
+      </div>
+    </div>
+    <div class="quiz-top">
+      <div>
+        <div class="quiz-page-label" id="quiz-page-label">Trang 1 / 6</div>
+        <div class="quiz-progress-txt" id="quiz-progress-txt">Đã trả lời 0 / 50 câu</div>
+      </div>
+      <button class="nav-back-btn" onclick="goDash()">← Về Trang Chủ</button>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill" style="width:0%"></div></div>
+    <div class="quiz-outer">
+      <!-- Main question area -->
+      <div class="quiz-main">
+        <div id="quiz-list"></div>
+        <div class="quiz-bottom">
+          <div class="answered-count" id="answered-count"></div>
+          <button class="submit-btn" id="submit-btn" onclick="submitPage()">✅ Chấm điểm trang này</button>
+        </div>
+      </div>
+      <!-- Sidebar navigator -->
+      <div class="quiz-sidebar" id="quiz-sidebar">
+        <div class="sidebar-head">
+          <div class="sidebar-title">Bảng Điều Hướng</div>
+          <div class="sidebar-legend">
+            <div class="legend-item"><div class="legend-dot correct"></div>Đúng</div>
+            <div class="legend-item"><div class="legend-dot wrong"></div>Sai</div>
+            <div class="legend-item"><div class="legend-dot answered"></div>Đã chọn</div>
+            <div class="legend-item"><div class="legend-dot empty"></div>Chưa</div>
+          </div>
+        </div>
+        <div class="sidebar-grid" id="sidebar-grid"></div>
+        <div class="sidebar-foot" id="sidebar-foot">0 / 0 cÃ¢u Ä‘Ã£ tráº£ lá»i</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== SCREEN: RESULT ======== -->
+<div id="screen-result" class="screen">
+  <div class="page-wrap" style="padding-top:16px">
+    <div class="result-layout">
+      <div class="result-main">
+        <div class="result-hero">
+          <div class="result-score-wrap">
+            <div class="result-score" id="r-score">0/50</div>
+            <div class="result-pct" id="r-pct">0%</div>
+            <div class="result-msg" id="r-msg">Xem chi tiết bên dưới</div>
+          </div>
+          <div class="result-action-row">
+            <button class="btn-ghost" onclick="goDash()">← Trang Chủ</button>
+            <button class="btn-redo" onclick="redoPage()">🔄 Làm lại</button>
+            <button class="btn-redo-wrong" id="redo-wrong-btn" onclick="redoWrong()">❌ Làm lại câu sai</button>
+            <button class="btn-next" id="next-page-btn" onclick="goNextPage()">Trang tiếp →</button>
+          </div>
+        </div>
+        <div class="section-hd" style="margin-bottom:16px">📝 Chi tiết từng câu</div>
+        <div class="rq-list" id="result-list"></div>
+        <div style="height:48px"></div>
+      </div>
+      <div class="quiz-sidebar result-sidebar" id="result-sidebar">
+        <div class="sidebar-head">
+          <div class="sidebar-title">Bảng Điều Hướng</div>
+          <div class="sidebar-legend">
+            <div class="legend-item"><div class="legend-dot correct"></div>Đúng</div>
+            <div class="legend-item"><div class="legend-dot wrong"></div>Sai</div>
+            <div class="legend-item"><div class="legend-dot answered"></div>Đã chọn</div>
+            <div class="legend-item"><div class="legend-dot empty"></div>Chưa</div>
+          </div>
+        </div>
+        <div class="sidebar-grid" id="result-nav-grid"></div>
+        <div class="sidebar-foot" id="result-sidebar-foot">0 / 0 câu đã trả lời</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- TOAST -->
+<div class="toast" id="toast"></div>
+
+<script src="questions.js" charset="UTF-8"></script>
+<script>
+/* ======================================================
+   CONFIG
+====================================================== */
+const QPP = 50; // questions per page
+const TOTAL_PAGES = Math.ceil(QUESTIONS.length / QPP);
+
+/* ======================================================
+   STATE
+====================================================== */
+let currentUser = null;
+let currentPageIdx = 0;
+let pageAnswers = {};   // { questionId: selectedOptIdx }
+let currentQs = [];     // questions for current page/session
+let isSubmitted = false;
+let isRedoWrongMode = false;
+
+/* ======================================================
+   THEME
+====================================================== */
+function getTheme(){ return localStorage.getItem('qz_theme') || 'dark'; }
+function applyTheme(t){
+  document.documentElement.setAttribute('data-theme', t);
+  const ico = t === 'dark' ? '☀️' : '🌙';
+  document.querySelectorAll('#theme-btn,#theme-btn2').forEach(b => b.textContent = ico);
+  localStorage.setItem('qz_theme', t);
+}
+function toggleTheme(){ applyTheme(getTheme() === 'dark' ? 'light' : 'dark'); }
+document.getElementById('theme-btn').onclick = toggleTheme;
+document.getElementById('theme-btn2').onclick = toggleTheme;
+applyTheme(getTheme());
+
+/* ======================================================
+   AUTH
+====================================================== */
+function normalizeEmail(value){ return String(value || '').trim().toLowerCase(); }
+function hashPassword(password){
+  let hash = 2166136261;
+  const text = String(password || '');
+  for(let i = 0; i < text.length; i++){
+    hash ^= text.charCodeAt(i);
+    hash += (hash << 1) + (hash << 4) + (hash << 7) + (hash << 8) + (hash << 24);
+  }
+  return (hash >>> 0).toString(36);
+}
+
+async function apiRequest(path, options = {}){
+  const headers = new Headers(options.headers || {});
+  const body = options.body;
+  if(body && !headers.has('Content-Type') && !(body instanceof FormData)) {
+    headers.set('Content-Type', 'application/json');
+  }
+  const token = options.token || localStorage.getItem('qz_token');
+  if(token && !headers.has('Authorization')) headers.set('Authorization', 'Bearer ' + token);
+
+  const response = await fetch(path, { ...options, headers });
+  let data = null;
+  try { data = await response.json(); } catch (e) {}
+  if(!response.ok){
+    throw new Error((data && data.error) || 'Không thể kết nối máy chủ');
+  }
+  return data;
+}
+
+function attachSession(session){
+  if(!session || !session.user) return null;
+  currentUser = {
+    ...session.user,
+    token: session.token,
+    progress: session.user.progress || {},
+  };
+  localStorage.setItem('qz_token', session.token);
+  return currentUser;
+}
+
+function getProgress(){
+  if(!currentUser){ return {}; }
+  if(!currentUser.progress) currentUser.progress = {};
+  return currentUser.progress;
+}
+
+let progressTimer = null;
+async function syncProgressNow(){
+  if(!currentUser || !currentUser.token) return;
+  await apiRequest('/api/progress', {
+    method: 'PUT',
+    token: currentUser.token,
+    body: JSON.stringify({ progress: currentUser.progress || {} })
+  });
+}
+
+function saveProgress(progress){
+  if(!currentUser) return;
+  currentUser.progress = progress;
+  clearTimeout(progressTimer);
+  progressTimer = setTimeout(() => {
+    syncProgressNow().catch(() => {});
+  }, 180);
+}
+
+function showTab(t){
+  document.getElementById('form-login').style.display = t === 'login' ? '' : 'none';
+  document.getElementById('form-register').style.display = t === 'register' ? '' : 'none';
+  document.getElementById('tab-login').classList.toggle('active', t === 'login');
+  document.getElementById('tab-register').classList.toggle('active', t === 'register');
+  document.getElementById('login-msg').textContent = '';
+}
+
+async function doLogin(){
+  const email = normalizeEmail(document.getElementById('l-email').value);
+  const pw = document.getElementById('l-pass').value;
+  if(!email || !pw){ loginMsg('Vui lòng nhập đầy đủ thông tin'); return; }
+
+  try{
+    const result = await apiRequest('/api/login', {
+      method: 'POST',
+      body: JSON.stringify({ email, password: pw })
+    });
+    attachSession(result);
+    showScreen('dash');
+    renderDash();
+  } catch (error){
+    loginMsg(error.message || 'Email hoặc mật khẩu không đúng!');
+  }
+}
+
+async function doRegister(){
+  const name = document.getElementById('r-name').value.trim();
+  const email = normalizeEmail(document.getElementById('r-email').value);
+  const pw = document.getElementById('r-pass').value;
+  if(!name || !email || !pw){ loginMsg('Vui lòng nhập đầy đủ thông tin'); return; }
+  if(pw.length < 4){ loginMsg('Mật khẩu tối thiểu 4 ký tự'); return; }
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){ loginMsg('Email không hợp lệ'); return; }
+
+  try{
+    const shuffle = shuffleArr([...Array(QUESTIONS.length).keys()]);
+    const result = await apiRequest('/api/register', {
+      method: 'POST',
+      body: JSON.stringify({ name, email, password: pw, shuffle, totalQuestions: QUESTIONS.length })
+    });
+    attachSession(result);
+    toast('Đăng ký thành công! Bạn đã được đăng nhập.');
+    showScreen('dash');
+    renderDash();
+  } catch (error){
+    loginMsg(error.message || 'Email đã được sử dụng');
+  }
+}
+
+async function loginSuccess(u){
+  attachSession(u);
+  showScreen('dash');
+  renderDash();
+}
+
+async function doLogout(){
+  const token = localStorage.getItem('qz_token');
+  currentUser = null;
+  localStorage.removeItem('qz_token');
+  if(token){
+    apiRequest('/api/logout', { method: 'POST', token }).catch(() => {});
+  }
+  document.getElementById('main-header').style.display = 'none';
+  showScreen('login');
+  document.getElementById('l-email').value = '';
+  document.getElementById('l-pass').value = '';
+}
+
+document.getElementById('logout-btn').onclick = doLogout;
+function loginMsg(m){ document.getElementById('login-msg').textContent = m; }
+
+/* ======================================================
+   SCREEN MANAGER
+====================================================== */
+function showScreen(name){
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById('screen-' + name).classList.add('active');
+  const showHdr = name !== 'login';
+  document.getElementById('main-header').style.display = showHdr ? 'flex' : 'none';
+  if(showHdr && currentUser){
+    document.getElementById('hdr-name').textContent = currentUser.name;
+    document.getElementById('hdr-avatar').textContent = currentUser.name[0].toUpperCase();
+  }
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+/* ======================================================
+   SHUFFLE UTILITIES
+====================================================== */
+function shuffleArr(arr){
+  const a = [...arr];
+  for(let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/* ======================================================
+   GET PAGE QUESTIONS
+====================================================== */
+function getPageQuestions(pageIdx){
+  const order = Array.isArray(currentUser?.shuffle) && currentUser.shuffle.length ? currentUser.shuffle : [...Array(QUESTIONS.length).keys()];
+
+  const start = pageIdx * QPP;
+  const end = Math.min(start + QPP, order.length);
+  return order.slice(start, end).map(i => QUESTIONS[i]);
+}
+
+/* ======================================================
+   DASHBOARD
+====================================================== */
+function renderDash(){
+  const prog = getProgress();
+  const done = prog.completed_pages || [];
+  const scores = prog.page_scores || {};
+
+  document.getElementById('dash-greeting').textContent = 'Xin chào, ' + currentUser.name + ' 👋';
+  document.getElementById('stat-done').textContent = done.length;
+  document.getElementById('stat-total').textContent = TOTAL_PAGES;
+  document.getElementById('pages-pill').textContent = TOTAL_PAGES + ' trang';
+
+  const avgArr = done.map(p => scores[p] || 0);
+  const avg = avgArr.length ? Math.round(avgArr.reduce((a, b) => a + b, 0) / avgArr.length) : null;
+  document.getElementById('stat-avg').textContent = avg != null ? avg + '%' : '—';
+
+  // CTA button label
+  const lastPage = prog.last_page || 0;
+  if(done.length === TOTAL_PAGES){
+    document.getElementById('dash-cta-txt').textContent = '🎉 Đã xong tất cả! Ôn lại từ đầu';
+  } else if(lastPage > 0 && !done.includes(lastPage)){
+    document.getElementById('dash-cta-txt').textContent = 'Tiếp tục trang ' + (lastPage + 1);
+  } else {
+    document.getElementById('dash-cta-txt').textContent = 'Bắt đầu làm bài ⚡';
+  }
+
+  // Pages grid
+  const grid = document.getElementById('pages-grid');
+  grid.innerHTML = '';
+  for(let i = 0; i < TOTAL_PAGES; i++){
+    const isDone = done.includes(i);
+    const isCurrent = i === lastPage && !isDone;
+    const sc = scores[i];
+    const nq = getPageQuestions(i).length;
+    const d = document.createElement('div');
+    d.className = 'page-card' + (isDone ? ' done' : isCurrent ? ' current' : '');
+    d.innerHTML =
+      `<div class="pg-num">${i + 1}</div>` +
+      `<div class="pg-sub">${nq} câu</div>` +
+      (isDone ? `<div class="pg-score">✅ ${sc}%</div><div class="pg-check">✓</div>` : '') +
+      (isCurrent ? `<div style="font-size:10px;color:var(--accent);font-weight:700;margin-top:5px">Đang làm</div>` : '') +
+      (!isDone && !isCurrent ? `<div style="font-size:10px;color:var(--text4);margin-top:5px">Chưa làm</div>` : '');
+    d.onclick = () => goToPage(i);
+    grid.appendChild(d);
+  }
+}
+
+function startQuiz(){
+  const prog = getProgress();
+  const done = prog.completed_pages || [];
+  const lastPage = prog.last_page || 0;
+  const next = done.includes(lastPage) ?
+    (done.length < TOTAL_PAGES ? done.length : 0) : lastPage;
+  goToPage(next);
+}
+
+/* ======================================================
+   GO TO PAGE
+===================================================== */
+function goToPage(pageIdx){
+  currentPageIdx = pageIdx;
+  pageAnswers = {};
+  isSubmitted = false;
+  isRedoWrongMode = false;
+
+  // Load saved answers
+  const prog = getProgress();
+  if(prog.page_answers && prog.page_answers[pageIdx]){
+    pageAnswers = { ...prog.page_answers[pageIdx] };
+  }
+  prog.last_page = pageIdx;
+  saveProgress(prog);
+
+  currentQs = getPageQuestions(pageIdx);
+  renderQuiz();
+  showScreen('quiz');
+}
+
+function goDash(){
+  saveCurrent();
+  showScreen('dash');
+  renderDash();
+}
+
+function saveCurrent(){
+  if(isRedoWrongMode) return; // don't overwrite original progress during redo-wrong
+  const prog = getProgress();
+  if(!prog.page_answers) prog.page_answers = {};
+  prog.page_answers[currentPageIdx] = { ...pageAnswers };
+  saveProgress(prog);
+}
+
+/* ======================================================
+   REDO ACTIONS
+====================================================== */
+function redoPage(){
+  // Reset completion for this page so user can redo
+  const prog = getProgress();
+  if(prog.completed_pages){
+    prog.completed_pages = prog.completed_pages.filter(p => p !== currentPageIdx);
+  }
+  if(prog.page_answers) delete prog.page_answers[currentPageIdx];
+  if(prog.page_scores) delete prog.page_scores[currentPageIdx];
+  saveProgress(prog);
+  toast('Đã reset trang ' + (currentPageIdx + 1) + '. Bắt đầu lại!');
+  goToPage(currentPageIdx);
+}
+
+function redoWrong(){
+  // Collect wrong/unanswered questions from last result
+  const prog = getProgress();
+  const lastResult = prog.last_results && prog.last_results[currentPageIdx];
+  if(!lastResult){ toast('Không có dữ liệu câu sai.'); return; }
+
+  const wrongQs = currentQs.filter(q => {
+    const ua = lastResult.answers[q.id];
+    return ua !== q.ans; // wrong or unanswered
+  });
+
+  if(wrongQs.length === 0){ toast('🎉 Bạn không có câu sai nào!'); return; }
+
+  // Shuffle the wrong questions for better memorization
+  const shuffled = shuffleArr(wrongQs);
+
+  // Enter redo-wrong mode
+  isRedoWrongMode = true;
+  isSubmitted = false;
+  pageAnswers = {};
+  currentQs = shuffled;
+
+  document.getElementById('redo-wrong-banner').style.display = 'flex';
+  document.getElementById('redo-wrong-sub').textContent =
+    `Ôn lại ${shuffled.length} câu sai — thứ tự đã xáo ngẫu nhiên`;
+
+  renderQuizFromQs(shuffled, true);
+  showScreen('quiz');
+  toast(`Ôn lại ${shuffled.length} câu sai — thứ tự đã xáo!`);
+}
+
+/* ======================================================
+   QUIZ RENDER
+====================================================== */
+function renderQuiz(){
+  document.getElementById('redo-wrong-banner').style.display = 'none';
+  renderQuizFromQs(currentQs, false);
+}
+
+function renderQuizFromQs(qs, redoMode){
+  const prog = getProgress();
+  const isAlreadyDone = !redoMode && prog.completed_pages && prog.completed_pages.includes(currentPageIdx);
+
+  document.getElementById('quiz-page-label').textContent =
+    redoMode ? `Ôn câu sai — Trang ${currentPageIdx + 1}` : `Trang ${currentPageIdx + 1} / ${TOTAL_PAGES}`;
+
+  const list = document.getElementById('quiz-list');
+  list.innerHTML = '';
+  const letters = ['A', 'B', 'C', 'D'];
+
+  qs.forEach((q, i) => {
+    const card = document.createElement('div');
+    card.className = 'q-card';
+    card.id = 'qcard-' + q.id;
+
+    const optsHtml = q.opts.map((o, j) => {
+      const isSel = pageAnswers[q.id] === j;
+      return `<div class="opt${isSel ? ' selected' : ''}" id="opt-${q.id}-${j}" onclick="selectOpt(${q.id},${j})">
+        <div class="opt-letter">${letters[j]}</div>
+        <div class="opt-text">${o}</div>
+      </div>`;
+    }).join('');
+
+    card.innerHTML = `
+      <div class="q-header">
+        <div class="q-num-badge">${i + 1}</div>
+        <div class="q-text">${q.q}</div>
+      </div>
+      <div class="opts">${optsHtml}</div>
+      <div class="explain-box" id="explain-${q.id}">
+        <div class="explain-title">💡 Giải thích</div>
+        ${q.explain}
+      </div>`;
+    list.appendChild(card);
+  });
+
+  // Render sidebar
+  renderSidebar(qs);
+  updateQuizProgress(qs);
+
+  // If page already done, show answers immediately
+  if(isAlreadyDone){
+    revealAnswers(qs);
+    document.getElementById('submit-btn').disabled = true;
+    document.getElementById('submit-btn').textContent = '✅ Đã chấm điểm';
+    isSubmitted = true;
+    renderSidebar(qs, true);
+  }
+}
+
+/* ======================================================
+   SIDEBAR
+====================================================== */
+function renderSidebar(qs, scored){
+  const grid = document.getElementById('sidebar-grid');
+  grid.innerHTML = '';
+  const answered = Object.keys(pageAnswers).length;
+
+  qs.forEach((q, i) => {
+    const ua = pageAnswers[q.id];
+    const dot = document.createElement('div');
+    dot.className = 'nav-dot';
+
+    if(scored){
+      if(ua === undefined) dot.classList.add('skipped');
+      else if(ua === q.ans) dot.classList.add('correct');
+      else dot.classList.add('wrong');
+    } else {
+      if(ua !== undefined) dot.classList.add('answered');
+    }
+
+    dot.textContent = i + 1;
+    dot.title = `Câu ${i + 1}`;
+    dot.onclick = () => {
+      const el = document.getElementById('qcard-' + q.id);
+      if(el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    };
+    grid.appendChild(dot);
+  });
+
+  document.getElementById('sidebar-foot').textContent =
+    `${answered} / ${qs.length} câu đã trả lời`;
+}
+
+function updateQuizProgress(qs){
+  const answered = Object.keys(pageAnswers).length;
+  const pct = qs.length ? Math.round(answered / qs.length * 100) : 0;
+  document.getElementById('quiz-progress-txt').textContent = `Đã trả lời ${answered} / ${qs.length} câu`;
+  document.getElementById('answered-count').textContent = `${answered} / ${qs.length} câu đã chọn`;
+  document.getElementById('progress-fill').style.width = pct + '%';
+}
+
+/* ======================================================
+   SELECT OPTION
+====================================================== */
+function selectOpt(qId, optIdx){
+  if(isSubmitted) return;
+  const prog = getProgress();
+  if(!isRedoWrongMode && prog.completed_pages && prog.completed_pages.includes(currentPageIdx)) return;
+
+  pageAnswers[qId] = optIdx;
+  if(!isRedoWrongMode) saveCurrent();
+
+  // Update opt UI
+  const q = QUESTIONS.find(x => x.id === qId);
+  q.opts.forEach((_, j) => {
+    const el = document.getElementById(`opt-${qId}-${j}`);
+    if(!el) return;
+    el.classList.remove('selected');
+    if(j === optIdx) el.classList.add('selected');
+    const lt = el.querySelector('.opt-letter');
+    lt.style.background = j === optIdx ? 'var(--accent)' : '';
+    lt.style.color = j === optIdx ? '#fff' : '';
+  });
+
+  // Update sidebar dot
+  const qs = currentQs;
+  const qIdx = qs.findIndex(x => x.id === qId);
+  if(qIdx >= 0){
+    const dots = document.querySelectorAll('#sidebar-grid .nav-dot');
+    if(dots[qIdx]){
+      dots[qIdx].classList.remove('correct', 'wrong', 'skipped');
+      dots[qIdx].classList.add('answered');
+    }
+  }
+  updateQuizProgress(qs);
+}
+
+/* ======================================================
+   SUBMIT PAGE
+====================================================== */
+function submitPage(){
+  const qs = currentQs;
+  const answered = Object.keys(pageAnswers).length;
+
+  if(answered < qs.length){
+    const rem = qs.length - answered;
+    if(!confirm(`Còn ${rem} câu chưa trả lời. Vẫn muốn chấm điểm?`)) return;
+  }
+
+  isSubmitted = true;
+  revealAnswers(qs);
+
+  let correct = 0;
+  qs.forEach(q => { if(pageAnswers[q.id] === q.ans) correct++; });
+  const pct = Math.round(correct / qs.length * 100);
+
+  if(!isRedoWrongMode){
+    const prog = getProgress();
+    if(!prog.completed_pages) prog.completed_pages = [];
+    if(!prog.page_scores) prog.page_scores = {};
+    if(!prog.completed_pages.includes(currentPageIdx)) prog.completed_pages.push(currentPageIdx);
+    prog.page_scores[currentPageIdx] = pct;
+    if(!prog.last_results) prog.last_results = {};
+    prog.last_results[currentPageIdx] = {
+      answers: { ...pageAnswers },
+      questions: qs.map(q => q.id)
+    };
+    saveProgress(prog);
+  }
+
+  document.getElementById('submit-btn').disabled = true;
+  document.getElementById('submit-btn').textContent = '✅ Đã chấm điểm';
+  renderSidebar(qs, true);
+  showResultScreen(qs, correct, pct);
+}
+
+
+/* ======================================================
+   REVEAL ANSWERS (in quiz view)
+====================================================== */
+function revealAnswers(qs){
+  qs.forEach(q => {
+    const card = document.getElementById('qcard-' + q.id);
+    const ua = pageAnswers[q.id];
+    if(card){
+      if(ua === q.ans) card.classList.add('has-correct');
+      else card.classList.add('has-wrong');
+    }
+    q.opts.forEach((_, j) => {
+      const el = document.getElementById(`opt-${q.id}-${j}`);
+      if(!el) return;
+      el.classList.remove('selected');
+      el.classList.add('disabled');
+      const lt = el.querySelector('.opt-letter');
+      if(j === q.ans){
+        el.classList.add('correct');
+        lt.style.cssText = 'background:var(--green);color:#fff;';
+      } else if(ua === j && j !== q.ans){
+        el.classList.add('wrong');
+        lt.style.cssText = 'background:var(--red);color:#fff;';
+      }
+    });
+    const exp = document.getElementById('explain-' + q.id);
+    if(exp) exp.classList.add('show');
+  });
+}
+
+/* ======================================================
+   RESULT SCREEN
+====================================================== */
+function showResultScreen(qs, correct, pct){
+  const total = qs.length;
+  const pass = pct >= 70;
+  const wrongCount = total - correct;
+  const answered = Object.keys(pageAnswers).length;
+
+  document.getElementById('r-score').textContent = correct + '/' + total;
+  document.getElementById('r-score').className = 'result-score ' + (pass ? 'pass' : 'fail');
+  document.getElementById('r-pct').textContent = pct + '%';
+  document.getElementById('r-msg').textContent =
+    pass ? '🎉 Đạt yêu cầu! Tuyệt vời!' : `💪 Cần ôn thêm — Sai ${wrongCount} câu`;
+
+  const rdwBtn = document.getElementById('redo-wrong-btn');
+  rdwBtn.style.display = wrongCount > 0 ? '' : 'none';
+  if(wrongCount > 0) rdwBtn.textContent = `❌ Làm lại ${wrongCount} câu sai`;
+
+  const nextBtn = document.getElementById('next-page-btn');
+  if(!isRedoWrongMode && currentPageIdx < TOTAL_PAGES - 1){
+    nextBtn.style.display = '';
+    nextBtn.textContent = 'Trang ' + (currentPageIdx + 2) + ' →';
+  } else {
+    nextBtn.style.display = 'none';
+  }
+
+  document.querySelector('.btn-redo').style.display = isRedoWrongMode ? 'none' : '';
+
+  const rng = document.getElementById('result-nav-grid');
+  rng.innerHTML = '';
+  let cntOk = 0, cntNo = 0, cntSk = 0;
+  qs.forEach((q, i) => {
+    const ua = pageAnswers[q.id];
+    let cls;
+    if(ua === undefined){ cls = 'skipped'; cntSk++; }
+    else if(ua === q.ans){ cls = 'correct'; cntOk++; }
+    else { cls = 'wrong'; cntNo++; }
+    const dot = document.createElement('div');
+    dot.className = 'nav-dot ' + cls;
+    dot.textContent = i + 1;
+    dot.title = `Câu ${i + 1}: ${cls === 'correct' ? 'Đúng' : cls === 'wrong' ? 'Sai' : 'Bỏ qua'}`;
+    dot.onclick = () => {
+      const el = document.getElementById('rq-' + q.id);
+      if(el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    };
+    rng.appendChild(dot);
+  });
+
+  document.getElementById('result-sidebar-foot').textContent =
+    `${answered} / ${total} câu đã trả lời`;
+
+  const letters = ['A', 'B', 'C', 'D'];
+  const rlist = document.getElementById('result-list');
+  rlist.innerHTML = '';
+  qs.forEach((q, i) => {
+    const ua = pageAnswers[q.id];
+    const isOk = ua === q.ans;
+    const isSkip = ua === undefined;
+    const cls = isSkip ? 'skip' : isOk ? 'ok' : 'no';
+    const card = document.createElement('div');
+    card.className = 'rq-card ' + cls;
+    card.id = 'rq-' + q.id;
+    card.innerHTML =
+      `<div class="rq-top">
+        <span class="rq-badge ${cls}">${isSkip ? '⚠️ Bỏ qua' : isOk ? '✅ Đúng' : '❌ Sai'}</span>
+        <span class="rq-num">Câu ${i + 1}</span>
+      </div>
+      <div class="rq-q">${q.q}</div>
+      ${isSkip
+        ? `<div class="rq-ans-row skip-row">⚠️ Bạn chưa trả lời câu này</div>`
+        : `<div class="rq-ans-row ${isOk ? 'yours-ok' : 'yours-no'}">📝 Bạn chọn: <strong>${letters[ua]}. ${q.opts[ua]}</strong></div>`
+      }
+      ${!isOk ? `<div class="rq-ans-row correct-ans">✅ Đáp án đúng: <strong>${letters[q.ans]}. ${q.opts[q.ans]}</strong></div>` : ''}
+      <div class="rq-explain-row">💡 ${q.explain}</div>`;
+    rlist.appendChild(card);
+  });
+
+  showScreen('result');
+}
+function goNextPage(){
+  if(currentPageIdx < TOTAL_PAGES - 1) goToPage(currentPageIdx + 1);
+}
+
+/* ======================================================
+   TOAST
+====================================================== */
+let toastTimer = null;
+function toast(msg, dur = 3000){
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove('show'), dur);
+}
+
+/* ======================================================
+   INIT
+====================================================== */
+async function init(){
+  const token = localStorage.getItem('qz_token');
+  if(token){
+    try{
+      const session = await apiRequest('/api/session', { token });
+      attachSession(session);
+      showScreen('dash');
+      renderDash();
+      return;
+    } catch (e) {
+      localStorage.removeItem('qz_token');
+    }
+  }
+  showScreen('login');
+}
+
+// Enter key shortcut on login
+document.addEventListener('keydown', e => {
+  if(e.key === 'Enter'){
+    const ls = document.getElementById('screen-login');
+    if(ls.classList.contains('active')){
+      if(document.getElementById('form-login').style.display !== 'none') doLogin();
+      else doRegister();
+    }
+  }
+});
+
+init();
+</script>
+</body>
+</html>
+
+
+
+

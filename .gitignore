@@ -1,0 +1,7 @@
+node_modules
+.env
+.tmp-index-script.js
+*adminsdk*.json
+test_firebase.js
+*.log
+web.zip
