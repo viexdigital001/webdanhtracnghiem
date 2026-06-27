@@ -364,7 +364,7 @@ app.get('/health', async (_req, res) => {
   try {
     await ensureDbReady();
     const mdb = getDb();
-    await mdb.collection('users').limit(1).get();
+    await mdb.collection('users').find().limit(1).toArray();
     res.json({ ok: true, database: 'mongodb' });
   } catch (error) {
     res.status(503).json({ ok: false, database: 'mongodb', error: 'Cơ sở dữ liệu không khả dụng', detail: error.message || String(error) });
