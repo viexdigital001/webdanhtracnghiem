@@ -1,164 +1,47 @@
 const express = require('express');
 const path = require('path');
 const crypto = require('crypto');
-const admin = require('firebase-admin');
 require('dotenv').config();
+const { connect, getDb } = require('./db');
 
 const PORT = Number(process.env.PORT || 3000);
 
-let isFirebaseConfigured = false;
-if (process.env.FIREBASE_PROJECT_ID && process.env.FIREBASE_CLIENT_EMAIL && process.env.FIREBASE_PRIVATE_KEY) {
-  try {
-    let privateKey = process.env.FIREBASE_PRIVATE_KEY;
-    if (privateKey.startsWith('"') && privateKey.endsWith('"')) {
-      privateKey = privateKey.slice(1, -1);
-    }
-    privateKey = privateKey.replace(/\\n/g, '\n');
+let dbReady = false;
+let dbInitError = null;
 
-    admin.initializeApp({
-      credential: admin.credential.cert({
-        projectId: process.env.FIREBASE_PROJECT_ID,
-        clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
-        privateKey: privateKey,
-      }),
-    });
-    isFirebaseConfigured = true;
-    console.log('Firebase initialized.');
+async function ensureDbReady() {
+  if (dbReady) return true;
+  try {
+    await connect();
+    dbReady = true;
+    dbInitError = null;
+    console.log('Kết nối MongoDB thành công.');
+    return true;
   } catch (error) {
-    console.error('Failed to initialize Firebase admin:', error.message || error);
+    dbReady = false;
+    dbInitError = error;
+    console.error('Kết nối MongoDB thất bại:', error.message || error);
+    throw error;
   }
 }
 
-if (!isFirebaseConfigured) {
-  console.warn('Firebase configuration is missing, incomplete, or invalid.');
+async function requireDb(res) {
+  try {
+    await ensureDbReady();
+    return true;
+  } catch (error) {
+    if (res) {
+      res.status(503).json({
+        error: 'Cơ sở dữ liệu không khả dụng',
+        detail: error.message || 'Kết nối thất bại',
+      });
+    }
+    return false;
+  }
 }
-
-const db = isFirebaseConfigured ? admin.firestore() : null;
 
 const app = express();
 app.use(express.json({ limit: '1mb' }));
-
-function convertTimestamps(data) {
-  if (!data) return data;
-  const result = { ...data };
-  for (const key in result) {
-    if (result[key] && typeof result[key].toDate === 'function') {
-      result[key] = result[key].toDate();
-    }
-  }
-  return result;
-}
-
-const users = {
-  async findOne(query) {
-    if (!db) throw new Error('Database not initialized');
-    if (query.email) {
-      const doc = await db.collection('users').doc(query.email).get();
-      if (!doc.exists) return null;
-      return convertTimestamps(doc.data());
-    }
-    let ref = db.collection('users');
-    for (const key in query) {
-      ref = ref.where(key, '==', query[key]);
-    }
-    const snap = await ref.limit(1).get();
-    if (snap.empty) return null;
-    return convertTimestamps(snap.docs[0].data());
-  },
-  async insertOne(doc) {
-    if (!db) throw new Error('Database not initialized');
-    const docRef = db.collection('users').doc(doc.email);
-    const snap = await docRef.get();
-    if (snap.exists) {
-      const err = new Error('Duplicate key');
-      err.code = 11000;
-      throw err;
-    }
-    await docRef.set(doc);
-    return { insertedId: doc.email };
-  },
-  async updateOne(query, update) {
-    if (!db) throw new Error('Database not initialized');
-    if (!query.email) {
-      const user = await this.findOne(query);
-      if (!user) return { matchedCount: 0, modifiedCount: 0 };
-      query = { email: user.email };
-    }
-    const docRef = db.collection('users').doc(query.email);
-    if (update.$set) {
-      await docRef.set(update.$set, { merge: true });
-      return { matchedCount: 1, modifiedCount: 1 };
-    }
-    return { matchedCount: 1, modifiedCount: 0 };
-  },
-  async createIndex() {
-    return true;
-  }
-};
-
-const sessions = {
-  async findOne(query) {
-    if (!db) throw new Error('Database not initialized');
-    if (query.token) {
-      const doc = await db.collection('sessions').doc(query.token).get();
-      if (!doc.exists) return null;
-      return convertTimestamps(doc.data());
-    }
-    let ref = db.collection('sessions');
-    for (const key in query) {
-      ref = ref.where(key, '==', query[key]);
-    }
-    const snap = await ref.limit(1).get();
-    if (snap.empty) return null;
-    return convertTimestamps(snap.docs[0].data());
-  },
-  async insertOne(doc) {
-    if (!db) throw new Error('Database not initialized');
-    await db.collection('sessions').doc(doc.token).set(doc);
-    return { insertedId: doc.token };
-  },
-  async deleteOne(query) {
-    if (!db) throw new Error('Database not initialized');
-    if (query.token) {
-      await db.collection('sessions').doc(query.token).delete();
-      return { deletedCount: 1 };
-    }
-    let ref = db.collection('sessions');
-    for (const key in query) {
-      ref = ref.where(key, '==', query[key]);
-    }
-    const snap = await ref.get();
-    let deletedCount = 0;
-    const batch = db.batch();
-    snap.docs.forEach(doc => {
-      batch.delete(doc.ref);
-      deletedCount++;
-    });
-    await batch.commit();
-    return { deletedCount };
-  },
-  async updateOne(query, update) {
-    if (!db) throw new Error('Database not initialized');
-    if (!query.token) {
-      const session = await this.findOne(query);
-      if (!session) return { matchedCount: 0, modifiedCount: 0 };
-      query = { token: session.token };
-    }
-    const docRef = db.collection('sessions').doc(query.token);
-    if (update.$set) {
-      await docRef.set(update.$set, { merge: true });
-      return { matchedCount: 1, modifiedCount: 1 };
-    }
-    return { matchedCount: 1, modifiedCount: 0 };
-  },
-  async createIndex() {
-    return true;
-  }
-};
-
-let readyPromise = null;
-let dbReady = false;
-let dbInitError = null;
 
 function normalizeEmail(value) {
   return String(value || '').trim().toLowerCase();
@@ -184,70 +67,88 @@ function randomToken() {
   return crypto.randomBytes(32).toString('hex');
 }
 
-async function ensureReady() {
-  if (dbReady) return true;
-  if (!readyPromise) {
-    readyPromise = (async () => {
-      try {
-        if (!isFirebaseConfigured) {
-          throw new Error('Firebase environment variables are missing or incomplete.');
-        }
-        await db.collection('_health_check').limit(1).get();
-        dbReady = true;
-        dbInitError = null;
-        console.log('Firebase Firestore connected.');
-        return true;
-      } catch (error) {
-        dbReady = false;
-        dbInitError = error;
-        console.error('Firebase Firestore connection failed. Error:', error.message || error);
-        throw error;
-      } finally {
-        readyPromise = null;
-      }
-    })();
-  }
-  return readyPromise;
-}
-
-async function requireDb(res) {
-  try {
-    await ensureReady();
-    return true;
-  } catch (error) {
-    if (res) {
-      res.status(503).json({
-        error: 'Database unavailable',
-        detail: error.message || 'Connection failed',
-      });
+const users = {
+  async findOne(query) {
+    const mdb = getDb();
+    if (query.email) {
+      const doc = await mdb.collection('users').findOne({ email: query.email });
+      if (!doc) return null;
+      return doc;
     }
-    return false;
+    const doc = await mdb.collection('users').findOne(query);
+    return doc || null;
+  },
+  async insertOne(doc) {
+    const mdb = getDb();
+    const result = await mdb.collection('users').insertOne(doc);
+    return { insertedId: result.insertedId };
+  },
+  async updateOne(query, update) {
+    const mdb = getDb();
+    if (!query.email) {
+      const user = await this.findOne(query);
+      if (!user) return { matchedCount: 0, modifiedCount: 0 };
+      query = { email: user.email };
+    }
+    await mdb.collection('users').updateOne(query, update, { upsert: false });
+    return { matchedCount: 1, modifiedCount: 1 };
+  },
+  async createIndex() {
+    const mdb = getDb();
+    await mdb.collection('users').createIndex({ email: 1 }, { unique: true });
+    return true;
   }
-}
+};
 
-async function requireSession(req, res) {
-  const auth = String(req.headers.authorization || '');
-  const token = auth.startsWith('Bearer ') ? auth.slice(7).trim() : '';
-  if (!token) {
-    res.status(401).json({ error: 'Missing session token' });
-    return null;
+const sessions = {
+  async findOne(query) {
+    const mdb = getDb();
+    let filter = {};
+    if (query.token) {
+      filter.token = query.token;
+    }
+    for (const key in query) {
+      filter[key] = query[key];
+    }
+    const doc = await mdb.collection('sessions').findOne(filter);
+    return doc || null;
+  },
+  async insertOne(doc) {
+    const mdb = getDb();
+    const result = await mdb.collection('sessions').insertOne(doc);
+    return { insertedId: result.insertedId };
+  },
+  async deleteOne(query) {
+    const mdb = getDb();
+    if (query.token) {
+      const result = await mdb.collection('sessions').deleteOne({ token: query.token });
+      return { deletedCount: result.deletedCount };
+    }
+    const result = await mdb.collection('sessions').deleteMany(query);
+    return { deletedCount: result.deletedCount };
+  },
+  async updateOne(query, update) {
+    const mdb = getDb();
+    let filter = {};
+    if (query.token) {
+      filter.token = query.token;
+    }
+    for (const key in query) {
+      filter[key] = query[key];
+    }
+    if (update.$set) {
+      await mdb.collection('sessions').updateOne(filter, { $set: update.$set });
+      return { matchedCount: 1, modifiedCount: 1 };
+    }
+    return { matchedCount: 1, modifiedCount: 0 };
+  },
+  async createIndex() {
+    const mdb = getDb();
+    await mdb.collection('sessions').createIndex({ token: 1 }, { unique: true });
+    await mdb.collection('sessions').createIndex({ email: 1 });
+    return true;
   }
-
-  const session = await sessions.findOne({ token });
-  if (!session) {
-    res.status(401).json({ error: 'Invalid or expired session' });
-    return null;
-  }
-
-  const user = await users.findOne({ email: session.email });
-  if (!user) {
-    await sessions.deleteOne({ token });
-    res.status(401).json({ error: 'User not found' });
-    return null;
-  }
-
-  return { token, user: safeUser(user) };
-}
+};
 
 async function issueSession(user) {
   const token = randomToken();
@@ -258,6 +159,30 @@ async function issueSession(user) {
     updatedAt: new Date(),
   });
   return token;
+}
+
+async function requireSession(req, res) {
+  const auth = String(req.headers.authorization || '');
+  const token = auth.startsWith('Bearer ') ? auth.slice(7).trim() : '';
+  if (!token) {
+    res.status(401).json({ error: 'Thiếu mã phiên đăng nhập' });
+    return null;
+  }
+
+  const session = await sessions.findOne({ token });
+  if (!session) {
+    res.status(401).json({ error: 'Phiên đăng nhập không hợp lệ hoặc đã hết hạn' });
+    return null;
+  }
+
+  const user = await users.findOne({ email: session.email });
+  if (!user) {
+    await sessions.deleteOne({ token });
+    res.status(401).json({ error: 'Không tìm thấy người dùng' });
+    return null;
+  }
+
+  return { token, user: safeUser(user) };
 }
 
 app.post('/api/register', async (req, res) => {
@@ -349,13 +274,13 @@ app.get('/api/session', async (req, res) => {
     if (!(await requireDb(res))) return;
     const auth = String(req.headers.authorization || '');
     const token = auth.startsWith('Bearer ') ? auth.slice(7).trim() : '';
-    if (!token) return res.status(401).json({ error: 'Missing session token' });
+    if (!token) return res.status(401).json({ error: 'Thiếu mã phiên đăng nhập' });
 
     const session = await sessions.findOne({ token });
-    if (!session) return res.status(401).json({ error: 'Invalid or expired session' });
+    if (!session) return res.status(401).json({ error: 'Phiên đăng nhập không hợp lệ hoặc đã hết hạn' });
 
     const user = await users.findOne({ email: session.email });
-    if (!user) return res.status(401).json({ error: 'User not found' });
+    if (!user) return res.status(401).json({ error: 'Không tìm thấy người dùng' });
 
     await sessions.updateOne({ token }, { $set: { updatedAt: new Date() } });
     return res.json({ token, user: safeUser(user) });
@@ -399,7 +324,7 @@ app.put('/api/progress', async (req, res) => {
 
     const progress = req.body?.progress;
     if (!progress || typeof progress !== 'object' || Array.isArray(progress)) {
-      return res.status(400).json({ error: 'Progress payload không hợp lệ' });
+      return res.status(400).json({ error: 'Dữ liệu tiến độ không hợp lệ' });
     }
 
     const normalized = {
@@ -437,11 +362,12 @@ app.put('/api/progress', async (req, res) => {
 
 app.get('/health', async (_req, res) => {
   try {
-    await ensureReady();
-    await db.collection('_health_check').limit(1).get();
-    res.json({ ok: true, database: 'firestore' });
+    await ensureDbReady();
+    const mdb = getDb();
+    await mdb.collection('users').limit(1).get();
+    res.json({ ok: true, database: 'mongodb' });
   } catch (error) {
-    res.status(503).json({ ok: false, database: 'firestore', error: 'Database unavailable', detail: error.message || String(error) });
+    res.status(503).json({ ok: false, database: 'mongodb', error: 'Cơ sở dữ liệu không khả dụng', detail: error.message || String(error) });
   }
 });
 
@@ -465,5 +391,5 @@ app.get('/favicon.ico', (_req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server đang chạy trên http://localhost:${PORT}`);
 });
