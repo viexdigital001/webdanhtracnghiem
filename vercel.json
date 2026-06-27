@@ -8,7 +8,11 @@
   ],
   "routes": [
     {
-      "src": "/(api|health|questions.js)",
+      "src": "/api/(.*)",
+      "dest": "server.js"
+    },
+    {
+      "src": "/(health|questions.js|index.html)",
       "dest": "server.js"
     },
     {
