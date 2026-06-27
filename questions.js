@@ -276,4 +276,6 @@ const QUESTIONS = [
 {id:272,q:"Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Thao tác xa là thao tác?",opts:["A. Do nhân viên vận hành tại các cấp điều độ hoặc Trung tâm điều khiển gửi tín hiệu điều khiển từ xa để thay đổi trạng thái hoặc thông số vận hành các thiết bị điện trên đường dây, trạm điện, nhà máy điện qua hệ thống điều khiển và hệ thống thông tin, viễn thông","B. Do nhân viên vận hành tại trạm, nhà máy điều khiển gửi tín hiệu điều khiển từ xa để thay đổi trạng thái hoặc thông số vận hành các thiết bị điện tại trạm điện, nhà máy điện","C. Cả A & B","D. Không phương án nào đúng"],ans:0,explain:""},
 {id:273,q:"Theo Thông tư quy định điều độ, vận hành, thao tác, xử lý sự cố, khởi động đen và khôi phục HTĐ Quốc gia (TT số 06/2025/TT -BCT): Trong quá trình thao tác nếu có cảnh báo, trục trặc, bất thường, nhân viên vận hành phải thực hiện theo phương án nào",opts:["A. Báo cáo lãnh đạo đơn vị, xin ý kiến chỉ đạo","B. Báo cáo người ra lệnh biện pháp xử lý tình huống","C. Ngừng thao tác, xử lý xong mới thao tác tiếp","D. Phương án A, B"],ans:2,explain:""},
 ];
-module.exports = QUESTIONS;
+if (typeof exports === 'object' && typeof module !== 'undefined') {
+  module.exports = QUESTIONS;
+}

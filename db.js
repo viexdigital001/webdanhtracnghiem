@@ -1,8 +1,8 @@
 const { MongoClient } = require('mongodb');
 
-const MONGO_URI = 'mongodb+srv://root:123@cluster0.dzvcmsq.mongodb.net/test?appName=Cluster0';
+const MONGO_URI = 'mongodb+srv://root:123@cluster0.dzvcmsq.mongodb.net/?appName=Cluster0';
 
-const DB_NAME = 'demo_app';
+const DB_NAME = 'test';
 
 let client = null;
 let db = null;

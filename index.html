@@ -1273,6 +1273,11 @@ function selectOpt(qId, optIdx){
 ====================================================== */
 function submitPage(){
   const qs = currentQs;
+  if(!qs || !qs.length){
+    toast('Không có câu hỏi để chấm điểm');
+    return;
+  }
+
   const answered = Object.keys(pageAnswers).length;
 
   if(answered < qs.length){
@@ -1304,7 +1309,13 @@ function submitPage(){
   document.getElementById('submit-btn').disabled = true;
   document.getElementById('submit-btn').textContent = '✅ Đã chấm điểm';
   renderSidebar(qs, true);
-  showResultScreen(qs, correct, pct);
+
+  try {
+    showResultScreen(qs, correct, pct);
+  } catch (err) {
+    console.error('Lỗi hiển thị kết quả:', err);
+    toast('Có lỗi xảy ra khi hiển thị kết quả');
+  }
 }
 
 

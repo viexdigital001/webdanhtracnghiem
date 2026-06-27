@@ -5,3 +5,5 @@ node_modules
 test_firebase.js
 *.log
 web.zip
+*.xlsx
+process/sync_answers.py
