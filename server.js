@@ -390,6 +390,10 @@ app.get('/favicon.ico', (_req, res) => {
   res.status(204).end();
 });
 
-app.listen(PORT, () => {
-  console.log(`Server đang chạy trên http://localhost:${PORT}`);
-});
+module.exports = app;
+
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`Server đang chạy trên http://localhost:${PORT}`);
+  });
+}
